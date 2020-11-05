@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Leptospira mayottensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Leptospira mayottensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Leptospira mayottensis strain MDI222 plasmid p_Lmay_MDI222_tenre|Leptospira mayottensis 200901116 chromosome II|Leptospira mayottensis strain MDI222 chromosome II|Leptospira mayottensis strain MDI272 chromosome II|Leptospira mayottensis strain VS2413 chromosome II|Leptospira mayottensis strain VS2413 chromosome I|Leptospira mayottensis 200901116 chromosome I|Leptospira mayottensis strain MDI272 chromosome I|Leptospira mayottensis strain MDI272 plasmid p_Lmay_MDI272_tenre|Leptospira mayottensis 200901116 plasmid p2_L200901116|Leptospira mayottensis 200901116 plasmid p1_L200901116||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Leptospira mayottensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4378BC997086,~5922BC549265,~7211BC899543,~4172BC455706,~0265BC759349,~1819BC8795798,~5611BC7776289,~0068BC4318915,~7564BC17894,~6895BC60583,~0507BC77980,"
+"[/Preset]"

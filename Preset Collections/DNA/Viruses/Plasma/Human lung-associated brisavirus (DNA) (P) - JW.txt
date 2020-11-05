@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human lung-associated brisavirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human lung-associated brisavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human lung-associated brisavirus II|Human lung-associated brisavirus RC|Human lung-associated brisavirus AA|Human lung-associated brisavirus MD||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human lung-associated brisavirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4720BC7675,~2226BC4184,~3870BC5444,~5269BC2981,"
+"[/Preset]"

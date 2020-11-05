@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Candida jiufengensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Candida jiufengensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida jiufengensis mitochondrion|Candida jiufengensis strain AS2.3688 mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Candida jiufengensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1942BC80630,~9448BC34948,"
+"[/Preset]"

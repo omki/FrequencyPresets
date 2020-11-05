@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Neisseria mucosa (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Neisseria mucosa.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Neisseria mucosa strain FDAARGOS_758 chromosome|Neisseria mucosa strain ATCC 19696 chromosome|Neisseria mucosa strain FDAARGOS_260 chromosome|Neisseria mucosa subsp. heidelbergiensis NheI restriction-modification system||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Neisseria mucosa (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5180BC2854910,~9628BC3563610,~7124BC2450407,~8788BL3567,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human respiratory circular DNA virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human respiratory circular DNA virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human respiratory circular DNA virus isolate 15027|Human respiratory circular DNA virus isolate 15037|Human respiratory circular DNA virus isolate 15040|Human respiratory circular DNA virus isolate 15065|Human respiratory circular DNA virus isolate 15078|Human respiratory circular DNA virus isolate 15232|Human respiratory circular DNA virus isolate 15307||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human respiratory circular DNA virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9838BC0904,~1492BC4676,~2781BC5418,"
+"[/Preset]"

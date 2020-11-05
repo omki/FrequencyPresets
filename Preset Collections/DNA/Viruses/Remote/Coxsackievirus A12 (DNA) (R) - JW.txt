@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Coxsackievirus A12 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A12.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A12 isolate HEV16087564CA12|Coxsackievirus A12 isolate HEV16537821CA12|Coxsackievirus A12 isolate HEV786663|Coxsackievirus A12 strain QD-HDH507/SD/CHN/2011|Coxsackievirus A12 strain QD-LXH535/SD/CHN/2009|Human coxsackievirus A12 strain Texas-12||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Coxsackievirus A12 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~5210BL3484,~6609BL3191,~1056BL2004,"
+"[/Preset]"

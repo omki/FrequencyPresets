@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Rickettsia monacensis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia monacensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia monacensis plasmid pRM|Rickettsia monacensis strain IrR/Munich plasmid pRM|Rickettsia monacensis, strain IrR/Munich||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Rickettsia monacensis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1427BC25928,~5220BC04324,~0677BC9265296,"
+"[/Preset]"

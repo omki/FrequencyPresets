@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Mycobacterium smegmatis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium smegmatis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium smegmatis str. MC2 155|Mycobacterium smegmatis str. MC2 155|Mycobacterium smegmatis str. MC2 155|Mycobacterium smegmatis strain INHR2|Mycobacterium smegmatis strain INHR1|Mycobacterium smegmatis glycopeptidolipid locus||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Mycobacterium smegmatis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1078BC7878512,~3367BC2091836,~7705BC2091857,~5301BC7926952,~6965BC8949938,~8254BL31746,"
+"[/Preset]"

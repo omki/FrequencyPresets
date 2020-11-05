@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Paragonimus westermani (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Paragonimus westermani.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Paragonimus westermani complex sp. type 1 mitochondrion|Paragonimus westermani mitochondrion|Paragonimus westermani mitochondrion|Paragonimus westermani strain IND2009 mitochondrion||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Paragonimus westermani (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~5439BC64373,~0876BC64498,~7372BC37983,~8026BC89593,"
+"[/Preset]"

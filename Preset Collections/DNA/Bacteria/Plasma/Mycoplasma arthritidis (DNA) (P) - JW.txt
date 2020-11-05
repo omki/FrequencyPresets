@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Mycoplasma arthritidis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Mycoplasma arthritidis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycoplasma arthritidis 158L3-1|Mycoplasma arthritidis 158L3-1|Mycoplasma arthritidis bacteriophage MAV1||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Mycoplasma arthritidis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2712BC586815,~6424BC038872,~1862BL06704,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Novosphingobium aromaticivorans (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Novosphingobium aromaticivorans.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Novosphingobium aromaticivorans plasmid pNL1|Novosphingobium aromaticivorans DSM 12444 plasmid pNL1|Novosphingobium aromaticivorans DSM 12444|Novosphingobium aromaticivorans DSM 12444 plasmid pNL2||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Novosphingobium aromaticivorans (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4068BC828174,~3209BC008586,~7011BC8027666,~1459BC712279,"
+"[/Preset]"

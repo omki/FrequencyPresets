@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Primate bocaparvovirus 1 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Primate bocaparvovirus 1.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Primate bocaparvovirus 1 isolate HBoV1m6|Primate bocaparvovirus 1 isolate st2|Primate bocaparvovirus 1 isolate Salvador1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Primate bocaparvovirus 1 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4528BL6190,~6272BL1308,~0984BL7882,"
+"[/Preset]"

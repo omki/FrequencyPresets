@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Spumaretrovirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Spumaretrovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human spumaretrovirus|Human spumaretrovirus||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Spumaretrovirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9369BL25599,~0913BL0848,"
+"[/Preset]"

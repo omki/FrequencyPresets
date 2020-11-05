@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Mycoplasma genitalium (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Mycoplasma genitalium.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycoplasma genitalium M6282|Mycoplasma genitalium M6282|Mycoplasma genitalium M2288|Mycoplasma genitalium M2288|Mycoplasma genitalium M6320|Mycoplasma genitalium M6320|Mycoplasma genitalium M2321|Mycoplasma genitalium M2321|Mycoplasma genitalium G37|Mycoplasma genitalium G37||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Mycoplasma genitalium (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6832BC669274,~7486BC940878,~9775BC642446,~3112BC121405,~1718BC195133,~2362BC058089,~4651BC602925,"
+"[/Preset]"

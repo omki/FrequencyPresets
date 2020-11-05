@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Salmonella typhi (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Salmonella typhi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Salmonella enterica subsp. enterica serovar Typhi strain Salmonella Typhi strain Ty004 plasmid pTy004_02 plasmid pTy004_02|Salmonella enterica subsp. enterica serovar Typhi strain Salmonella Typhi Ty031 plasmid pTy031_01 plasmid pTy031_01|Salmonella enterica subsp. enterica serovar Typhi strain Salmonella Typhi Prophage STYP1|Salmonella enterica subsp. enterica serovar Typhi strain Salmonella Typhi Ty013 phage STYP2|Salmonella typhi R27 plasmid||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Salmonella typhi (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5105BC87213,~6859BC21695,~8149BL55515,~2586BL58816,~0182BC454453,"
+"[/Preset]"

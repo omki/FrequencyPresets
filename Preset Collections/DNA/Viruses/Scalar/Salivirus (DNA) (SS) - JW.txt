@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Salivirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Salivirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Salivirus A isolate 02394-01|Salivirus A isolate BN-2|Salivirus A isolate BN-5|Salivirus A strain YZ02|Salivirus A strain YZ01|Salivirus A strain YZ03|Salivirus A strain GUT/2009/A-1746|Salivirus A strain Hu/Baja-5332/2013/HUN|Salivirus CH|Salivirus NG-J1|Salivirus FHB||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Salivirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7958BL4740,~8502BL6890,~0891BL9087,~5349BL3931,~3834BL9241,~4498BL6713,~5887BL9858,~0225BL4149,~8721BL9153,~9475BL6948,~0764BL4201,"
+"[/Preset]"

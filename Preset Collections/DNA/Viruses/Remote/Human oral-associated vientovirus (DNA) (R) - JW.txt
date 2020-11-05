@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human oral-associated vientovirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human oral-associated vientovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human oral-associated vientovirus XM|Human oral-associated vientovirus AV|Human oral-associated vientovirus LZ|Human oral-associated vientovirus EC|Human oral-associated vientovirus MC||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human oral-associated vientovirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7367BC2924,~5853BC5066,~6417BC5411,~7706BC7699,~5666BC2966,"
+"[/Preset]"

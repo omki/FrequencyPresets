@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Escherichia coli ETEC (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Escherichia coli ETEC.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Escherichia coli ETEC 1392/75 plasmid p1018|Escherichia coli ETEC 1392/75 plasmid p1081|Escherichia coli ETEC H10407|Escherichia coli ETEC H10407 plasmid p52|Escherichia coli ETEC 1392/75 plasmid p557|Escherichia coli ETEC H10407 plasmid p58|Escherichia coli ETEC 1392/75 plasmid p62|Escherichia coli ETEC H10407 plasmid p666|Escherichia coli ETEC H10407 plasmid pEntH10407 DNA|Escherichia coli ETEC H10407 plasmid pEntH10407|Escherichia coli ETEC 1392/75 plasmid p746|Escherichia coli ETEC 1392/75 plasmid p75|Escherichia coli ETEC H10407 plasmid p948||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Escherichia coli ETEC (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3472BC513213,~4751BC099086,~9208BC6185435,~7704BC4917,~8358BC31365,~9747BC8770,~4185BC6370,~2680BC75452,~3334BC11874,~5623BC28392,~2484BC9456,~0080BC70956,"
+"[/Preset]"

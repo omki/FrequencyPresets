@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Clonorchis sinensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Clonorchis sinensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Clonorchis sinensis mitochondrion|Clonorchis sinensis isolate Cs-k2 mitochondrion|Clonorchis sinensis mitochondrion|Clonorchis sinensis from China mitochondrion|Clonorchis sinensis mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Clonorchis sinensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6516BC87129,~8805BC62434,~2353BC69598,~0848BC90352,"
+"[/Preset]"

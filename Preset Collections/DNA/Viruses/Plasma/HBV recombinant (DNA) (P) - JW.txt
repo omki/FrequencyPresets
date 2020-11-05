@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=HBV recombinant (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for HBV recombinant.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HBV recombinant C/G DNA, isolate: NAB46|HBV recombinant B/C DNA, isolate: NAB20|HBV recombinant A/E 18142-BUR DNA|HBV recombinant A/E 18311-BUR DNA|HBV recombinant B/C C170329 DNA|HBV recombinant B/C C170337 DNA|HBV recombinant B/C C170405 DNA|HBV recombinant B/C C172562 DNA|HBV recombinant B/C C174334c DNA|HBV recombinant B/C C174335m DNA|HBV recombinant B/C C174347c DNA|HBV recombinant B/C C174348m DNA|HBV recombinant B/C C171367 DNA||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=HBV recombinant (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5081BC4846,~7371BC5505,~4231BC4206,~2737BC8353,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human herpesvirus 8 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human herpesvirus 8.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human herpesvirus 8 strain DG1|Human herpesvirus 8 strain GK18|Human herpesvirus 8 DNA, strain: SPEL|Human herpesvirus 8 microRNA cluster||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human herpesvirus 8 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5382BL873207,~4513BL691385,~8326BL356949,~3763BL8136,"
+"[/Preset]"

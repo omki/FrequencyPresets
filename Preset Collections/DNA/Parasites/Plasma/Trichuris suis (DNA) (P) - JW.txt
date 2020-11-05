@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Trichuris suis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Trichuris suis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Trichuris suis mitochondrion|Trichuris suis mitochondrion|Trichuris suis mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Trichuris suis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8391BC64235,~6987BC60430,~7541BC07303,"
+"[/Preset]"

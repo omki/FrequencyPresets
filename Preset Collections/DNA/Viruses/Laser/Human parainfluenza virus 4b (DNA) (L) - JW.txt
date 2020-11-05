@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human parainfluenza virus 4b (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human parainfluenza virus 4b.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human parainfluenza virus 4b strain QLD-01|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/16-I4/2016|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/10H2/2016|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/SC3019/2015|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/16-J4/2016|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/SC9597/2019|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/11R2/2016|Human parainfluenza virus 4b strain 04-13|Human parainfluenza virus 4b viral cRNA, strain: 68-333|Human parainfluenza virus 4b isolate SKPIV4|Human parainfluenza virus 4b strain HPIV4b/Seattle/USA/SC0496/2019||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human parainfluenza virus 4b (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1496BL93626,~6834BL69126,~3330BL63447,~5084BL01562,~6373BL33265,~1710BL63418,~9316BL33216,~0960BL04405,~1259BL01777,~9020BL42551,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Polyomavirus HPyV7 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Polyomavirus HPyV7.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Polyomavirus HPyV7 isolate PITT2|Polyomavirus HPyV7 isolate 715b|Polyomavirus HPyV7 isolate 707a|Polyomavirus HPyV7 isolate 707b|Polyomavirus HPyV7 isolate 727a|Polyomavirus HPyV7 isolate 713a|Polyomavirus HPyV7 isolate 713b|Polyomavirus HPyV7 isolate PITT1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Polyomavirus HPyV7 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7352BC3852,~1154BC2947,~6502BC8229,~4097BC0272,~5751BC0847,"
+"[/Preset]"

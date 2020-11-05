@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Borreliella spielmanii (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Borreliella spielmanii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Borreliella spielmanii A14S plasmid A14S_cp26|Borreliella spielmanii A14S plasmid A14S_lp38|Borreliella spielmanii A14S plasmid A14S_lp28-8|Borreliella spielmanii A14S plasmid A14S_lp17|Borreliella spielmanii A14S plasmid A14S_lp28-3|Borreliella spielmanii A14S plasmid A14S_lp36|Borreliella spielmanii A14S plasmid A14S_lp28-4|Borreliella spielmanii A14S plasmid A14S_lp54||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Borreliella spielmanii (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~9911BC55039,~1200BL23558,~5758BL32761,~3243BL15502,~4807BL40251,~6196BL52497,~3057BL99908,~1543BL02980,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Chandipura virus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Chandipura virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Chandipura virus strain CH112|Chandipura virus strain CH157|Chandipura virus strain CH256|Chandipura virus strain I653514|Chandipura virus isolate CIN 0327|Chandipura virus isolate CIN 0451||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Chandipura virus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3381BL00368,~8839BL36688,~6324BL00386,~7988BL68750,"
+"[/Preset]"

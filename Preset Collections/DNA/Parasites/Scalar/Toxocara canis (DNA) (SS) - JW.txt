@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Toxocara canis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Toxocara canis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Toxocara canis mitochondrion|Toxocara canis mitochondrial genome|Toxocara canis mitochondrion|Toxocara canis mitochondrial DNA||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Toxocara canis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3943BC39752,~1804BC61725,~8300BC48520,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human polyomavirus 7 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human polyomavirus 7.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human polyomavirus 7 isolate BIO|Human polyomavirus 7 isolate MUQ|Human polyomavirus 7 isolate PLA1|Human polyomavirus 7 isolate PLA2|Human polyomavirus 7 isolate SKI|Human polyomavirus 7 isolate URI|Human polyomavirus 7 isolate UTSW7.1|Human polyomavirus 7 isolate CRC01|Human polyomavirus 7||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human polyomavirus 7 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~8227BC7414,~6823BC7414,~7477BC8379,~9766BC2923,~3213BC2130,"
+"[/Preset]"

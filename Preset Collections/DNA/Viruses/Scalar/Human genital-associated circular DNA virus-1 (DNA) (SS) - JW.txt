@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human genital-associated circular DNA virus-1 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human genital-associated circular DNA virus-1.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human genital-associated circular DNA virus-1 isolate 349||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human genital-associated circular DNA virus-1 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6747BC2597,"
+"[/Preset]"

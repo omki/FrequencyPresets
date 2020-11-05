@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=KI polyomavirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for KI polyomavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|KI polyomavirus Stockholm 350|KI polyomavirus Stockholm 380|KI polyomavirus Stockholm 60|KI polyomavirus isolate Brisbane 002|KI polyomavirus isolate Brisbane 003|KI polyomavirus isolate HN057|KI polyomavirus isolate NMKI001|KI polyomavirus strain FZ52|KI polyomavirus isolate Brisbane 001|KI polyomavirus isolate CU-258|KI polyomavirus isolate CU-255||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=KI polyomavirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2565BC4687,~4954BC1889,~8392BC1835,~6897BL1647,~7441BL6410,"
+"[/Preset]"

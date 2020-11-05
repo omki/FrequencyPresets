@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Echovirus E3 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E3.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E3 isolate Env_2016_Sep_E-3|Echovirus E3 isolate HNWY-01|Echovirus E3 strain 2-E6-TW|Echovirus E3 isolate 123-R2|Echovirus E3 genomic RNA, strain: OC10-380|Echovirus E3 genomic RNA, strain: OC10-448|Echovirus E3 genomic RNA, strain: OC10-478|Echovirus E3 genomic RNA, strain: OC10-487|Echovirus E3 genomic RNA, strain: OC10-492|Echovirus E3 genomic RNA, strain: OC10-540|Echovirus E3 genomic RNA, strain: OC10-571|Echovirus E3 genomic RNA, strain: OC10-731|Echovirus E3 genomic RNA, strain: OC10-774|Echovirus E3 genomic RNA, strain: OC10-798|Echovirus E3 isolate JSev001|Echovirus E3 genomic RNA, strain: OC10-532||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Echovirus E3 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3356BL4409,~1852BL2533,~9093BL3169,~4895BL1117,~8242BL2821,~6748BL6851,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Balamuthia mandrillaris (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Balamuthia mandrillaris.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Balamuthia mandrillaris strain CDC-V039 mitochondrion|Balamuthia mandrillaris strain V039 mitochondrion|Balamuthia mandrillaris strain GAM-19 mitochondrion|Balamuthia mandrillaris strain V188 mitochondrion|Balamuthia mandrillaris strain 2046 mitochondrion|Balamuthia mandrillaris strain 2046-1 mitochondrion|Balamuthia mandrillaris strain SAM mitochondrion|Balamuthia mandrillaris strain RP5 mitochondrion|Balamuthia mandrillaris strain BeN mitochondrion|Balamuthia mandrillaris strain V451 mitochondrion|Balamuthia mandrillaris strain OK1 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Balamuthia mandrillaris (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9406BC88726,~8637BC54447,~2349BC00946,~6786BC66712,~4382BC39088,~5936BC43868,~7225BC36998,~2773BC72564,~9268BC80769,"
+"[/Preset]"

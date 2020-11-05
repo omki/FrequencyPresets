@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=HBV genotype G (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for HBV genotype G.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HBV genotype G DNA, isolate: MEX921M|HBV genotype G DNA, isolate: HB-JI444GF|HBV genotype G DNA, isolate: MEX918M||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=HBV genotype G (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0610BC6421,~8215BC4541,~9869BC5443,"
+"[/Preset]"

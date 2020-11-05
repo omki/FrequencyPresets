@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Rhodococcus equi (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Rhodococcus equi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rhodococcus equi strain PAM1571 plasmid pVAPN1571|Rhodococcus equi plasmid pVAPB1593|Rhodococcus equi plasmid pREAT701 DNA|Rhodococcus equi strain MBE116 plasmid pVAPAMBE116|Rhodococcus equi strain PAM2012 plasmid pVAPN2012||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Rhodococcus equi (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~0270BC644850,~5618BC14597,~2213BC66619,~1454BC52207,~5157BL856423,"
+"[/Preset]"

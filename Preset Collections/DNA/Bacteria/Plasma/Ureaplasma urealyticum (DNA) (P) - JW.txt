@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Ureaplasma urealyticum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Ureaplasma urealyticum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ureaplasma urealyticum strain 132 chromosome|Ureaplasma urealyticum strain 315 chromosome|Ureaplasma urealyticum serovar 10 str. ATCC 33699|Ureaplasma urealyticum serovar 10 str. ATCC 33699||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Ureaplasma urealyticum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~6570BC351533,~0028BC364778,~8513BC711449,~9177BC127330,"
+"[/Preset]"

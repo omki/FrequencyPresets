@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Streptococcus oralis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus oralis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus oralis subsp. tigurinus DNA, strain: osk_001|Streptococcus oralis subsp. dentisani strain F0392 chromosome|Streptococcus oralis Uo5 sequence|Streptococcus oralis Uo5|Streptococcus oralis strain S.MIT/ORALIS-351|Streptococcus oralis strain FDAARGOS_367 chromosome|Streptococcus oralis subsp. tigurinus 2426 plasmid pST2426||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Streptococcus oralis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4336BC5348967,~9773BC7455751,~7379BC7483990,~8923BC9435405,~9212BC2645727,~4769BC3852,"
+"[/Preset]"

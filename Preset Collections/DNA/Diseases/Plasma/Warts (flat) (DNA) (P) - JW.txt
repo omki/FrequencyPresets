@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Warts (flat) (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data of micro-organisms associated with flat warts.||Flat warts are smooth, flat-topped, flesh- or brownish-yellow-colored bumps the size of a pinhead. They’re commonly found on the face, back of the hands, or legs, and tend to appear in large numbers. Flat warts are also called juvenile warts because they’re most commonly found in children and young adults. The warts are caused by a virus that’s contagious, but benign, and are usually are not painful.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 38 isolate S418|Human papillomavirus type 49|Human papillomavirus type 38|Human papillomavirus type 41|Human papillomavirus type 28||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Warts (flat) (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3035BC3882,~8482BC3100,~6988BL4463,~7532BL4761,~8921BL1485,"
+"[/Preset]"

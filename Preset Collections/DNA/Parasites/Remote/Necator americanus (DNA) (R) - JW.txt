@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Necator americanus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Necator americanus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Necator americanus mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Necator americanus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2575BC35790,"
+"[/Preset]"

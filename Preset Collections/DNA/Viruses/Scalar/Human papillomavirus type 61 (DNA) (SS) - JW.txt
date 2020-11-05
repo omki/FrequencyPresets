@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human papillomavirus type 61 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 61.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 61 isolate 58A.61|Human papillomavirus type 61 isolate 60B|Human papillomavirus type 61 isolate LNS7945397_HPV61|Human papillomavirus type 61 isolate Qv34041|Human papillomavirus type 61 isolate Rw43|Human papillomavirus type 61 isolate Rw62|Human papillomavirus type 61 isolate Rw66|Human papillomavirus type 61 isolate Qv2384|Human papillomavirus type 61 isolate Rw63|Human papillomavirus type 61 isolate Rw940|Human papillomavirus type 61 isolate Qv3721|Human papillomavirus type 61||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human papillomavirus type 61 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2950BC2467,~6662BC1411,~1000BC4640,~9605BC2002,~7836BC1106,~1549BL1351,"
+"[/Preset]"

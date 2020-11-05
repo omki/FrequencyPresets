@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Corynebacterium urealyticum (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Corynebacterium urealyticum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Corynebacterium urealyticum DSM 7111|Corynebacterium urealyticum DSM 7111|Corynebacterium urealyticum DSM 7109||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Corynebacterium urealyticum (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1637BC8798139,~6085BC4275502,~4671BC7577601,"
+"[/Preset]"

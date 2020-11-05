@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Alphapapillomavirus 3 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Alphapapillomavirus 3.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Alphapapillomavirus 3 isolate Alpha3_EV06c12b||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Alphapapillomavirus 3 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~9211BL5420,"
+"[/Preset]"

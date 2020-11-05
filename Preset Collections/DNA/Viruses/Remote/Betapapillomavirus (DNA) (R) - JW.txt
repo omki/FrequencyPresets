@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Betapapillomavirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Betapapillomavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Betapapillomavirus 1 isolate Beta01_m292c10|Betapapillomavirus 1 isolate Beta01_HIVGc36|Betapapillomavirus 1 isolate Beta01_w15c111|Betapapillomavirus 2 isolate Beta02_m292c14|Betapapillomavirus 2 isolate Beta02_TVMBSFc09|Betapapillomavirus 2 isolate Beta02_m090c09|Betapapillomavirus 2 isolate Beta02_LCOSOc207|Betapapillomavirus 2 isolate Beta02_m292c88|Betapapillomavirus 4 isolate Beta04_TVMGc2024|Betapapillomavirus 4 isolate Beta04_m292c100|Betapapillomavirus 5 isolate Beta05_EV03c09||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Betapapillomavirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2778BL7054,~3322BL9437,~5611BL2714,~9058BL3922,~7654BL3933,~8208BL9580,~0597BL3883,~4045BL2945,~2530BL9024,~3194BL4852,~5583BL3881,"
+"[/Preset]"

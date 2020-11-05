@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Enterovirus 68 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Enterovirus 68.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human enterovirus 68 isolate NZ-2010-541|Human enterovirus 68 isolate 37-99 from France|Human enterovirus 68 strain NYC403 from USA|Human enterovirus 68 strain Fermon||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Enterovirus 68 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9547BL6510,~4095BL9590,~2580BL6266,~0721BL9564,"
+"[/Preset]"

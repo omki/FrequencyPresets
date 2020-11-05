@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Azotobacter vinelandii (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Azotobacter vinelandii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Azotobacter vinelandii CA6|Azotobacter vinelandii CA6|Azotobacter vinelandii DJ|Azotobacter vinelandii DJ|Azotobacter vinelandii CA|Azotobacter vinelandii CA||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Azotobacter vinelandii (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4405BC0835035,~5059BC6425410,~6348BC7778928,~1885BC1025401,~9381BC7779903,"
+"[/Preset]"

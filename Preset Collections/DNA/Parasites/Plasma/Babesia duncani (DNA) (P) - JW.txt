@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Babesia duncani (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia duncani.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia duncani isolate WA-1 apicoplast|Babesia duncani isolate WA-1 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Babesia duncani (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4166BC59726,~2761BC6053,"
+"[/Preset]"

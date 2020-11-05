@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human adenovirus 14 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human adenovirus 14.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus 14 strain Gansu/DH01/2013|Human adenovirus 14 isolate CHN 2012|Human adenovirus 14 strain HAdV14-BJ430/CHN2010|Human adenovirus 14 isolate Ad14-303600|Human adenovirus 14 isolate HAdV-B/CHN/GZ02-6161/2010/14[P14H14F14]|Human adenovirus 14 isolate HAdV-B/CHN/GZ01/2010/14[P14H14F14]||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human adenovirus 14 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2200BL70251,~0441BL88981,~4143BL43364,~9690BL52258,~7196BL26433,~5327BL59136,"
+"[/Preset]"

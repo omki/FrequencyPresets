@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Thelazia callipaeda (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Thelazia callipaeda.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Thelazia callipaeda voucher HeN-LY1 mitochondrion|Thelazia callipaeda voucher HeN-PDS1 mitochondrion|Thelazia callipaeda voucher HeN-ZZ1 mitochondrion|Thelazia callipaeda mitochondrial DNA|Thelazia callipaeda mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Thelazia callipaeda (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~8470BC35725,~9024BC05458,~1313BC54649,~6860BC92845,"
+"[/Preset]"

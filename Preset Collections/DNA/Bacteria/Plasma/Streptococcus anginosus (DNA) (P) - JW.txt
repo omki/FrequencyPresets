@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Streptococcus anginosus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus anginosus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus anginosus C1051|Streptococcus anginosus C1051|Streptococcus anginosus strain J4211 chromosome|Streptococcus anginosus strain J4211|Streptococcus anginosus strain J4206 chromosome|Streptococcus anginosus strain J4206|Streptococcus anginosus strain SA1 chromosome|Streptococcus anginosus strain SA1|Streptococcus anginosus subsp. whileyi MAS624 DNA|Streptococcus anginosus C238|Streptococcus anginosus C238|Streptococcus anginosus subsp. anginosus plasmid pSAA0430-08 DNA, strain: 0430-08|Streptococcus anginosus subsp. anginosus strain 0430-08 plasmid pSAA0430-08||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Streptococcus anginosus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7370BC0051209,~8924BC0230869,~9213BC0955749,~4750BC8966286,~2256BC3185972,~3800BC6084551,~4299BC2590967,~9646BC6101,~7142BC3424,"
+"[/Preset]"

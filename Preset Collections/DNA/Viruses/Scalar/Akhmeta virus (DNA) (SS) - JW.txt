@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Akhmeta virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Akhmeta virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Akhmeta virus isolate Vani_2010|Akhmeta virus strain A39|Akhmeta virus strain A40|Akhmeta virus strain G66|Akhmeta virus isolate Akhmeta_2013-85|Akhmeta virus isolate Akhmeta_2013-88||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Akhmeta virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1114BL222121,~6652BL451232,~4158BL789333,~2388BL822944,~6191BL850236,~1538BL850212,"
+"[/Preset]"

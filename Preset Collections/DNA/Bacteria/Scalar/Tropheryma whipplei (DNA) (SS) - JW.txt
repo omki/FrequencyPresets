@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Tropheryma whipplei (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Tropheryma whipplei.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Tropheryma whipplei TW08/27|Tropheryma whipplei str. Twist|Tropheryma whipplei str. Twist||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Tropheryma whipplei (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3755BC800061,~7557BC426973,~2904BC839503,"
+"[/Preset]"

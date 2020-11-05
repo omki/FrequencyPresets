@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=New Jersey polyomavirus-2013 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for New Jersey polyomavirus-2013.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|New Jersey polyomavirus-2013 isolate NJ-PyV-2013||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=New Jersey polyomavirus-2013 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1818BC4994,"
+"[/Preset]"

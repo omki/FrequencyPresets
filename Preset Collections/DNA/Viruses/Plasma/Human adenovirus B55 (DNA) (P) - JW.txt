@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human adenovirus B55 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human adenovirus B55.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus B55 strain Tianjin/TJ01/2013|Human adenovirus B55 strain Liaoning/LS01/2013|Human adenovirus B55 strain Hebei/BD01/2012||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human adenovirus B55 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9939BL91827,~4477BL24472,~1972BL84911,"
+"[/Preset]"

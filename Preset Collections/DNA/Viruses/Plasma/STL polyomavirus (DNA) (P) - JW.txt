@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=STL polyomavirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for STL polyomavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|STL polyomavirus isolate 11ww|STL polyomavirus isolate HB124|STL polyomavirus isolate HB201|STL polyomavirus isolate QLD-13M6r|STL polyomavirus isolate Y57|STL polyomavirus strain WD972|STL polyomavirus strain MA138||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=STL polyomavirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1833BC1191,~6916BC7092,~7570BC7743,"
+"[/Preset]"

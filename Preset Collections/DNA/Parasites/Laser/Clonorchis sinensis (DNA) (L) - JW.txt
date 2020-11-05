@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Clonorchis sinensis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Clonorchis sinensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Clonorchis sinensis mitochondrion|Clonorchis sinensis isolate Cs-k2 mitochondrion|Clonorchis sinensis mitochondrion|Clonorchis sinensis from China mitochondrion|Clonorchis sinensis mitochondrion||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Clonorchis sinensis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~6516BC87129,~8805BC62434,~2353BC69598,~0848BC90352,"
+"[/Preset]"

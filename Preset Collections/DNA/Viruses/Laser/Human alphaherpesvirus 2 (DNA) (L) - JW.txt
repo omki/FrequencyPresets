@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human alphaherpesvirus 2 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human alphaherpesvirus 2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human alphaherpesvirus 2 sample 16|Human alphaherpesvirus 2 sample 19|Human alphaherpesvirus 2 sample 14|Human alphaherpesvirus 2 sample 08|Human alphaherpesvirus 2 isolate HSV2-H1227|Human alphaherpesvirus 2 isolate HSV2-H1226|Human alphaherpesvirus 2 isolate HSV2-H12211|Human alphaherpesvirus 2 isolate HSV2-H12212|Human alphaherpesvirus 2 strain MS|Human alphaherpesvirus 2 isolate HJ12||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human alphaherpesvirus 2 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~2965BL930006,~7312BL658332,~5818BL930401,~6562BL375423,~7851BL612452,~2299BL930940,~0794BL916877,~1448BL069496,~3737BL916544,~7185BL616406,"
+"[/Preset]"

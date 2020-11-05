@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Fusobacterium necrophorum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Fusobacterium necrophorum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Fusobacterium necrophorum subsp. funduliforme strain F1291 chromosome|Fusobacterium necrophorum subsp. funduliforme strain 1_1_36S chromosome|Fusobacterium necrophorum subsp. funduliforme strain F1260 chromosome|Fusobacterium necrophorum strain FDAARGOS_565 chromosome|Fusobacterium necrophorum subsp. necrophorum strain ATCC 25286 chromosome||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Fusobacterium necrophorum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4232BC6043099,~8779BC0250301,~6275BC5326141,~5416BC8216652,~9228BC8049000,"
+"[/Preset]"

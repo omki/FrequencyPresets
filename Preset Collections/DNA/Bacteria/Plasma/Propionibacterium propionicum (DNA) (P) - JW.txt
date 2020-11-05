@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Propionibacterium propionicum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Propionibacterium propionicum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Pseudopropionibacterium propionicum strain F0700 chromosome|Pseudopropionibacterium propionicum F0230a chromosome|Pseudopropionibacterium propionicum F0230a||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Propionibacterium propionicum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1509BC9759440,~2998BC0042176,~7345BC8429931,"
+"[/Preset]"

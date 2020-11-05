@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Bartonella bacilliformis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Bartonella bacilliformis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bartonella bacilliformis strain KC584 chromosome|Bartonella bacilliformis strain FDAARGOS_174 chromosome|Bartonella bacilliformis KC583||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Bartonella bacilliformis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~7975BC3530554,~9264BC6425456,~3701BC4801003,"
+"[/Preset]"

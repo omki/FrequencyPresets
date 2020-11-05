@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Dipylidium caninum (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Dipylidium caninum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Dipylidium caninum isolate R166 mitochondrion|Dipylidium caninum mitochondrion|Dipylidium caninum mitochondrial DNA, sample code: Dcan||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Dipylidium caninum (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3859BC17874,~8206BC50336,~6702BC03528,"
+"[/Preset]"

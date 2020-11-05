@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Mammalian 2 orthobornavirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Mammalian 2 orthobornavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mammalian 2 orthobornavirus strain BNI-2019||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Mammalian 2 orthobornavirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9789BL7803,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Echovirus 6 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus 6.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus 6 lytic strain|Human echovirus 6 strain Echo6/Henan/127/2008|Human echovirus 6 strain Echo6/Henan/116/2008|Human echovirus 6 strain FJLY2010327|Human echovirus 6 strain Charles|Human echovirus 6 strain D'Amori|Human parechovirus 6 isolate 71Chzj169|Human parechovirus 6 isolate SH6|Human parechovirus 6 genomic RNA, strain: NII561-2000||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Echovirus 6 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~9046BL1664,~0690BL6241,~4302BL5345,~9840BL3899,~7345BL1666,~5576BL9143,~9388BL9565,~4726BL1763,"
+"[/Preset]"

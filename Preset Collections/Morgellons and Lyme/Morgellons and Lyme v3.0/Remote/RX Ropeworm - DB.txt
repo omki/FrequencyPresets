@@ -1,0 +1,30 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\Healing (R) - JW"
+"PresetName=RX Ropeworm - DB"
+"Repeat_Sequence=20"
+"Repeat_Chain=1"
+"Out1_Amplitude=20"
+"Out1_Shadow_Hz_Factor=1"
+"Out2_Amplitude=20"
+"Preset_Notes=M&L Protocol, Extras. Remote Mode.
+
+Update: February 2017.
+
+This Preset runs 20 times over two hours. This is equivalent to one Contact Mode treatment.
+
+This program is already present in the 47th preset, Complex Parasites G - DB. However, these large parasites usually require additional treatments. This preset has been augmented with a high octave harmonic.
+
+PROGRAMS:
+Parasites Ropeworm XTRA
+
+Connect your Spooky Remote to the 'BN' port of Spooky Boost, or to the Out 1 port of your generator if you don't have Spooky Boost."
+"F1_Factor=64"
+"User_Defined_2_Waveform=Colloidal_Silver"
+"Manual_Start=False"
+"Enable_F2_Modulation=1"
+"Enable_Gate_Out1=1"
+"Enable_Invert_Spike_Waveform=1"
+"Notify_When_Zero_Hz=1"
+"Loaded_Programs=Parasites Ropeworm (XTRA)"
+"Loaded_Frequencies=1359=360,"
+"[/Preset]"

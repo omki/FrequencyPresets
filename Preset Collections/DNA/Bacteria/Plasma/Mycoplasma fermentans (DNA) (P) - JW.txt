@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Mycoplasma fermentans (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Mycoplasma fermentans.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycoplasma fermentans M64|Mycoplasma fermentans M64|Mycoplasma fermentans JER|Mycoplasma fermentans JER|Mycoplasma fermentans PG18||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Mycoplasma fermentans (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5660BC0367472,~3891BC6014386,~7503BC862984,~2040BL8230250,"
+"[/Preset]"

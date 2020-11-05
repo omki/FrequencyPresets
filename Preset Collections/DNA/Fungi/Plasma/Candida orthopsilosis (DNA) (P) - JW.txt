@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Candida orthopsilosis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Candida orthopsilosis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida orthopsilosis mitochondrion|Candida orthopsilosis strain MCO456 mitochondrion|Candida orthopsilosis strain IFM48386 telomeric minicircle|Candida orthopsilosis strain MCO471 telomeric minicircle; mitochondrial|Candida orthopsilosis strain IFM48364 telomeric minicircle|Candida orthopsilosis strain MCO471 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Candida orthopsilosis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7882BC37815,~4642BC84179,~2148BC546,~1489BC380,~5181BC793,~0539BL83397,"
+"[/Preset]"

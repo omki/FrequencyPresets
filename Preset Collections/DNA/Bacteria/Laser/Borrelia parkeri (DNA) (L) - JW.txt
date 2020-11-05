@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Borrelia parkeri (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Borrelia parkeri.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Borrelia parkeri HR1 chromosome|Borrelia parkeri HR1|Borrelia parkeri SLO chromosome|Borrelia parkeri SLO||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Borrelia parkeri (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~9135BL234794,~0424BL196748,~5862BL112563,~3467BL864349,"
+"[/Preset]"

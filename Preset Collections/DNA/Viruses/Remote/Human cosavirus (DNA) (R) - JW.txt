@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human cosavirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human cosavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human cosavirus A strain AM326/BRA-AM/2017|Human cosavirus E1|Human cosavirus isolate Cosavirus-zj-1|Human cosavirus B1|Human cosavirus D1|Human cosavirus isolate Cosavirus_Amsterdam_1994||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human cosavirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1509BL6937,~5202BL7602,~0659BL1392,~8245BL1578,~9809BL1207,~0198BL9254,"
+"[/Preset]"

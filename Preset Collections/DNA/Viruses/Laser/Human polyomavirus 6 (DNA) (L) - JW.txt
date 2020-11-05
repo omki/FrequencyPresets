@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human polyomavirus 6 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human polyomavirus 6.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human polyomavirus 6 isolate Bile-72|Human polyomavirus 6 isolate Bile-81|Human polyomavirus 6 isolate H6-cg-A2f.11|Human polyomavirus 6 isolate H6-cg-B159.4|Human polyomavirus 6 isolate H6-cg-U43.1|Human polyomavirus 6 isolate H6-cg-U43.3|Human polyomavirus 6 isolate QLD-49Br|Human polyomavirus 6 isolate QLD-61Br|Human polyomavirus 6 isolate UTSW6.1|Human polyomavirus 6 isolate HPyV6-LN1|Human polyomavirus 6||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human polyomavirus 6 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~2618BC3888,~7155BC0860,~5651BC3858,~3892BL7313,~7694BC4527,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Brugia malayi (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Brugia malayi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Brugia malayi mitochondrion|Wolbachia endosymbiont of Brugia malayi isolate TRS chromosome|Wolbachia endosymbiont strain TRS of Brugia malayi isolate wBm chromosome|Wolbachia endosymbiont strain TRS of Brugia malayi||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Brugia malayi (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4355BC08513,~3695BC0025681,~7398BC2026084,~2745BC8627217,"
+"[/Preset]"

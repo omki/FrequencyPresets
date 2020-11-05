@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Haemophilus parasuis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Haemophilus parasuis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Haemophilus parasuis plasmid pFZ51|Haemophilus parasuis SH0165|Haemophilus parasuis ZJ0906|Haemophilus parasuis strain F4.1 plasmid pJMA-1|Haemophilus parasuis strain PM5-4 plasmid pJMA-1|Haemophilus parasuis plasmid pTetHS016|Haemophilus parasuis strain YC0093 plasmid pYC93|Haemophilus parasuis strain D4.3 plasmid pB1000|Haemophilus parasuis strain NU5-3 plasmid pB1000|Haemophilus parasuis plasmid pHS-Tet|Haemophilus parasuis strain HN7061 plasmid pHN61|Haemophilus parasuis strain FS39 plasmid pFS39|Haemophilus parasuis strain QY431 plasmid pQY431|Haemophilus parasuis plasmid pHS-Rec||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Haemophilus parasuis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8605BC37146,~3142BC5978375,~0648BC7532279,~2292BC3676,~3681BC5284,~8038BC7274,~6534BC0565,~7188BC3606,~8577BC1050,~6338BC1640,~3834BC9140,~2164BC4451,"
+"[/Preset]"

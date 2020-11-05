@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Musca domestica (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Musca domestica.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Musca domestica salivary gland hypertrophy virus|Musca domestica isolate A311_BR mitochondrion|Musca domestica isolate A312_BR mitochondrion|Musca domestica isolate AJ01_SG mitochondrion|Musca domestica isolate AJ02_SG mitochondrion|Musca domestica isolate AJ03_SG mitochondrion|Musca domestica isolate AJ04_SG mitochondrion|Musca domestica isolate AJ05_SG mitochondrion|Musca domestica isolate AJ11_SG mitochondrion|Musca domestica isolate P07_US mitochondrion|Musca domestica isolate P08_US mitochondrion|Musca domestica isolate P12_US mitochondrion|Musca domestica isolate P13_US mitochondrion|Musca domestica isolate DF68_BR mitochondrion|Musca domestica mitochondrion|Musca domestica mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Musca domestica (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8419BC926897,~6915BC64108,~5256BC80589,~9958BC18179,~4306BC61229,~1991BC96529,~2555BC02789,"
+"[/Preset]"

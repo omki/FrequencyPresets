@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Rickettsia raoultii (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia raoultii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia raoultii strain Khabarovsk plasmid pRra1|Rickettsia raoultii strain Khabarovsk plasmid pRra3|Rickettsia raoultii strain Khabarovsk plasmid pRra2||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Rickettsia raoultii (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~6827BC39420,~1364BC40192,~9860BC75411,"
+"[/Preset]"

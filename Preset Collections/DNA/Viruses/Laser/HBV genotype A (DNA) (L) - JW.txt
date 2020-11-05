@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=HBV genotype A (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for HBV genotype A.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HBV genotype A B-371-Ban DNA|HBV genotype A B-437-Ban DNA|HBV genotype A B-494-Ban DNA|HBV genotype A AON DNA|HBV genotype A B-065-Ban DNA|HBV genotype A B-094-Ban DNA|HBV genotype A B-112-Ban DNA|HBV genotype A B-330-Ban DNA|HBV genotype A B-408-Ban DNA|HBV genotype A B-421-Ban DNA|HBV genotype A B-504-Ban DNA|HBV genotype A B-H06-Ban DNA|HBV genotype A DNA, isolate: HB-JI444AF|HBV genotype A proviral DNA||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=HBV genotype A (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~6670BC8074,~7224BC9349,~8613BC5916,~3060BC8983,~1556BL5895,"
+"[/Preset]"

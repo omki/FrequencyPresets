@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Spirometra erinaceieuropaei (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Spirometra erinaceieuropaei.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Spirometra erinaceieuropaei mitochondrion|Spirometra erinaceieuropaei mitochondrial DNA|Spirometra erinaceieuropaei voucher HeN-ZZ mitochondrion|Spirometra erinaceieuropaei mitochondrial DNA|Spirometra erinaceieuropaei mitochondrion|Spirometra erinaceieuropaei voucher JS-ZJ mitochondrion|Spirometra erinaceieuropaei voucher HN-WZS mitochondrion|Spirometra erinaceieuropaei voucher SC-LS mitochondrion|Spirometra erinaceieuropaei||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Spirometra erinaceieuropaei (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~2777BC04382,~0363BC34605,~1927BC35799,~5629BC95542,~0177BC05419,~8672BC04624,"
+"[/Preset]"

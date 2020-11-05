@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human associated porprismacovirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human associated porprismacovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human associated porprismacovirus 3 isolate 16806x66_213|Human associated porprismacovirus isolate 17488x45_1790|Human associated porprismacovirus 2 isolate SF2|Human associated porprismacovirus isolate 16845x3_952||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human associated porprismacovirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1217BC6434,~2961BC7989,~3250BC5048,~8607BC8024,"
+"[/Preset]"

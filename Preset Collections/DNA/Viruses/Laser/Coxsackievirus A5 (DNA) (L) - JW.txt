@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Coxsackievirus A5 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A5.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A5 isolate CV-A5|41143|RUS|2011 genome assembly: monopartite|Coxsackievirus A5 strain CVA5/13164/HUN/2015|Coxsackievirus A5 strain USA/2014-23300|Coxsackievirus A5 strain USA/2014-23301|Coxsackievirus A5 isolate CV-A5/P74/2013/China|Coxsackievirus A5 isolate CV-A5/P836/2013/China|Coxsackievirus A5 isolate CV-A5/P99/2013/China|Coxsackievirus A5|Human coxsackievirus A5 strain Swartz|Human coxsackievirus A5 strain CVA5/SD/CHN/09||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Coxsackievirus A5 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~8857BL3940,~6353BL4878,~4583BL1213,~8396BL1168,~3733BL2807,~1239BL6486,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Sporothrix schenckii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Sporothrix schenckii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Sporothrix schenckii mitochondrial DNA, strain: KMU2052|Sporothrix schenckii mitochondrial DNA, strain: ATCC 10268|Sporothrix schenckii mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Sporothrix schenckii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1525BC97647,~2189BC59161,~4579BC39759,"
+"[/Preset]"

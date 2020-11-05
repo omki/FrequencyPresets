@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Leptospira weilii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Leptospira weilii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Leptospira weilii strain CUD13 chromosome II|Leptospira weilii strain CUDO6 chromosome II|Leptospira weilii strain CUDO6 chromosome I|Leptospira weilii strain CUD13 chromosome I|Leptospira weilii strain CUDO6 plasmid pDO6|Leptospira weilii strain CUD13 plasmid pD13||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Leptospira weilii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0224BC851122,~1613BC839788,~6051BC4980674,~4556BC7448889,~5200BC89314,~7590BC18483,"
+"[/Preset]"

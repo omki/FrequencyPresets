@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Aspergillus parasiticus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Aspergillus parasiticus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Aspergillus parasiticus strain E1337 mitochondrion|Aspergillus parasiticus mitochondrion|Aspergillus parasiticus strain E1443 mitochondrion|Aspergillus parasiticus strain E1348 mitochondrion|Aspergillus parasiticus strain E1365 mitochondrion|Aspergillus parasiticus strain E1319 mitochondrion|The sequence of an Aspergillus parasiticus cosmid containing spermidine synthase||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Aspergillus parasiticus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5799BC09893,~9501BC32353,~4949BC37192,~2444BC29238,~3098BC58306,~4488BC23208,~9835BL41922,"
+"[/Preset]"

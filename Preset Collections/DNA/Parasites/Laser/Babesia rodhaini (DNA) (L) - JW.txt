@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Babesia rodhaini (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia rodhaini.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia rodhaini apicoplast DNA, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-I, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-II, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-III, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-IV, strain: Australian||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Babesia rodhaini (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~0067BC76667,~4769BL8951,~9117BL6214,"
+"[/Preset]"

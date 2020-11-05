@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human papillomavirus type 62 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 62.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 62 isolate 101A.62|Human papillomavirus type 62 isolate LNS4251545_HPV62|Human papillomavirus type 62 isolate LNS6249536_HPV62|Human papillomavirus type 62 isolate LNS7798956_HPV62|Human papillomavirus type 62 isolate Qv18091||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human papillomavirus type 62 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8017BC0004,~6613BC0004,~7267BC0276,"
+"[/Preset]"

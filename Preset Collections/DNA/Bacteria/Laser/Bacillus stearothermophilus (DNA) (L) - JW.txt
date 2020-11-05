@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Bacillus stearothermophilus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Bacillus stearothermophilus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Geobacillus stearothermophilus 10 plasmid|Geobacillus stearothermophilus 10 chromosome|Geobacillus stearothermophilus plasmid pTB19|Geobacillus stearothermophilus plasmid pSTK1 DNA|Geobacillus stearothermophilus plasmid pSTK1|Geobacillus stearothermophilus strain B5 chromosome|Geobacillus stearothermophilus strain DSM 458 chromosome|Geobacillus stearothermophilus strain DSM 458|Geobacillus stearothermophilus 10|Geobacillus stearothermophilus plasmid pGS18||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Bacillus stearothermophilus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3082BC95673,~8420BC4696924,~6026BC05343,~7680BC6713,~9969BC5217967,~6839BC5589437,~4325BC68159,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Mycobacterium abscessus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium abscessus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium abscessus subsp. bolletii 50594 plasmid 1|Mycobacterium abscessus ATCC 19977 plasmid pMAB23|Mycobacterium abscessus plasmid|Mycobacterium abscessus subsp. massiliense str. GO 06|Mycobacterium abscessus subsp. bolletii CCUG 48898 = JCM 15300 DNA|Mycobacterium abscessus subsp. bolletii 50594|Mycobacterium abscessus ATCC 19977 chromosome|Mycobacterium abscessus chromosome|Mycobacterium abscessus strain NOV0213|Mycobacterium abscessus UC22|Mycobacterium abscessus subsp. bolletii F1725 plasmid BRA100|Mycobacterium abscessus subsp. bolletii 50594 plasmid 2|Mycobacterium abscessus subsp. bolletii INCQS 00594 plasmid pMAB01||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Mycobacterium abscessus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9066BC690686,~4503BC19802,~2009BC2774508,~3653BC3845613,~4942BC6099223,~9489BC1684093,~7985BC3369115,~8539BC9071237,~9928BC63270,~4376BC88579,~2871BL40036,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human fecal virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human fecal virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human fecal virus Jorvi3|Human fecal virus Jorvi4|Human fecal virus Tarto|Human fecal virus Jorvi2||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human fecal virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4681BC3164,~9028BC4243,~6624BC5895,~8278BC4721,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Borrelia recurrentis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Borrelia recurrentis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Borrelia recurrentis A1 plasmid pl124|Borrelia recurrentis A1 plasmid pl23|Borrelia recurrentis A1 plasmid pl33|Borrelia recurrentis A1 plasmid pl35|Borrelia recurrentis A1 plasmid pl37|Borrelia recurrentis A1 plasmid pl53|Borrelia recurrentis A1 plasmid pl6|Borrelia recurrentis A1||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Borrelia recurrentis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~0306BL664204,~2695BL53432,~9456BL50832,~7051BL71223,~5282BL54185,~9995BL35602,~4332BL8351,~2938BL856744,"
+"[/Preset]"

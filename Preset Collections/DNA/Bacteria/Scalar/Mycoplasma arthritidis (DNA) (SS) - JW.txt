@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Mycoplasma arthritidis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Mycoplasma arthritidis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycoplasma arthritidis 158L3-1|Mycoplasma arthritidis 158L3-1|Mycoplasma arthritidis bacteriophage MAV1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Mycoplasma arthritidis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2712BC586815,~6424BC038872,~1862BL06704,"
+"[/Preset]"

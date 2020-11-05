@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Ureaplasma parvum (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Ureaplasma parvum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ureaplasma parvum strain hebnu3h05 chromosome|Ureaplasma parvum strain hebnu3h07 chromosome|Ureaplasma parvum strain hebnu uu3 chromosome|Ureaplasma parvum serovar 3 DNA, strain: SV3F4|Ureaplasma parvum serovar 3 OMC-P162 DNA|Ureaplasma parvum strain hebnu3h04 chromosome|Ureaplasma parvum strain hebnu1229 chromosome|Ureaplasma parvum strain 106 chromosome|Ureaplasma parvum serovar 3 str. ATCC 27815|Ureaplasma parvum serovar 3 str. ATCC 700970||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Ureaplasma parvum (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~6692BC902413,~5933BC173143,~9636BC789849,~3083BC356695,~1689BC754622,~2233BC955567,~4522BC256234,~9069BC700959,~6565BC317945,~8119BC183985,"
+"[/Preset]"

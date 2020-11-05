@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Psoriasis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data of micro-organisms associated with psoriasis.||Psoriasis is a skin disorder that causes skin cells to multiply up to 10 times faster than normal. This makes the skin build up into bumpy red patches covered with white scales. They can grow anywhere, but most appear on the scalp, elbows, knees, and lower back.||Untreated psoriasis can lead to plaques that continue to build and spread. These can be quite painful, and the itching can be severe.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human herpesvirus 8 strain DG1|Human herpesvirus 8 strain GK18|Human herpesvirus 8 DNA, strain: SPEL|Human herpesvirus 8 microRNA cluster||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Psoriasis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9913BL956673,~0567BL877799,~2856BL620016,~9717BL5675,"
+"[/Preset]"

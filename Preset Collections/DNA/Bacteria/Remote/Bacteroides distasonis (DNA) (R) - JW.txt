@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Bacteroides distasonis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Bacteroides distasonis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Parabacteroides distasonis ATCC 8503|Parabacteroides distasonis ATCC 8503|Parabacteroides distasonis strain FDAARGOS_759 chromosome|Parabacteroides distasonis strain CavFT-hAR46 chromosome|Parabacteroides distasonis NBRC 113806 DNA|Parabacteroides distasonis strain CBBP-1 chromosome||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Bacteroides distasonis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4459BC7477245,~8261BC3013281,~3609BC0860098,~1104BC0075922,~2858BC1540950,~3147BC5569279,"
+"[/Preset]"

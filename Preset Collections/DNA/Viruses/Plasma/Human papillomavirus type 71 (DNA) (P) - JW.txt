@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human papillomavirus type 71 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 71.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 71 DNA|Human papillomavirus type 71 isolate Qv22792|Human papillomavirus type 71 isolate Qv22945|Human papillomavirus type 71 isolate 451|Human papillomavirus type 71 isolate Qv21030|Human papillomavirus type 71 isolate Qv23143||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human papillomavirus type 71 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1936BC5854,~2580BC7635,~3979BC1925,~1740BC5021,~6823BC5817,"
+"[/Preset]"

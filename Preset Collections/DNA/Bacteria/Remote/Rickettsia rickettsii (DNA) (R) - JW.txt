@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Rickettsia rickettsii (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia rickettsii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia rickettsii str. Brazil|Rickettsia rickettsii str. R|Rickettsia rickettsii str. Arizona|Rickettsia rickettsii str. Iowa|Rickettsia rickettsii str. Iowa|Rickettsia rickettsii str. Hauke|Rickettsia rickettsii str. Morgan|Rickettsia rickettsii str. Hino|Rickettsia rickettsii str. Colombia|Rickettsia rickettsii str. Hlp#2|Rickettsia rickettsii str. 'Sheila Smith'||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Rickettsia rickettsii (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1890BC8513888,~3189BC6364001,~7637BC0359853,~5132BC4977857,~6786BC2220072,~8075BC9577875,~2513BC4978738,~0019BC2166650,~1663BC5730882,~3052BL2153406,"
+"[/Preset]"

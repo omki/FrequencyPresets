@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Leptospira tipperaryensis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Leptospira tipperaryensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Leptospira tipperaryensis strain GWTS #1 chromosome 1|Leptospira tipperaryensis strain GWTS#1 chromosome 1|Leptospira tipperaryensis strain GWTS #1 chromosome 2|Leptospira tipperaryensis strain GWTS#1 chromosome 2||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Leptospira tipperaryensis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9152BC3969673,~0441BC2011435,~5889BC567168,~3485BC053784,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Simkania negevensis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Simkania negevensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Simkania negevensis Z plasmid pSn|Simkania negevensis Z plasmid pSn|Simkania negevensis Z chromosome gsn.131|Simkania negevensis Z main chromosome||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Simkania negevensis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7948BC392928,~8692BC170929,~0981BC7900923,~7752BC8875439,"
+"[/Preset]"

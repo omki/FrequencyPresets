@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Bartonella vinsonii (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Bartonella vinsonii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bartonella vinsonii subsp. berkhoffii str. Winnie|Bartonella vinsonii subsp. berkhoffii str. Winnie||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Bartonella vinsonii (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9097BC1461310,~0386BC0582209,"
+"[/Preset]"

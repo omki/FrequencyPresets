@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human pegivirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human pegivirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human pegivirus isolate JD2B7I|Human pegivirus isolate LE-1|Human pegivirus isolate BUR-19955|Human pegivirus isolate MAU-23|Human pegivirus isolate JD2B15C|Human pegivirus genotype 1 isolate BRA-2015-17|Human pegivirus isolate JD2B9I|Human pegivirus isolate GBV-C-ZJ-180501|Human pegivirus isolate JD2B8C|Human pegivirus isolate NIG-N3559|Human pegivirus isolate JD2B3C|Human pegivirus isolate JD2B1I|Human pegivirus isolate JD2B2C|Human pegivirus isolate MAL-13279|Human pegivirus genotype 2 isolate H40048||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human pegivirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~3361BL5853,~1866BL1264,~2410BL5666,~4800BL7497,~8257BL8977,~6743BL8797,~7407BL2377,~9796BL5420,~3133BL1967,~1739BL8676,~2383BL9307,~4672BL0295,~1533BL7275,~6615BL2054,~7279BL2276,"
+"[/Preset]"

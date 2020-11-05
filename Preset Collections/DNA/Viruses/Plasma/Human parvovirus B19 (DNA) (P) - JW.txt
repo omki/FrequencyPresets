@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human parvovirus B19 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human parvovirus B19.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human parvovirus B19 isolate 3rd_WHO_IRP|Human parvovirus B19 strain HZ1|Human parvovirus B19 isolate KU1|Human parvovirus B19 DNA, isolate: F27|Human parvovirus B19 isolate AA-01|Human parvovirus B19, isolate C39 from in-vitro culture|Human parvovirus B19, isolate C39 from plasma|Human parvovirus B19 isolate AA-04|Human parvovirus B19 isolate BX1|Human parvovirus B19 isolate BX2|Human parvovirus B19 isolate KU11|Human parvovirus B19 isolate KU12|Human parvovirus B19 isolate KU2|Human parvovirus B19 isolate KU3|Human parvovirus B19 isolate KU4|Human parvovirus B19 isolate KU5|Human parvovirus B19 isolate KU8|Human parvovirus B19||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human parvovirus B19 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0545BL7647,~8876BL3152,~2588BL1884,~7935BL3191,~5521BL0624,~3762BL4333,~8474BL1307,"
+"[/Preset]"

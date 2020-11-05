@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Australian bat lyssavirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Australian bat lyssavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Australian bat lyssavirus isolate H2|Australian bat lyssavirus|Australian bat lyssavirus isolate 1510|Australian bat lyssavirus isolate 2430|Australian bat lyssavirus isolate 2549|Australian bat lyssavirus isolate 2566|Australian bat lyssavirus isolate QA032|Australian bat lyssavirus isolate QA010|Australian bat lyssavirus isolate QA016|Australian bat lyssavirus isolate QA018|Australian bat lyssavirus isolate QA019|Australian bat lyssavirus isolate QA020|Australian bat lyssavirus isolate QA021|Australian bat lyssavirus isolate QA024|Australian bat lyssavirus isolate QA029|Australian bat lyssavirus isolate QA030|Australian bat lyssavirus isolate QA031|Australian bat lyssavirus||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Australian bat lyssavirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~8398BL36412,~6529BL99215,~0331BL06572,~5779BL36168,~3274BL58879,~1415BL46814,"
+"[/Preset]"

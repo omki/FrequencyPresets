@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Aspergillus flavus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Aspergillus flavus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Aspergillus flavus strain SU-16 mitochondrion|Aspergillus flavus strain E1345 mitochondrion|Aspergillus flavus strain E1201 mitochondrion|Aspergillus flavus strain E1406 mitochondrion|Aspergillus flavus strain E1275 mitochondrion|Aspergillus flavus strain E1402 mitochondrion|Aspergillus flavus strain E1404 mitochondrion|Aspergillus flavus strain E1293 mitochondrion|Aspergillus flavus strain E1445 mitochondrion|Aspergillus flavus strain E1316 mitochondrion|Aspergillus flavus strain E1376 mitochondrion|Aspergillus flavus strain E1288 mitochondrion|Aspergillus flavus strain E1236 mitochondrion|Aspergillus flavus strain TCM2014 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Aspergillus flavus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4874BC32787,~5428BC48633,~0231BC79337,~4678BC34751,~2174BC29293,~1405BC54057,~5117BC29270,~9554BC30469,~7150BC99301,~8704BC48858,~0093BC18897,~5441BC29638,~2046BC18906,~3690BC59028,"
+"[/Preset]"

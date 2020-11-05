@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Enterococcus gallinarum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Enterococcus gallinarum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Enterococcus gallinarum strain FDAARGOS_728 chromosome|Enterococcus gallinarum strain A6981 plasmid pA6981|Enterococcus gallinarum strain FDAARGOS_163 chromosome||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Enterococcus gallinarum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5164BC4596845,~9876BC97366,~4314BC4250517,"
+"[/Preset]"

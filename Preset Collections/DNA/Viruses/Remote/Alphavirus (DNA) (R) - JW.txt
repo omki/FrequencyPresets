@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Alphavirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Alphavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Agua Salud alphavirus strain PA-2013-MP416|Agua Salud alphavirus strain PA-2013-MP416-PP|Alphavirus M1|Comber alphavirus isolate 12ITT-210.14|Mwinilunga alphavirus Zmq16mw21 genomic RNA|Salmonid alphavirus subtype 3 isolate SAV3-4-SF/10|Salmonid alphavirus subtype 3 isolate SAV3-5-H/10|Salmonid alphavirus subtype 3 isolate SAV3-8-R/10|Salmonid alphavirus subtype 3 isolate SAV3-1-T/10|Salmonid alphavirus subtype 3 isolate SAV3-7-R/09|Salmonid alphavirus subtype 3 isolate SAV3-2-MR/10|Salmonid alphavirus subtype 3 isolate SAV3-3-MR/10|Salmonid alphavirus subtype 3 isolate SAV3-6-H/10|Salmonid alphavirus subtype 3 isolate SAV3-9-R/10|Salmonid alphavirus subtype 3 isolate H10|Tai Forest alphavirus strain C21-CI-2004||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Alphavirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7378BL12838,~8932BL99471,~9211BL60249,~4768BL12664,~2264BL05484,~3818BL99161,~4207BL60713,~2068BL58299,~0563BL05343,~8894BL51728,~2507BL05204,~7944BL97044,"
+"[/Preset]"

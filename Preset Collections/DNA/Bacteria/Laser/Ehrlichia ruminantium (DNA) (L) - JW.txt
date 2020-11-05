@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Ehrlichia ruminantium (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Ehrlichia ruminantium.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ehrlichia ruminantium strain Springbokfontein5 chromosome|Ehrlichia ruminantium str. Gardel|Ehrlichia ruminantium strain Springbokfontein1 chromosome|Ehrlichia ruminantium strain Springbokfontein7 chromosome|Ehrlichia ruminantium strain Nonile chromosome|Ehrlichia ruminantium strain Grootvallei chromosome|Ehrlichia ruminantium strain Springbokfontein4 chromosome|Ehrlichia ruminantium str. Welgevonden|Ehrlichia ruminantium str. Welgevonden|Ehrlichia ruminantium strain Welgevonden|Ehrlichia ruminantium strain Gardel Map1 cluster||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Ehrlichia ruminantium (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3107BC4831876,~7909BC1672530,~2357BC0606206,~0853BC5469520,~8183BC9186228,~2896BC1833964,~7233BC0103704,~5839BC1831416,~6483BC6157217,~8772BL22510,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human smacovirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human smacovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human smacovirus 1 isolate Oregon/8/2011/Portland/D56|Human smacovirus 1 isolate Orgeon/8/2011/Portland/D53|Human smacovirus 1 isolate Virginia/12/2011/Albemarle/G16|Human smacovirus 1 isolate Virginia/2/2012/Albemarle/5I17|Human smacovirus 1 isolate France/3/2009/4191|Human smacovirus 1 isolate France/1/2009/3663|Human smacovirus 1 isolate Virginia/2/2012/Chesapeake/J23|Human smacovirus 1 isolate France/12/2008/3454|Human smacovirus 1 isolate France/6/2008/2871|Human smacovirus 1 isolate Oregon/6/2011/GottageGrove/B3|Human smacovirus 1 isolate Oregon/6/2011/GottageGrove/B45|Human smacovirus 1 isolate Virginia/1/2012/Mecklenburg/H19|Human smacovirus 1 isolate France/8/2008/2449|Human smacovirus 1 isolate France/1/2008/2610|Human smacovirus 1 isolate France/3/2008/2623|Human smacovirus 1 isolate France/4/2009/4265|Human smacovirus 1 isolate France/2/2008/2548|Human smacovirus 1 isolate Virginia/2/2012/Middlesex/I22||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human smacovirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3150BC0013,~8508BC8831,~6003BC0015,~7757BC3871,~8046BC7967,~3484BC4719,~1080BC0023,~2634BC3058,~3923BC8071,~8470BC4702,~6976BC7634,"
+"[/Preset]"

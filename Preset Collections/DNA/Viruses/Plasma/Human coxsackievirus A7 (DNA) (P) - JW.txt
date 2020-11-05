@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human coxsackievirus A7 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human coxsackievirus A7.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus A7 isolate Parker|Human coxsackievirus A7 isolate ET1080|Human coxsackievirus A7 isolate USSR|Human coxsackievirus A7 strain LEV8|Human coxsackievirus A7 strain Parker|Human coxsackievirus A7 isolate 275/58||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human coxsackievirus A7 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8883BL0403,~9537BL7093,~1827BL9423,"
+"[/Preset]"

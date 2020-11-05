@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Orthohepevirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Orthohepevirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Orthohepevirus A isolate NG/17-0503|Orthohepevirus A isolate 14-16753|Orthohepevirus A isolate 14-22707|Orthohepevirus A isolate 15-22016|Orthohepevirus A strain MXCDg3_B1_2016|Orthohepevirus B|Orthohepevirus C isolate RdHEVEm40/LuXi/2014|Orthohepevirus C isolate RdHEVEm67/LuXi/2014|Orthohepevirus C isolate RdHEVAc86/LiJiang/2015|Orthohepevirus C isolate RdHEVAc14/LiJiang/2015|Orthohepevirus C strain LA-B350|Orthohepevirus C strain HEV 17/1683|Orthohepevirus D isolate BtHEVMd2350|Orthohepevirus D isolate BatHEV/BS7/GE/2009||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Orthohepevirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6789BL8506,~1126BL9772,~9722BL1783,~7963BL6619,~2665BL2804,~6113BL7292,~4618BL2034,~5262BL4810,~7651BL2092,~1099BL2012,~9595BL5048,~0249BL4640,~2538BL6691,"
+"[/Preset]"

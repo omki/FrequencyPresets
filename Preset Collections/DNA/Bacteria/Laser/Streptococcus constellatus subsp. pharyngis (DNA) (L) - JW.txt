@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Streptococcus constellatus subsp. pharyngis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus constellatus subsp. pharyngis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus constellatus subsp. pharyngis C232|Streptococcus constellatus subsp. pharyngis C232|Streptococcus constellatus subsp. pharyngis C818|Streptococcus constellatus subsp. pharyngis C818|Streptococcus constellatus subsp. pharyngis C1050|Streptococcus constellatus subsp. pharyngis C1050||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Streptococcus constellatus subsp. pharyngis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~5644BC3137720,~6033BC3156117,~4894BC1329375,~9976BC1970849,~0630BC6011375,"
+"[/Preset]"

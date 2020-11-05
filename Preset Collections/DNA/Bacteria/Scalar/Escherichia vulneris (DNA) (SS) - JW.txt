@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Escherichia vulneris (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Escherichia vulneris.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Escherichia vulneris strain DSM 4564 origin of replication oriC||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Escherichia vulneris (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4419BL723,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Trypanosoma brucei gambiense (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Trypanosoma brucei gambiense.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Trypanosoma brucei gambiense DAL972 chromosome 6|Trypanosoma brucei gambiense DAL972 chromosome 5|Trypanosoma brucei gambiense DAL972 chromosome 4|Trypanosoma brucei gambiense DAL972 chromosome 3|Trypanosoma brucei gambiense DAL972 chromosome 9|Trypanosoma brucei gambiense DAL972 chromosome 7|Trypanosoma brucei gambiense DAL972 chromosome 8|Trypanosoma brucei gambiense DAL972 chromosome 10|Trypanosoma brucei gambiense DAL972 chromosome 11|Trypanosoma brucei gambiense DAL972 chromosome 1|Trypanosoma brucei gambiense DAL972 chromosome 2||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Trypanosoma brucei gambiense (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1283BL0536987,~2572BL5508690,~7919BL7251093,~5515BL5053536,~6169BL5119190,~7458BL2508366,~2906BL8536121,~0401BL7424556,~1055BL2627558,~5868BL020457,~0205BL896683,"
+"[/Preset]"

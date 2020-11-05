@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Coxsackievirus A4 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A4.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A4 strain 1-E9-CA4|Coxsackievirus A4 isolate A1/Taian/SD/2018|Coxsackievirus A4 strain USA/TN/2015-OB2038|Coxsackievirus A4 isolate 1047/SH/CHN/2010|Coxsackievirus A4 isolate 701/SH/CHN/2010|Coxsackievirus A4 isolate 01/Taian/SD/2017|Coxsackievirus A4 isolate 105/Taian/SD/2017|Coxsackievirus A4 isolate CV-A4/2016/HFMD/104|Coxsackievirus A4 isolate CV-A4/2016/HFMD/305|Coxsackievirus A4 isolate CV-A4/P1033/2013/China|Coxsackievirus A4 isolate CV-A4/2018/HFMD/792|Coxsackievirus A4 isolate CV-A4/2018/herpangina/16|Coxsackievirus A4 isolate CV-A4/2018/herpangina/25|Coxsackievirus A4 isolate CV-A4/2018/herpangina/31|Coxsackievirus A4 isolate CV-A4/2018/herpangina/8|Coxsackievirus A4 isolate 06/Taian/SD/2017|Human coxsackievirus A4 strain CVA4/SZ/CHN/09|Human coxsackievirus A4 strain High Point||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Coxsackievirus A4 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7721BL4412,~8385BL7512,~9674BL1007,~4112BL3360,~2618BL4864,~3262BL2942,~5651BL4850,~9098BL1173,~7594BL6885,~8248BL3524,~2950BL2818,"
+"[/Preset]"

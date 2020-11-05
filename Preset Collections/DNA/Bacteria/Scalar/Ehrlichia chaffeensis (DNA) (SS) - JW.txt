@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Ehrlichia chaffeensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Ehrlichia chaffeensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ehrlichia chaffeensis str. West Paces|Ehrlichia chaffeensis str. Heartland|Ehrlichia chaffeensis str. Saint Vincent|Ehrlichia chaffeensis str. Wakulla|Ehrlichia chaffeensis str. Osceola|Ehrlichia chaffeensis str. Liberty|Ehrlichia chaffeensis str. Arkansas|Ehrlichia chaffeensis str. Arkansas|Ehrlichia chaffeensis str. Jax||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Ehrlichia chaffeensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3674BC9979995,~7111BC2335667,~5617BC3693636,~6261BC0016510,~8650BC3698000,~3098BC9972275,~0593BC0336443,~1257BC0011673,"
+"[/Preset]"

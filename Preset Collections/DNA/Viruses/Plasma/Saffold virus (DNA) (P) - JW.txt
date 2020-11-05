@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Saffold virus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Saffold virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Saffold virus isolate SAFV-3_NL1999-590|Saffold virus isolate SAFV-3_NL2007-2686|Saffold virus isolate SAFV-3_NL2005-1035|Saffold virus isolate SAFV-3_NL2007-2690|Saffold virus polyprotein|Saffold virus strain BCH1031|Saffold virus isolate SAFV-3-Maynas-Loreto-Peru-2012|Saffold virus strain Can112051-06 adapted|Saffold virus strain Penang|Saffold virus strain JPN08-404|Saffold virus||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Saffold virus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5101BL3851,~3707BL4265,~4351BL2154,~5640BL7691,~3501BL4168,~8683BL5984,~9247BL0227,~3940BL0010,~8497BL1918,~6993BL4777,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Haemophilus ducreyi (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Haemophilus ducreyi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Haemophilus ducreyi strain ATCC 27722 plasmid pNAD1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Haemophilus ducreyi (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5836BC1638,"
+"[/Preset]"

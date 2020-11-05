@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Anaplasma phagocytophilum (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Anaplasma phagocytophilum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Anaplasma phagocytophilum HZ|Anaplasma phagocytophilum str. HZ|Anaplasma phagocytophilum str. HZ2|Anaplasma phagocytophilum str. JM|Anaplasma phagocytophilum str. Norway variant2 chromosome|Anaplasma phagocytophilum str. Norway variant1 strain Norway Variant 1 chromosome|Anaplasma phagocytophilum, str. Norway variant1 chromosome||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Anaplasma phagocytophilum (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4914BC8063118,~2510BC5060311,~3164BC0334340,~4453BC5076748,~2314BC2901556,~0819BC8388381,~8040BC3946009,"
+"[/Preset]"

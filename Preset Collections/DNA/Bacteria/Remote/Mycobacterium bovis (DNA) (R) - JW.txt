@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Mycobacterium bovis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium bovis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium bovis BCG str. ATCC 35743|Mycobacterium bovis strain 30|Mycobacterium bovis BCG str. Moreau RDJ|Mycobacterium bovis strain SP38|Mycobacterium bovis BCG str. Mexico|Mycobacterium bovis BCG strain 26|Mycobacterium bovis strain 1595|Mycobacterium bovis BCG strain Russia 368|Mycobacterium bovis strain BCG-1 (Russia)|Mycobacterium bovis BCG str. Tokyo 172 DNA|Mycobacterium bovis BCG Pasteur 1173P2|Mycobacterium bovis BCG str. Korea 1168P|Mycobacterium bovis BCG strain 3281||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Mycobacterium bovis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0144BC2457954,~7005BC0557810,~2188BC7521879,~3742BC3588968,~8444BC0435555,~2991BC9517259,~0497BC0433608,~8628BC8120596,~3430BC0919963,~7878BC5287067,~5373BC0204762,~6027BC1772871,~8316BC0437656,"
+"[/Preset]"

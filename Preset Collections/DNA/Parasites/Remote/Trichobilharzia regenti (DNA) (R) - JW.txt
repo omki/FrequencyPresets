@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Trichobilharzia regenti (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Trichobilharzia regenti.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Trichobilharzia regenti mitochondrial DNA|Trichobilharzia regenti mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Trichobilharzia regenti (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9615BC64220,~3163BC61217,"
+"[/Preset]"

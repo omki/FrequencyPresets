@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human associated gemykibivirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human associated gemykibivirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human associated gemykibivirus 2 isolate 87B|Human associated gemykibivirus 2 strain LV-dog/Paraiba/Brazil|Human associated gemykibivirus 1 isolate 30A|Human associated gemykibivirus 1 isolate DB2||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human associated gemykibivirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1706BC2007,~5418BC7899,~9856BC7037,~7451BL8551,"
+"[/Preset]"

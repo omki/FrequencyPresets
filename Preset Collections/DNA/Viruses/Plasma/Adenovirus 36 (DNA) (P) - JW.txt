@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Adenovirus 36 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Adenovirus 36.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus 36 from USA|Simian adenovirus 36||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Adenovirus 36 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2726BL57231,~7174BL85119,"
+"[/Preset]"

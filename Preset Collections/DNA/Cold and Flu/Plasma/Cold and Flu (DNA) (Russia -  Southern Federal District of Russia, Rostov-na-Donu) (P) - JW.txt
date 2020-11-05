@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Cold and Flu (DNA) (Russia -  Southern Federal District of Russia, Rostov-na-Donu) (P) - JW"
+"Preset_Notes=This preset holds localized, country-specific genome data for active viruses which cause the common cold and the flu (influenza). Choose the countries closest to where you live.||The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose. The throat, sinuses, and larynx may also be affected. Signs and symptoms may appear less than two days after exposure to the virus.||Influenza is a viral infection that attacks your respiratory system — your nose, throat and lungs. Influenza is commonly called the flu, but it's not the same as stomach 'flu' viruses that cause diarrhea and vomiting. For most people, influenza resolves on its own. But sometimes, influenza and its complications can be deadly.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|'Enterovirus A71 strain Rostov'||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Cold and Flu (DNA) (Russia -  Southern Federal District of Russia, Rostov-na-Donu) (P) - JW (CUST)"
+"Loaded_Frequencies=~3149B4410,"
+"[/Preset]"

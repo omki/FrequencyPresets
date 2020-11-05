@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Ctenocephalides (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Ctenocephalides.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ctenocephalides felis isolate EL2017-DRISC mitochondrion|Wolbachia endosymbiont of Ctenocephalides felis wCfeJ chromosome|Wolbachia endosymbiont of Ctenocephalides felis wCfeT chromosome||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Ctenocephalides (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9318BC86543,~4590BC8569880,~5144BC0318394,"
+"[/Preset]"

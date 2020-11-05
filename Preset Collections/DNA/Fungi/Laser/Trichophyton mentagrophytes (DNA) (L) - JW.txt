@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Trichophyton mentagrophytes (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Trichophyton mentagrophytes.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Trichophyton mentagrophytes strain TIMM 2789 mitochondrion|Trichophyton mentagrophytes mitochondrion|Trichophyton mentagrophytes strain BMU 03104 mitochondrion||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Trichophyton mentagrophytes (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3188BC54791,~1684BC47531,~2238BC30303,"
+"[/Preset]"

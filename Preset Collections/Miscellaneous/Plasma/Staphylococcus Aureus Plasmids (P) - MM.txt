@@ -1,0 +1,30 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW.txt"
+"Gate_On_Off_Duration_Option=True"
+"PresetName=Staphylococcus Aureus Plasmids (P) - MM"
+"Preset_Notes=Staphylococcus Aureus Plasmids Plasma preset. By Manuel Mallo
+
+Attached you can find two very hopeful links:
+https://www.advancedtissue.com/the-link-between-staph-infection-and-diabetes/
+http://www.iflscience.com/health-and-medicine/type-2-diabetes-might-be-caused-your-bacteria/
+
+It makes perfect sense, so I have prepared two presets for this lethal creature.
+
+The first one runs for 192 hours (8 days), so it is for remote mode only. Staphylococcus Aureus Stepped Sweep(R) - MM.
+
+The second one is for the plasmids inside the bug, and runs for 45 minutes, so I have prepared a preset for contact mode, remote mode, and also for plasma.
+Staphylococcus Aureus Plasmids presets.
+
+The first preset also covers the Methicillin-resistant Staphylococcus Aureus (MRSA), so it would also be helpful for people not suffering only from diabetes2.
+
+I have noticed several herxs as the program progresses, so when this happens, write down the program step so you can repeat it, if necessary.
+The programs are a bit long, but definitely they worth the time to complete them.
+
+You can run detox sets on another generator 24/7. Proper hydration is a must.
+
+Place the plasma tube near to, or touching, your body. Ensure the plasma tube has free ventilation.
+
+Connect Out 1 to Spooky Plasma/Spooky Plasma Input. Out 2 to Spooky Plasma/Spooky Plasma Modulation."
+"Loaded_Programs=MM_Staphylococcus aureus Plasmids (CUST)"
+"Loaded_Frequencies=11424283.618=180,12212514.976=180,10709098.968=180,9107358.863=180,9656101.885=180,10709098.968=180,8175531.080=180,8869808.145=180,8242017.708=180,9506561.467=180,9509324.354=180,10146938.314=180,13654709.799=180,12464709.799=180,12884638.419=180,"
+"[/Preset]"

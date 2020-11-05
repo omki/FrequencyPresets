@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia prowazekii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia prowazekii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia prowazekii str. Breinl|Rickettsia prowazekii str. Breinl|Rickettsia prowazekii str. Chernikova|Rickettsia prowazekii str. BuV67-CWPP|Rickettsia prowazekii str. Katsinyian|Rickettsia prowazekii str. NMRC Madrid E|Rickettsia prowazekii str. NMRC Madrid E|Rickettsia prowazekii str. Madrid E|Rickettsia prowazekii Rp22|Rickettsia prowazekii str. Rp22|Rickettsia prowazekii strain Naples-1 chromosome|Rickettsia prowazekii str. GvV257|Rickettsia prowazekii str. RpGvF24||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia prowazekii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1071BC6431585,~9667BC3699962,~0221BC1031205,~2510BC5230396,~7958BC5133410,~4553BC0360909,~6107BC0589173,~7497BC2513850,~4357BC3601082,~2853BC8999007,~1094BC0585007,"
+"[/Preset]"

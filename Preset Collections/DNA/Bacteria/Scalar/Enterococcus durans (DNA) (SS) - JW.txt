@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Enterococcus durans (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Enterococcus durans.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Enterococcus durans strain KLDS 6.0933 chromosome|Enterococcus durans strain KLDS6.0933|Enterococcus durans strain KLDS 6.0930 chromosome|Enterococcus durans strain KLDS 6.0930|Enterococcus durans strain BDGP3 chromosome|Enterococcus durans plasmid pMK8|Enterococcus durans strain 1-8 plasmid pMK8|Enterococcus durans strain BDGP3 plasmid pEdBDGP3A|Enterococcus durans strain VREdu plasmid pSULI|Enterococcus durans plasmid pGL|Enterococcus durans strain 41D plasmid pGL||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Enterococcus durans (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9536BC3280756,~1825BC8559004,~5363BC8263657,~3869BC3798130,~4413BC4477,~6802BC6143,~1249BC76252,~8745BC1540,~9499BC9210,"
+"[/Preset]"

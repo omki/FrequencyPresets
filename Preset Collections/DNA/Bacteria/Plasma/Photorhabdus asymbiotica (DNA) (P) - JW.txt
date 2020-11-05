@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Photorhabdus asymbiotica (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Photorhabdus asymbiotica.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Photorhabdus asymbiotica ATCC43949 plasmid pPAU1|Photorhabdus asymbiotica plasmid pPAU1|Photorhabdus asymbiotica ATCC43949|Photorhabdus asymbiotica plasmid pPAA3, strain Kingscliff|Photorhabdus asymbiotica||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Photorhabdus asymbiotica (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8636BC30526,~6231BC18411,~7895BC3506638,~8174BL53578,~3622BC0946108,"
+"[/Preset]"

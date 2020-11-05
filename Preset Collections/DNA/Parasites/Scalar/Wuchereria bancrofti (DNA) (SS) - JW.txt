@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Wuchereria bancrofti (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Wuchereria bancrofti.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Wuchereria bancrofti mitochondrion|Wuchereria bancrofti isolate TWG2008 mitochondrion|Wuchereria bancrofti mitochondrion|Wuchereria bancrofti mitochondrion|Wuchereria bancrofti mitochondrial DNA||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Wuchereria bancrofti (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8645BC04657,~6976BC39337,~1688BC04624,~5036BC04460,"
+"[/Preset]"

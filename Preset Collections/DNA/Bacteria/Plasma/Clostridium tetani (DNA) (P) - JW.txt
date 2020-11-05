@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Clostridium tetani (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Clostridium tetani.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Clostridium tetani E88|Clostridium tetani E88|Clostridium tetani 12124569 main chromosome|Clostridium tetani 12124569|Clostridium tetani strain Mfbjulcb2 chromosome|Clostridium tetani 12124569 plasmid p12124569|Clostridium tetani 12124569, plasmid p12124569|Clostridium tetani E88 plasmid pE88||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Clostridium tetani (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3519BC7370240,~1015BC2924597,~0356BC2790451,~4058BC8251548,~8405BC17507,~6001BC31620,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=COVID-19 Coinfections (DNA) (P) - JW"
+"Preset_Notes=The co-existence of coronavirus with chlamydophila pneumoniae is a major cause of fatalities.||Chlamydia pneumonia' is present in several heart patients, and around 10 per cent of the general population in the dormant stage.||When COVID-19 attacks a person, a process of blood coagulation initiates in pulmonary arteries leading to a cardiac arrest or Hypoxia in which the patient succumbs to the dual diseases.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Chlamydophila pneumoniae TW-183|Chlamydophila pneumoniae AR39|Chlamydophila pneumoniae CWL029|Chlamydophila pneumoniae LPCoLN||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=COVID-19 Coinfections (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3984BC9323484,~8166BC6337973,~9710BC0429599,~4423BC6300030,"
+"[/Preset]"

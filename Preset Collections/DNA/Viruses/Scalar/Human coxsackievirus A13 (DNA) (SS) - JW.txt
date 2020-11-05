@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human coxsackievirus A13 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human coxsackievirus A13.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus A13 strain BAN00-10494|Human coxsackievirus A13 strain BAN00-10564|Human coxsackievirus A13 strain BAN99-10419|Human coxsackievirus A13 strain BAN00-10562|Human coxsackievirus A13 strain BAN99-10430|Human coxsackievirus A13 strain Flores|Human coxsackievirus A13 strain USA/Ca98-10615|Human coxsackievirus A13 strain BAN01-10637|Human coxsackievirus A13 strain ARG98-10613|Human coxsackievirus A13 strain AUS89-10611|Human coxsackievirus A13 strain ARG98-10614|Human coxsackievirus A13 isolate CV-A13_67900|Human coxsackievirus A13 isolate CV-A13_67001|Human coxsackievirus A13 isolate CV-A13_68145|Human coxsackievirus A13 isolate CV-A13_68095||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human coxsackievirus A13 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9215BL4813,~7710BL6464,~5941BL1631,~9654BL7037,~4191BL6453,~2697BL7080,~3241BL9095,~5630BL3744,~9087BL7054,"
+"[/Preset]"

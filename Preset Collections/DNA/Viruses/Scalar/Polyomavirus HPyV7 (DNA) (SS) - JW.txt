@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Polyomavirus HPyV7 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Polyomavirus HPyV7.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Polyomavirus HPyV7 isolate PITT2|Polyomavirus HPyV7 isolate 715b|Polyomavirus HPyV7 isolate 707a|Polyomavirus HPyV7 isolate 707b|Polyomavirus HPyV7 isolate 727a|Polyomavirus HPyV7 isolate 713a|Polyomavirus HPyV7 isolate 713b|Polyomavirus HPyV7 isolate PITT1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Polyomavirus HPyV7 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7352BC3852,~1154BC2947,~6502BC8229,~4097BC0272,~5751BC0847,"
+"[/Preset]"

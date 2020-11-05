@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human parainfluenza virus 2 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human parainfluenza virus 2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human parainfluenza virus 2 isolate VIROAF10|Human parainfluenza virus 2 genomic RNA|Human parainfluenza virus 2 strain GREER|Human parainfluenza virus 2 strain V94|Human parainfluenza virus 2 strain V98||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human parainfluenza virus 2 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9391BL93428,~3093BL01512,~8541BL83804,"
+"[/Preset]"

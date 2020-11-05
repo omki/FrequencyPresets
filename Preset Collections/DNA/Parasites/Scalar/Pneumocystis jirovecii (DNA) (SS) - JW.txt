@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Pneumocystis jirovecii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Pneumocystis jirovecii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Pneumocystis jirovecii isolate DK07_25kb mitochondrion|Pneumocystis jirovecii isolate IT918_25kb mitochondrion|Pneumocystis jirovecii isolate Ar_25kb mitochondrion|Pneumocystis jirovecii isolate S567_25kb mitochondrion|Pneumocystis jirovecii isolate Pj_R68 mitochondrion|Pneumocystis jirovecii isolate GR5_full mitochondrion|Pneumocystis jirovecii isolate SW1_full mitochondrion|Pneumocystis jirovecii isolate SW4_full mitochondrion|Pneumocystis jirovecii isolate YS mitochondrion|Pneumocystis jirovecii isolate GR11b_full mitochondrion|Pneumocystis jirovecii isolate CH26_full mitochondrion|Pneumocystis jirovecii isolate Pj_1368 mitochondrion|Pneumocystis jirovecii isolate SW7_full mitochondrion|Pneumocystis jirovecii mitochondrion|Pneumocystis jirovecii isolate Pj_WI mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Pneumocystis jirovecii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1706BC23364,~5419BC47438,~0856BC47392,~7452BC77928,~6693BC50207,~0395BC57927,~5842BC81050,~3348BC51797,~4992BC56022,~5281BC43443,~0729BC51683,~8224BC43670,~9878BC51922,~0268BC43854,"
+"[/Preset]"

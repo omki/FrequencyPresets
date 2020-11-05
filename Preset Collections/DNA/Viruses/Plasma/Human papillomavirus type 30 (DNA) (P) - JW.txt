@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human papillomavirus type 30 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 30.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 30 isolate 110A.30|Human papillomavirus type 30 isolate LNS6893423_HPV30|Human papillomavirus type 30 isolate Qv00510|Human papillomavirus type 30 isolate Qv27356|Human papillomavirus type 30 isolate Rw85|Human papillomavirus type 30 isolate Qv26381|Human papillomavirus type 30 isolate Rw046|Human papillomavirus type 30 isolate Rw20|Human papillomavirus type 30 isolate Rw933|Human papillomavirus type 30 isolate LNS0328678_HPV30|Human papillomavirus type 30 isolate Qv03085|Human papillomavirus type 30 isolate Qv19092|Human papillomavirus type 30 isolate Qv31356|Human papillomavirus type 30 isolate Qv32716|Human papillomavirus type 30 isolate Rw060|Human papillomavirus type 30 isolate Rw063|Human papillomavirus type 30 isolate Rw120||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human papillomavirus type 30 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0708BC6764,~8304BC6702,~9958BC4978,~3660BC6714,~8107BC2175,"
+"[/Preset]"

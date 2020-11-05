@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Olsenella uli (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Olsenella uli.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Olsenella uli DSM 7084|Olsenella uli DSM 7084||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Olsenella uli (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3576BC8691722,~7914BC8691722,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Aspergillus tubingensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Aspergillus tubingensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Aspergillus tubingensis WU-2223L mitochondrial DNA|Aspergillus tubingensis mitochondrion|Aspergillus tubingensis strain 0932 mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Aspergillus tubingensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3157BC45232,~1653BC98510,~2307BC44484,"
+"[/Preset]"

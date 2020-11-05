@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Borreliella valaisiana (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Borreliella valaisiana.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Borreliella valaisiana VS116 plasmid VS116_cp32-5|Borreliella valaisiana Tom4006 plasmid cp26|Borreliella valaisiana VS116 plasmid VS116_cp26|Borreliella valaisiana VS116 plasmid VS116_cp32-2-7|Borreliella valaisiana VS116 plasmid VS116_cp32-10|Borreliella valaisiana VS116 plasmid VS116_cp9|Borreliella valaisiana VS116 plasmid VS116_lp28-8|Borreliella valaisiana VS116 plasmid VS116_lp17|Borreliella valaisiana VS116 plasmid VS116_lp36|Borreliella valaisiana VS116 plasmid VS116_lp25|Borreliella valaisiana VS116 plasmid VS116_lp54|Borreliella valaisiana Tom4006 plasmid lp54|Borreliella valaisiana VS116 plasmid VS116_lp28-3|Borreliella valaisiana Tom4006 chromosome||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Borreliella valaisiana (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2477BC52665,~6289BC35757,~0627BC36541,~8122BC92559,~7463BC59435,~1166BC1844,~6513BL07950,~3009BL12180,~4763BL52304,~6052BL78148,~1499BL11926,~9095BL11937,~0649BL53342,~1938BL116793,"
+"[/Preset]"

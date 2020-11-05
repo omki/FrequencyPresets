@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Astroviridae (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Astroviridae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Astroviridae sp. isolate tom152ast2|Astroviridae sp. isolate spa143ast1|Astroviridae sp. isolate sru051ast1|Astroviridae sp. isolate ybw202ast01|Astroviridae sp. isolate ybb150ast01|Astroviridae sp. isolate war204ast1|Astroviridae sp. isolate stc111ast1|Astroviridae sp. isolate ytb089ast01|Astroviridae sp. isolate tom152ast1|Astroviridae sp. isolate ytb090ast01||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Astroviridae (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4939BL7370,~9112BL1319,~0776BL4827,~4478BL5861,~9926BL8757,~7421BL6256,~5652BL6544,~9464BL9122,~4802BL3567,~2308BL2930,"
+"[/Preset]"

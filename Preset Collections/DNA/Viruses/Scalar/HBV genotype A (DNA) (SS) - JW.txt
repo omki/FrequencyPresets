@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=HBV genotype A (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for HBV genotype A.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HBV genotype A B-371-Ban DNA|HBV genotype A B-437-Ban DNA|HBV genotype A B-494-Ban DNA|HBV genotype A AON DNA|HBV genotype A B-065-Ban DNA|HBV genotype A B-094-Ban DNA|HBV genotype A B-112-Ban DNA|HBV genotype A B-330-Ban DNA|HBV genotype A B-408-Ban DNA|HBV genotype A B-421-Ban DNA|HBV genotype A B-504-Ban DNA|HBV genotype A B-H06-Ban DNA|HBV genotype A DNA, isolate: HB-JI444AF|HBV genotype A proviral DNA||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=HBV genotype A (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6670BC8074,~7224BC9349,~8613BC5916,~3060BC8983,~1556BL5895,"
+"[/Preset]"

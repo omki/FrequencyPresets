@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Diphyllobothrium nihonkaiense (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Diphyllobothrium nihonkaiense.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Diphyllobothrium nihonkaiense mitochondrion|Diphyllobothrium nihonkaiense mitochondrial DNA|Diphyllobothrium nihonkaiense mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Diphyllobothrium nihonkaiense (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6594BC95490,~4825BC35680,~8537BC04440,"
+"[/Preset]"

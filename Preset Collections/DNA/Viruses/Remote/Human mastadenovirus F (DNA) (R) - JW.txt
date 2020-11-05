@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human mastadenovirus F (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human mastadenovirus F.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human mastadenovirus F strain SA12683|Human mastadenovirus F strain SA12303|Human mastadenovirus F strain SA12730|Human mastadenovirus F strain SA13020|Human mastadenovirus F strain SA12383|Human mastadenovirus F strain SA13026|Human mastadenovirus F strain SA14320|Human mastadenovirus F strain SA7335|Human mastadenovirus F strain SA6749|Human mastadenovirus F strain SA12680|Human mastadenovirus F isolate Human/China/Shanghai/FX1-152772/2015/41|Human mastadenovirus F isolate Human/China/Shanghai/FX3-1613263/F40||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human mastadenovirus F (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9754BL41444,~4292BL55683,~1797BL50186,~0938BL75459,~4730BL45880,~9188BL59518,~7684BL41934,~8338BL25319,~9627BL52129,~4064BL40606,~2560BL73937,~3214BL47339,"
+"[/Preset]"

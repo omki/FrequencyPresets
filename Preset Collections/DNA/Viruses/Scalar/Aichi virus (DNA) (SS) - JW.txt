@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Aichi virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Aichi virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Aichi virus isolate Chshc7|Aichi virus genomic RNA|Aichi virus isolate Goiania/GO/03/01/Brazil|Aichi virus genomic RNA|Aichi virus||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Aichi virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6994BL1186,~8283BL2001,~5043BL5807,~0236BL5579,~1880BL7333,"
+"[/Preset]"

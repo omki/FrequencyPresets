@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Enterococcus avium (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Enterococcus avium.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Enterococcus avium G-15 DNA|Enterococcus avium strain FDAARGOS_184 chromosome|Enterococcus avium strain LC0559/18 plasmid pLC055918-1|Enterococcus avium strain LC0559/18 plasmid pLC055918-1|Enterococcus avium strain 352 chromosome|Enterococcus avium strain LC0559/18 plasmid pLC055918-2|Enterococcus avium strain LC0559/18 plasmid pLC055918-2|Enterococcus avium strain 19081 plasmid pEA19081||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Enterococcus avium (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5614BC4459464,~3119BC4931561,~1440BC28844,~5152BC8902354,~0590BC95923,~8196BC77097,"
+"[/Preset]"

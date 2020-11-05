@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Echovirus E14 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E14.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E14 isolate E14/P968/2013/China|Echovirus E14 isolate E14/P843/2013/China||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Echovirus E14 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7079BL9615,~5675BL9603,"
+"[/Preset]"

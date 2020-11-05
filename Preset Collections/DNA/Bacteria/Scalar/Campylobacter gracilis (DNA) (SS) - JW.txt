@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Campylobacter gracilis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Campylobacter gracilis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Campylobacter gracilis strain ATCC 33236 chromosome|Campylobacter gracilis strain ATCC 33236||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Campylobacter gracilis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2007BC0179802,~9503BC8576398,"
+"[/Preset]"

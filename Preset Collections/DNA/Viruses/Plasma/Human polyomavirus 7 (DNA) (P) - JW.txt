@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human polyomavirus 7 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human polyomavirus 7.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human polyomavirus 7 isolate BIO|Human polyomavirus 7 isolate MUQ|Human polyomavirus 7 isolate PLA1|Human polyomavirus 7 isolate PLA2|Human polyomavirus 7 isolate SKI|Human polyomavirus 7 isolate URI|Human polyomavirus 7 isolate UTSW7.1|Human polyomavirus 7 isolate CRC01|Human polyomavirus 7||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human polyomavirus 7 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8227BC7414,~6823BC7414,~7477BC8379,~9766BC2923,~3213BC2130,"
+"[/Preset]"

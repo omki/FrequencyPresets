@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Encephalitozoon cuniculi (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Encephalitozoon cuniculi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Encephalitozoon cuniculi GB-M1 chromosome III|Encephalitozoon cuniculi GB-M1 chromosome II|Encephalitozoon cuniculi GB-M1 chromosome I|Encephalitozoon cuniculi GB-M1 chromosome V|Encephalitozoon cuniculi GB-M1 chromosome IV|Encephalitozoon cuniculi GB-M1 chromosome VI|Encephalitozoon cuniculi GB-M1 chromosome VII|Encephalitozoon cuniculi GB-M1 chromosome VIII|Encephalitozoon cuniculi GB-M1 chromosome IX|Encephalitozoon cuniculi GB-M1 chromosome X|Encephalitozoon cuniculi GB-M1 chromosome XI||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Encephalitozoon cuniculi (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~6122BL444257,~1579BL944481,~8065BL448948,~7206BL389405,~1018BL567575,~6455BL539538,~4951BL457300,~5605BL887618,~6994BL780602,~1342BL515956,~9937BL770575,"
+"[/Preset]"

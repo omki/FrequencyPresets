@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Agrobacterium radiobacter (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Agrobacterium radiobacter.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Agrobacterium radiobacter K84 plasmid pAtK84b|Agrobacterium radiobacter K84 chromosome 2|Agrobacterium radiobacter K84 plasmid pAtK84c|Agrobacterium radiobacter K84 chromosome 1|Agrobacterium radiobacter K84 plasmid pAgK84||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Agrobacterium radiobacter (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1904BC008483,~2658BC8089423,~3947BC249032,~8384BC4801727,~6980BC42850,"
+"[/Preset]"

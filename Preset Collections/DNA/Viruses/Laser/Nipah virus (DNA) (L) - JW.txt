@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Nipah virus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Nipah virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Nipah virus isolate UMMC1|Nipah virus isolate UMMC2|Nipah virus from Bangladesh|Nipah virus isolate Ind-Nipah-07-FG from India|Nipah virus isolate NIVBGD2008MANIKGONJ|Nipah virus isolate NIVBGD2008RAJBARI|Nipah virus|Nipah virus, isolate NV/MY/99/UM-0128|Nipah virus, isolate NV/MY/99/VRI-0626|Nipah virus, isolate NV/MY/99/VRI-1413|Nipah virus, isolate NV/MY/99/VRI-2794||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Nipah virus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~8750BL90015,~6510BL35347,~3016BL25830,~2257BL53558,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Haemonchus contortus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Haemonchus contortus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Haemonchus contortus strain NZ_Hco_NP mitochondrion|Haemonchus contortus mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Haemonchus contortus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8788BC18666,~6384BC64837,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Marburg virus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Marburg virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Marburg marburgvirus isolate Marburg virus/RML-IRF/M.auratus-lab/AGO/2005/Angola-368-HA|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/KEN/1980/Mt. Elgon-Musoke|Marburg marburgvirus isolate Marburg virus/H. sapiens-tc/UGA/2014/Kampala-812601|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/AGO/2005/Angola-200501379|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/AGO/2005/Angola-810820|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/AGO/2005/Angola-368|Marburg virus strain M/S.Africa/Johannesburg/1975/Ozolin||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Marburg virus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0806BL09951,~1450BL27997,~2749BL94872,~7296BL90777,~5782BL94815,"
+"[/Preset]"

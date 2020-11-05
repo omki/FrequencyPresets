@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Escherichia vulneris (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Escherichia vulneris.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Escherichia vulneris strain DSM 4564 origin of replication oriC||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Escherichia vulneris (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4419BL723,"
+"[/Preset]"

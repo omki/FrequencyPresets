@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Bacillus fusiformis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Bacillus fusiformis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Lysinibacillus fusiformis strain RB-21 chromosome|Lysinibacillus fusiformis strain RB-21|Lysinibacillus fusiformis strain 1226 chromosome||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Bacillus fusiformis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1867BC7423415,~9353BC0513399,~0017BC0491530,"
+"[/Preset]"

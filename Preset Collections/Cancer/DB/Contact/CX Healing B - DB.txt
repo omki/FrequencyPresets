@@ -1,0 +1,63 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Contact\Healing (C) - JW"
+"Inverse_Plus_Sync=False"
+"Out2_Square=True"
+"Repeat_Sequence=1"
+"Repeat_Chain=0"
+"PresetName=CX Healing B - DB"
+"Preset_Notes=Cancer Protocol, Extras. Contact Mode.
+
+Update: March 2020.
+
+This preset runs continuously, and beeps at the end of each loop. Run this preset for at least 2 loops.
+
+This preset addresses vitamin and mineral deficiencies. Use once or twice when you need a break from killing cancer, or as desired.
+
+Step numbers are not provided since these are only useful when you feel a 'hit.' This only happens when killing things, not when healing - you will simply start to feel better after running the preset.
+
+For a high power treatment, connect TENS cable to 'HIGH PWR CONTACT' port of Spooky Boost. For a lower power treatment, connect TENS cable to 'COLLOIDAL SILVER' port of Spooky Boost. If you don't have Spooky Boost, connect TENS cable to Out 1. Connect your Hand Cylinders/Tens Contact Kit item/TENS pads to TENS cable.
+
+PROGRAMS:
+Avitaminosis KHZ
+Ascorbic Acid Deficiency KHZ
+Vitamin A Deficiency KHZ
+Vitamin B12 Deficiency KHZ
+Vitamin D Deficiency KHZ
+Vitamin A MW
+Vitamin C MW
+Vitamin E MW
+Minerals - Iodine 2 XTRA
+Minerals - Sulfur XTRA
+Minerals - Silica XTRA
+Minerals - Manganese XTRA
+Minerals - Zinc 2 XTRA
+"
+"Loaded_Programs=Avitaminosis (KHZ)"
+"Loaded_Programs=Ascorbic Acid Deficiency (KHZ)"
+"Loaded_Programs=Vitamin A Deficiency (KHZ)"
+"Loaded_Programs=Vitamin B12 Deficiency (KHZ)"
+"Loaded_Programs=Vitamin D Deficiency (KHZ)"
+"Loaded_Programs=Vitamin A (MW)"
+"Loaded_Programs=Vitamin C (MW)"
+"Loaded_Programs=Vitamin E (MW)"
+"Loaded_Programs=Minerals - Iodine 2 (XTRA)"
+"Loaded_Programs=Minerals - Sulfur (XTRA)"
+"Loaded_Programs=Minerals - Silica (XTRA)"
+"Loaded_Programs=Minerals - Manganese (XTRA)"
+"Loaded_Programs=Minerals - Zinc 2 (XTRA)"
+"Loaded_Programs=Pause 30 Seconds (XTRA)"
+"Loaded_Frequencies=40=180F32768C0,260=180F4096C0,460=180F4096C0,7500=180F256C0,37500=180F32C0,57500=180F32C0,100000=180F16C0,210250=180F8C0,436420=180F4C0,561930=180F2C0,"
+"Loaded_Frequencies=50=180F32768C0,730=180F2048C0,2950=180F512C0,47500=180F32C0,222530=180F8C0,452590=180F4C0,517500=180F2C0,683000=180F2C0,712000=180F2C0,993410=180F2C0,"
+"Loaded_Frequencies=140=180F8192C0,570=180F2048C0,950=180F2048C0,23500=180F64C0,269710=180F4C0,57500=180F32C0,175160=180F8C0,436420=180F4C0,642910=180F2C0,978050=180F2C0,"
+"Loaded_Frequencies=50=180F32768C0,410=180F4096C0,1000=180F1024C0,45000=180F32C0,97500=180F16C0,324370=180F4C0,410250=180F4C0,566410=180F2C0,709830=180F2C0,930120=180F2C0,"
+"Loaded_Frequencies=170=180F8192C0,220=180F8192C0,620=180F2048C0,11090=180F128C0,40000=180F32C0,57500=180F32C0,150000=180F8C0,175000=180F8C0,426900=180F4C0,826000=180F2C0,"
+"Loaded_Frequencies=M286.229665582=180F0C0,"
+"Loaded_Frequencies=M176.032087988=180F0C0,"
+"Loaded_Frequencies=M430.381080844=180F0C0,"
+"Loaded_Frequencies=53=180F32768C0,20.007=180F65536C0,425.89=180F4096C0,459.12=180F4096C0,"
+"Loaded_Frequencies=256=600F4096C0,"
+"Loaded_Frequencies=448=600F4096C0,"
+"Loaded_Frequencies=400=600F4096C0,"
+"Loaded_Frequencies=30=180F65536C0,6.254=180F262144C0,133.13=180F8192C0,143.52=180F8192C0,"
+"Loaded_Frequencies=0=30F0C0,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=HBV genotype D (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for HBV genotype D.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HBV genotype D B-117-Ban DNA|HBV genotype D B-061-Ban DNA|HBV genotype D B-H10-Ban DNA|HBV genotype D B-407-Ban DNA|HBV genotype D B-405-Ban DNA|HBV genotype D DNA, isolate: GRS08457|HBV genotype D DNA, isolate: GRS08538|HBV genotype D DNA, isolate: TRF08226|HBV genotype D B-068-Ban DNA|HBV genotype D B-101-Ban DNA|HBV genotype D B-341-Ban DNA|HBV genotype D B-403-Ban DNA|HBV genotype D B-420-Ban DNA|HBV genotype D B-430-Ban DNA|HBV genotype D GT-D6 DNA|HBV genotype D, serotype ayw3||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=HBV genotype D (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2481BC3244,~0986BC2257,~9127BC8036,~3929BC2267,~7377BC5346,~5863BC2798,~4103BC9353,~8816BC2295,"
+"[/Preset]"

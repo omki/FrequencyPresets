@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Esophagitis (Fungal) (DNA) (L) - JW"
+"Preset_Notes=This preset holds data for fungii associated with Esophagitis.||Esophagitis is any inflammation or irritation of the esophagus. The esophagus is the tube that sends food from your mouth to your stomach. Common causes include acid reflux, side effects of certain medications, and bacterial or viral infections.||Esophagitis can have serious consequences that affect your quality of life. If left untreated, esophagitis may develop into a condition called Barrett’s esophagus. This may increase your risk for esophageal cancer.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida albicans strain L296 mitochondrion|Candida albicans strain L757 mitochondrion|Candida albicans strain CBS 562 mitochondrion|Candida albicans SC5314 mitochondrion|Candida tropicalis strain CBS 94 mitochondrion||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Esophagitis (Fungal) (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1812BC44471,~5524BC47425,~0962BC34062,~8567BC42010,~6798BC12527,"
+"[/Preset]"

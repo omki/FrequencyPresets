@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Cold and Flu (DNA) (USA -  AK) (SS) - JW"
+"Preset_Notes=This preset holds localized, country-specific genome data for active viruses which cause the common cold and the flu (influenza). Choose the countries closest to where you live.||The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose. The throat, sinuses, and larynx may also be affected. Signs and symptoms may appear less than two days after exposure to the virus.||Influenza is a viral infection that attacks your respiratory system — your nose, throat and lungs. Influenza is commonly called the flu, but it's not the same as stomach 'flu' viruses that cause diarrhea and vomiting. For most people, influenza resolves on its own. But sometimes, influenza and its complications can be deadly.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|'Enterovirus D68 strain USA/AK/2008-23112'|'Enterovirus A71 strain USA/AK/2016-19516'||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Cold and Flu (DNA) (USA -  AK) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7674B7524,~2011B2409,"
+"[/Preset]"

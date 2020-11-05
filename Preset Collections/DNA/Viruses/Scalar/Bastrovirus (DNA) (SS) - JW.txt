@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Bastrovirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Bastrovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bastrovirus 4|Bastrovirus 3|Bastrovirus 7|Porcine bastrovirus isolate PBastV_USA 2017-1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Bastrovirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6260BL6509,~7914BL4050,~9203BL6547,~3640BL0037,"
+"[/Preset]"

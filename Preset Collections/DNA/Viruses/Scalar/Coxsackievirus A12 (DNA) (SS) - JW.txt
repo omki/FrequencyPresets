@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Coxsackievirus A12 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A12.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A12 isolate HEV16087564CA12|Coxsackievirus A12 isolate HEV16537821CA12|Coxsackievirus A12 isolate HEV786663|Coxsackievirus A12 strain QD-HDH507/SD/CHN/2011|Coxsackievirus A12 strain QD-LXH535/SD/CHN/2009|Human coxsackievirus A12 strain Texas-12||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Coxsackievirus A12 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5210BL3484,~6609BL3191,~1056BL2004,"
+"[/Preset]"

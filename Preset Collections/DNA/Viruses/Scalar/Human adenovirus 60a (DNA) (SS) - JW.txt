@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human adenovirus 60a (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human adenovirus 60a.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus 60a isolate Aids59/Manchester/1992||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human adenovirus 60a (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8972BL51763,"
+"[/Preset]"

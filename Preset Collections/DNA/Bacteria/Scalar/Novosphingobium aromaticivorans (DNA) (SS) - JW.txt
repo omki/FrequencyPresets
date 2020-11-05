@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Novosphingobium aromaticivorans (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Novosphingobium aromaticivorans.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Novosphingobium aromaticivorans plasmid pNL1|Novosphingobium aromaticivorans DSM 12444 plasmid pNL1|Novosphingobium aromaticivorans DSM 12444|Novosphingobium aromaticivorans DSM 12444 plasmid pNL2||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Novosphingobium aromaticivorans (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4068BC828174,~3209BC008586,~7011BC8027666,~1459BC712279,"
+"[/Preset]"

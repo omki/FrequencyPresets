@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human papillomavirus type 44 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 44.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 44 isolate 103A.44|Human papillomavirus type 44 isolate 11C.44|Human papillomavirus type 44 isolate 87A.44|Human papillomavirus type 44 isolate LNS9001577_HPV44|Human papillomavirus type 44 isolate LNS8643648_HPV44|Human papillomavirus type 44||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human papillomavirus type 44 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5156BC4677,~3916BC1465,~1512BC5757,~9743BC9927,~3455BC4500,~8892BL0698,"
+"[/Preset]"

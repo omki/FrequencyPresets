@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Ehrlichia canis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Ehrlichia canis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ehrlichia canis strain YZ-1 chromosome|Ehrlichia canis str. Jake||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Ehrlichia canis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~5018BC0497065,~3349BC3518106,"
+"[/Preset]"

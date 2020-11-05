@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Ralstonia pickettii (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Ralstonia pickettii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ralstonia pickettii 12J chromosome 2|Ralstonia pickettii 12D chromosome 2|Ralstonia pickettii strain FDAARGOS_410 chromosome 2|Ralstonia pickettii cryptic plasmid pMBCP|Ralstonia pickettii plasmid pMBCP|Ralstonia pickettii 12D plasmid pRp12D02|Ralstonia pickettii DTP0602 chromosome 2|Ralstonia pickettii strain FDAARGOS_410 chromosome 1|Ralstonia pickettii 12D chromosome 1|Ralstonia pickettii 12D plasmid pRp12D01|Ralstonia pickettii 12J chromosome 1|Ralstonia pickettii DTP0602 chromosome 1|Ralstonia pickettii 12D plasmid pRp12D03|Ralstonia pickettii plasmid p712|Ralstonia pickettii DTP0602 chromosome 3|Ralstonia pickettii 12J plasmid pRPIC01||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Ralstonia pickettii (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1855BC3503259,~0096BC0585083,~4708BC3921973,~9146BC5341,~7741BC439853,~5972BC3265590,~9685BC0557489,~4132BC4691466,~2628BC505600,~3282BC9082320,~4671BC0444240,~9018BC49535,~7514BC22001,~8268BC753227,~9557BC25844,"
+"[/Preset]"

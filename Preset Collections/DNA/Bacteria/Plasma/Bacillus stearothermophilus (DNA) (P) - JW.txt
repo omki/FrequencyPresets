@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Bacillus stearothermophilus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Bacillus stearothermophilus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Geobacillus stearothermophilus 10 plasmid|Geobacillus stearothermophilus 10 chromosome|Geobacillus stearothermophilus plasmid pTB19|Geobacillus stearothermophilus plasmid pSTK1 DNA|Geobacillus stearothermophilus plasmid pSTK1|Geobacillus stearothermophilus strain B5 chromosome|Geobacillus stearothermophilus strain DSM 458 chromosome|Geobacillus stearothermophilus strain DSM 458|Geobacillus stearothermophilus 10|Geobacillus stearothermophilus plasmid pGS18||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Bacillus stearothermophilus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3082BC95673,~8420BC4696924,~6026BC05343,~7680BC6713,~9969BC5217967,~6839BC5589437,~4325BC68159,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Lactobacillus acidophilus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Lactobacillus acidophilus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Lactobacillus acidophilus plasmid pLA103 DNA|Lactobacillus acidophilus plasmid pLA103|Lactobacillus acidophilus strain LA1 chromosome|Lactobacillus acidophilus strain LA1|Lactobacillus acidophilus La-14|Lactobacillus acidophilus La-14|Lactobacillus acidophilus strain ATCC 53544 chromosome|Lactobacillus acidophilus strain FSI4 isolate Yogurt chromosome|Lactobacillus acidophilus strain FSI4|Lactobacillus acidophilus strain LA-G80-111 chromosome|Lactobacillus acidophilus NCFM|Lactobacillus acidophilus NCFM|Lactobacillus acidophilus strain DSM 20079 chromosome|Lactobacillus acidophilus strain YT1 chromosome|Lactobacillus acidophilus plasmid pLA106 DNA|Lactobacillus acidophilus plasmid pLA106||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Lactobacillus acidophilus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0860BC04865,~1414BC24970,~3704BC0907742,~7251BC0930745,~5757BC9082415,~6301BC2786576,~8790BC9082453,~5550BC0932931,~3056BC2610782,~2287BC4486146,~6099BC2405,~0437BC2786,"
+"[/Preset]"

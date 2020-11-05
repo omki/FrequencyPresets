@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Papovavirus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Papovavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Monkey B-lymphotropic papovavirus||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Papovavirus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~0997BL9211,"
+"[/Preset]"

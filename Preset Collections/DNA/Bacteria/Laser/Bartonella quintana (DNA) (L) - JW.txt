@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Bartonella quintana (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Bartonella quintana.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bartonella quintana str. Toulouse|Bartonella quintana RM-11|Bartonella quintana RM-11|Bartonella quintana MF1-1 DNA||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Bartonella quintana (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~0836BC0658553,~9077BC0991917,~3779BC7664205,"
+"[/Preset]"

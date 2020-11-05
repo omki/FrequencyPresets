@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Plasmodium knowlesi (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Plasmodium knowlesi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Plasmodium knowlesi isolate Malayan MRA-487 mitochondrion|Plasmodium knowlesi mitochondrion|Plasmodium knowlesi strain H chromosome 6|Plasmodium knowlesi strain H chromosome 5|Plasmodium knowlesi strain H chromosome 10|Plasmodium knowlesi strain H chromosome 7|Plasmodium knowlesi strain H chromosome 8|Plasmodium knowlesi strain H chromosome 9|Plasmodium knowlesi strain H chromosome 13|Plasmodium knowlesi strain H chromosome 11|Plasmodium knowlesi strain H chromosome 12|Plasmodium knowlesi strain H chromosome 14|Plasmodium knowlesi strain H chromosome 2|Plasmodium knowlesi strain H chromosome 4|Plasmodium knowlesi strain H chromosome 1|Plasmodium knowlesi strain H chromosome 3||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Plasmodium knowlesi (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~5636BC3010,~3132BC1894,~1363BL6262939,~5175BL8726781,~0513BL6207957,~8018BL0743030,~9762BL9147950,~1051BL2204155,~5409BL7860377,~3995BL3122311,~4659BL5307381,~6948BL7100791,~0385BL221642,~8981BL162112,~9535BL036890,~1824BL865140,"
+"[/Preset]"

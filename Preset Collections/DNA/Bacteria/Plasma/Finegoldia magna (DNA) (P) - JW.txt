@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Finegoldia magna (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Finegoldia magna.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Finegoldia magna ATCC 29328 DNA|Finegoldia magna ATCC 29328|Finegoldia magna ATCC 29328 plasmid pFMC DNA|Finegoldia magna ATCC 29328 plasmid pFMC|Finegoldia magna strain FDAARGOS_764 chromosome||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Finegoldia magna (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0665BC0136833,~8161BC5903805,~9815BC055207,~0104BC6299674,"
+"[/Preset]"

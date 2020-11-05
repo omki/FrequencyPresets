@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Coxsackievirus A19 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A19.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A19 isolate NSW-V03-2008-CVA19|Human coxsackievirus A19 strain 8663||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Coxsackievirus A19 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4798BL5087,~8501BL3720,"
+"[/Preset]"

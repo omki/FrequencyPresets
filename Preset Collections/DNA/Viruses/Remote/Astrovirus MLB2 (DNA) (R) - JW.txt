@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Astrovirus MLB2 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Astrovirus MLB2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Astrovirus MLB2 isolate MLB2/human/Geneva/2014|Astrovirus MLB2 isolate MLB2/human/Stl/WD0559/2008|Astrovirus MLB2 RNA, isolate: GUP187|Astrovirus MLB2||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Astrovirus MLB2 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1563BL4960,~5900BL6602,~3406BL1974,~4160BL7898,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Coxsackievirus A8 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A8.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A8 isolate CVA8/SZ124/CHN/2012|Coxsackievirus A8 isolate CVA8/SZ127/CHN/2012|Coxsackievirus A8 isolate CVA8/SZ141/CHN/2012|Coxsackievirus A8 isolate CVA8/SZ157/CHN/2012|Coxsackievirus A8 isolate CVA8/SZ266/CHN/2014|Coxsackievirus A8 isolate CVA8/SZ39/CHN/2013|Coxsackievirus A8 isolate CVA8/SZ40/CHN/2013|Coxsackievirus A8 isolate CVA8/SZ93/CHN/2012|Coxsackievirus A8 isolate CV-A8/P82/2013/China|Human coxsackievirus A8 strain Donovan||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Coxsackievirus A8 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7507BL1755,~4193BL4475,~5757BL7581,~7046BL4475,"
+"[/Preset]"

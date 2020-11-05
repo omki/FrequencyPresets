@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Marburg virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Marburg virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Marburg marburgvirus isolate Marburg virus/RML-IRF/M.auratus-lab/AGO/2005/Angola-368-HA|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/KEN/1980/Mt. Elgon-Musoke|Marburg marburgvirus isolate Marburg virus/H. sapiens-tc/UGA/2014/Kampala-812601|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/AGO/2005/Angola-200501379|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/AGO/2005/Angola-810820|Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/AGO/2005/Angola-368|Marburg virus strain M/S.Africa/Johannesburg/1975/Ozolin||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Marburg virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0806BL09951,~1450BL27997,~2749BL94872,~7296BL90777,~5782BL94815,"
+"[/Preset]"

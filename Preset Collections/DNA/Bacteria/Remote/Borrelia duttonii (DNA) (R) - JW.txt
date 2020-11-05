@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Borrelia duttonii (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Borrelia duttonii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Borrelia duttonii Ly plasmid pl27|Borrelia duttonii Ly plasmid pl11|Borrelia duttonii Ly plasmid pl15|Borrelia duttonii Ly plasmid pl165|Borrelia duttonii Ly plasmid pl23b|Borrelia duttonii Ly plasmid pl23|Borrelia duttonii Ly plasmid pl26|Borrelia duttonii Ly plasmid pl28|Borrelia duttonii Ly plasmid pl31|Borrelia duttonii Ly plasmid pl32|Borrelia duttonii Ly plasmid pl35|Borrelia duttonii Ly plasmid pl36|Borrelia duttonii Ly plasmid pl40|Borrelia duttonii Ly plasmid pl41|Borrelia duttonii Ly plasmid pl42|Borrelia duttonii plasmid DNA, strain: Ly|Borrelia duttonii Ly plasmid pl70|Borrelia duttonii Ly|Borrelia duttonii Ly||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Borrelia duttonii (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4898BC24849,~6287BL01504,~0624BL39690,~8120BL417174,~9884BL25625,~1173BL19865,~8934BL21528,~3116BL65265,~4760BL56622,~9472BL27583,~3910BL71328,~1416BL46033,~9646BL87373,~4459BL72234,~8896BL64192,~6392BL08711,~7956BL13790,~9345BL133846,~3782BL898031,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Kingella kingae (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Kingella kingae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Kingella kingae strain F41215CHC chromosome|Kingella kingae strain ATCC 23331 chromosome|Kingella kingae strain ATCC 23332 chromosome|Kingella kingae plasmid pLR, strain BB114||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Kingella kingae (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1971BC7098916,~9477BC5717431,~0021BC2315106,~2410BL3184,"
+"[/Preset]"

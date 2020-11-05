@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Mycobacterium ulcerans (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium ulcerans.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium ulcerans subsp. shinshuense plasmid pShTP DNA, strain: ATCC33728|Mycobacterium ulcerans subsp. shinshuense strain ATCC 33728 plasmid pShTP|Mycobacterium ulcerans Agy99 plasmid pMUM001|Mycobacterium ulcerans Agy99|Mycobacterium ulcerans Agy99|Mycobacterium ulcerans subsp. shinshuense DNA, strain: ATCC33728||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Mycobacterium ulcerans (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4050BC676764,~5714BC028460,~9416BC935332,~4864BC1521555,~2469BC7481725,"
+"[/Preset]"

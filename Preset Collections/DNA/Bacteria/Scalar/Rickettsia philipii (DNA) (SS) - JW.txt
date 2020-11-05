@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia philipii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia philipii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia philipii str. 364D||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia philipii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8200BC2177483,"
+"[/Preset]"

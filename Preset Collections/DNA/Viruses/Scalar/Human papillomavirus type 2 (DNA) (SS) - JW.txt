@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human papillomavirus type 2 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 2 isolate C2|Human papillomavirus type 2 isolate CN-HB1|Human papillomavirus type 2 isolate C1|Human papillomavirus type 2 isolate CN-SC1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human papillomavirus type 2 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7983BC0689,~8372BC1137,~3729BC3999,~1225BC9310,"
+"[/Preset]"

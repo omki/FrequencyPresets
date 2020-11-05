@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Cytomegalovirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Cytomegalovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Cynomolgus cytomegalovirus isolate 31906|Cynomolgus cytomegalovirus isolate 31907|Cynomolgus cytomegalovirus isolate 31908|Cynomolgus macaque cytomegalovirus strain Mauritius|Cynomolgus macaque cytomegalovirus strain Ottawa|Human cytomegalovirus strain AD169|Mandrillus leucophaeus cytomegalovirus isolate OCOM6-2|Murine cytomegalovirus (strain K181)|Papio ursinus cytomegalovirus isolate OCOM4-52|Porcine cytomegalovirus strain BJ09|Rat cytomegalovirus ALL-03 isolate Malaysian|Rat cytomegalovirus Maastricht|Rhesus cytomegalovirus strain 68-1|UNVERIFIED_ASMBLY: Cynomolgus cytomegalovirus isolate 31909||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Cytomegalovirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4457BL535329,~1953BL785421,~2607BL379911,~4996BL712263,~1756BL491111,~9352BL452276,~8593BL373599,~2295BL750571,~7743BL821961,~4238BL040380,~3479BL029720,~7181BL876179,~2629BL451633,~0125BL867870,"
+"[/Preset]"

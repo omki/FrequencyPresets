@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Candida dubliniensis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Candida dubliniensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida dubliniensis CD36 chromosome 7|Candida dubliniensis CD36 chromosome 6|Candida dubliniensis CD36 chromosome 5|Candida dubliniensis CD36 chromosome 4|Candida dubliniensis CD36 chromosome 3|Candida dubliniensis CD36 chromosome R|Candida dubliniensis CD36 chromosome 2|Candida dubliniensis CD36 chromosome 1||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Candida dubliniensis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8041BL6284778,~2853BL8631724,~7290BL8546675,~5796BL2624375,~3037BL6703609,~7739BL3228507,~2187BL7819035,~0682BL4508777,"
+"[/Preset]"

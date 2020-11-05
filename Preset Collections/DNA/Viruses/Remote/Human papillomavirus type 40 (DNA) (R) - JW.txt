@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human papillomavirus type 40 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 40.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 40 isolate 48A.40|Human papillomavirus type 40 isolate LNS8060588_HPV40|Human papillomavirus type 40 isolate HPV40-gw-4008|Human papillomavirus type 40 isolate LNS0106481_HPV40|Human papillomavirus type 40 isolate LNS0485994_HPV40||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human papillomavirus type 40 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0834BC6777,~2123BC3998,~7671BC3764,~5177BC1460,"
+"[/Preset]"

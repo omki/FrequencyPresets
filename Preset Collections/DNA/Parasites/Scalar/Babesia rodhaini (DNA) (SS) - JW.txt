@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Babesia rodhaini (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia rodhaini.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia rodhaini apicoplast DNA, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-I, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-II, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-III, strain: Australian|Babesia rodhaini mitochondrial DNA, genome structure type-IV, strain: Australian||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Babesia rodhaini (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0067BC76667,~4769BL8951,~9117BL6214,"
+"[/Preset]"

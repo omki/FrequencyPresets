@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Cardiovirus B (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Cardiovirus B.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Cardiovirus B isolate SAFV_BR193|Cardiovirus B strain rat08/rCaB/HUN||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Cardiovirus B (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0101BL5845,~4803BL7992,"
+"[/Preset]"

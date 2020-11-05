@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Buffalopox virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Buffalopox virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Buffalopox virus isolate NIV116234|Buffalopox virus isolate NIV143262|Buffalopox virus isolate NIV116233|Buffalopox virus isolate Karachi 2005||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Buffalopox virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~8819BL792949,~2366BL014527,~0852BL045613,~1416BL313420,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Citrobacter koseri (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Citrobacter koseri.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Citrobacter koseri strain CD4359 plasmid pCD4359|Citrobacter koseri strain AR_0025 plasmid unitig_3_pilon|Citrobacter koseri strain FDAARGOS_530 chromosome|Citrobacter koseri strain FDAARGOS_646 chromosome|Citrobacter koseri ATCC BAA-895|Citrobacter koseri ATCC BAA-895|Citrobacter koseri isolate 0123A_53_520 chromosome|Citrobacter koseri strain AR_0025 chromosome|Citrobacter koseri strain FDAARGOS_393 chromosome|Citrobacter koseri strain AR_0024 chromosome|Citrobacter koseri MPUCK001 DNA|Citrobacter koseri strain FDAARGOS_287 chromosome|Citrobacter koseri ATCC BAA-895 plasmid pCKO2|Citrobacter koseri strain AR_0025 plasmid unitig_2_pilon|Citrobacter koseri ATCC BAA-895 plasmid pCKO3|Citrobacter koseri strain AR_0024 plasmid unitig_1_pilon|Citrobacter koseri strain DSM 4595 origin of replication oriC||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Citrobacter koseri (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3592BC30267,~4146BC15859,~8858BC8751770,~3396BC9614027,~1891BC7785253,~9022BC8968442,~3834BC0958554,~8272BC7129826,~6778BC2985040,~4018BC8278105,~8711BC3887375,~3168BC4026,~1664BC73019,~2318BC1234,~4607BL887,"
+"[/Preset]"

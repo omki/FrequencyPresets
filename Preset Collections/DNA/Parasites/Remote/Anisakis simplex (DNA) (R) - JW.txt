@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Anisakis simplex (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Anisakis simplex.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Anisakis simplex C Nascetti et al., 1986 isolate 2c mitochondrion|Anisakis simplex mitochondrial DNA|Anisakis simplex isolate S7 mitochondrion|Anisakis simplex isolate 5_4 mitochondrion|Anisakis simplex isolate Tb1 mitochondrion|Anisakis simplex isolate S6 mitochondrion|Anisakis simplex isolate BA70 mitochondrion|Anisakis simplex isolate J3 mitochondrion|Anisakis simplex isolate J1 mitochondrion|Anisakis simplex isolate 126r mitochondrion|Anisakis simplex mitochondrion|Anisakis simplex isolate BA65 mitochondrion|Anisakis simplex mitochondrion|Anisakis simplex isolate J4 mitochondrion|Anisakis simplex isolate S8 mitochondrion|Anisakis simplex mitochondrion|Anisakis simplex isolate BA60 mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Anisakis simplex (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0038BC47923,~2427BC05337,~6865BC17937,~4360BC69554,~5014BC24060,~7304BC04248,~1741BC69519,~9347BC04917,~0901BC24053,~5603BC04860,~9150BC05114,~7646BC04711,~5887BC39503,~0699BC95393,~4037BC04807,~2532BC34201,~1763BC08889,"
+"[/Preset]"

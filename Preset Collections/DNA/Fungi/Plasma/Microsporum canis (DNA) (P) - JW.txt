@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Microsporum canis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Microsporum canis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Microsporum canis mitochondrion|Microsporum canis strain ATCC 36299 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Microsporum canis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5327BC87413,~6071BC25165,"
+"[/Preset]"

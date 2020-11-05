@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Parainfluenza virus 5 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Parainfluenza virus 5.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Parainfluenza virus 5 strain ZJQ-221 from China|Parainfluenza virus 5 isolate CC-14|Parainfluenza virus 5 isolate PV5-BC14|Parainfluenza virus 5 strain 08-1990|Parainfluenza virus 5 strain 1168-1|Parainfluenza virus 5 strain 78524|Parainfluenza virus 5 strain AGS|Parainfluenza virus 5 strain CPI+|Parainfluenza virus 5 strain CPI-|Parainfluenza virus 5 strain D277|Parainfluenza virus 5 strain DEN|Parainfluenza virus 5 strain H221|Parainfluenza virus 5 strain KNU-11|Parainfluenza virus 5 strain MEL|Parainfluenza virus 5 strain MIL|Parainfluenza virus 5 strain SER|Parainfluenza virus 5 strain W3A|Parainfluenza virus 5 strain LN|Parainfluenza virus 5 strain RQ|Parainfluenza virus 5||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Parainfluenza virus 5 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1620BC69807,~9125BL06324,~0779BL09079,~1068BL01347,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Buffalopox virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Buffalopox virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Buffalopox virus isolate NIV116234|Buffalopox virus isolate NIV143262|Buffalopox virus isolate NIV116233|Buffalopox virus isolate Karachi 2005||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Buffalopox virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8819BL792949,~2366BL014527,~0852BL045613,~1416BL313420,"
+"[/Preset]"

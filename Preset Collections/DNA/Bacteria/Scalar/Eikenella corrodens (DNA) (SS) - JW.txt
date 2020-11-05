@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Eikenella corrodens (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Eikenella corrodens.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Eikenella corrodens strain KCOM 3110 chromosome|Eikenella corrodens plasmid pMU1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Eikenella corrodens (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4035BC1132416,~2530BC3200,"
+"[/Preset]"

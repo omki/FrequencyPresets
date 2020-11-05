@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Duvenhage virus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Duvenhage virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Duvenhage virus isolate 94286SA|Duvenhage virus isolate DUVVSA06|Duvenhage virus isolate 86132SA|Duvenhage virus isolate NL07||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Duvenhage virus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9184BL99038,~4522BL60907,~2127BL30913,~3771BL89841,"
+"[/Preset]"

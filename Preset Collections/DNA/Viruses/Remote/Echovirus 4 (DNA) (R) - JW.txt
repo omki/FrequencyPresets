@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Echovirus 4 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus 4.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human echovirus 4 strain AUS250G|Human echovirus 4 strain Pesacek|Human parechovirus 4 strain VEN/2018-23123B|Human parechovirus 4 genomic RNA, strain: Fuk2005-123|Human parechovirus 4 isolate K251176-02|Human parechovirus 4, genomic RNA, strain T75-4077||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Echovirus 4 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~5844BL3174,~0292BL2524,~8887BL4192,~9441BL9550,~0731BL3854,~5178BL3106,"
+"[/Preset]"

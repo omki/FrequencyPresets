@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Haemophilus haemolyticus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Haemophilus haemolyticus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Haemophilus haemolyticus strain M28486 chromosome|Haemophilus haemolyticus strain M19345 chromosome|Haemophilus haemolyticus strain M19346 chromosome||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Haemophilus haemolyticus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9534BC6781876,~0188BC0057263,~2577BC6823300,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rhinovirus B (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rhinovirus B.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human rhinovirus B35 strain SC9780|Human rhinovirus B70 strain SC1060|Human rhinovirus B86 strain SC9785|Human rhinovirus B86 strain SC9848|Human rhinovirus B83 strain SC0340|Human rhinovirus B97 strain SC1079|Human rhinovirus B27 strain SC275|Human rhinovirus B3 strain SC2606|Human rhinovirus B4 strain SC165|Human rhinovirus B27 strain SC863|Human rhinovirus B3 strain SC2220|Human rhinovirus B86 strain SC9826|Human rhinovirus B91 isolate ZJ2015_001|Rhinovirus B isolate 3039|Rhinovirus B isolate R93|Rhinovirus B isolate BCH214|Rhinovirus B strain SC0739|Rhinovirus B strain RVB_G001-19|Rhinovirus B take1 genomic RNA||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rhinovirus B (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5852BL4318,~3348BL6242,~2689BL6119,~6391BL1960,~0738BL9909,~8334BL9768,~7565BL9147,~1277BL4102,~6725BL1384,~3210BL6261,~4874BL9098,~6264BL9319,~1601BL3834,~9107BL4338,~0751BL2826,~1140BL6002,~6587BL1216,~4083BL6367,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Campylobacter lari (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Campylobacter lari.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Campylobacter lari subsp. concheus strain LMG 21009 chromosome|Campylobacter lari subsp. concheus LMG 11760 chromosome|Campylobacter lari subsp. concheus LMG 11760|Campylobacter lari subsp. lari strain LMG 8846 chromosome|Campylobacter lari RM16701 chromosome|Campylobacter lari strain SCHS02 chromosome|Campylobacter lari CCUG 22395 chromosome|Campylobacter lari RM2100 chromosome|Campylobacter lari RM2100|Campylobacter lari strain Slaughter Beach chromosome|Campylobacter lari strain Slaughter Beach|Campylobacter lari RM16712 chromosome|Campylobacter lari NCTC 11845 chromosome|Campylobacter lari plasmid pCL300|Campylobacter lari plasmid pUPTC237 DNA|Campylobacter lari plasmid pUPTC237|Campylobacter lari RM2100 plasmid pCL2100||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Campylobacter lari (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4547BC9749882,~1407BC3968995,~9903BC6153244,~7144BC5498888,~1946BC9172131,~6394BC9305958,~4899BC6359922,~2120BC1117642,~7832BC9157077,~1270BC2286369,~9876BC9336,~0420BC4340,~2719BC70093,"
+"[/Preset]"

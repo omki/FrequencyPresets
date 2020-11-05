@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Dictyostelium discoideum (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Dictyostelium discoideum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Dictyostelium discoideum WS2162 plasmid Ddp5|Dictyostelium discoideum plasmid Ddp5|Dictyostelium discoideum mitochondrial DNA|Dictyostelium discoideum mitochondrion|Dictyostelium discoideum AX4 chromosome 6 DDB0232848.02|Dictyostelium discoideum AX4 chromosome 1 DDB0232444.02|Dictyostelium discoideum AX4 chromosome 2 DDB0232472.02|Dictyostelium discoideum AX4 chromosome 6 chromosome|Dictyostelium discoideum AX4 chromosome 6|Dictyostelium discoideum AX4 chromosome 6 DDB0232885.02|Dictyostelium discoideum AX4 chromosome 1 chromosome|Dictyostelium discoideum AX4 chromosome 1|Dictyostelium discoideum AX4 chromosome 2 chromosome|Dictyostelium discoideum AX4 chromosome 2||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Dictyostelium discoideum (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2542BC61811,~6999BC34425,~4485BC78053,~5149BL387665,~7438BL5909760,~2876BL317817,~9471BL5796514,~0025BL72091,~2315BL2931005,~9275BL7053858,~7771BL0696654,"
+"[/Preset]"

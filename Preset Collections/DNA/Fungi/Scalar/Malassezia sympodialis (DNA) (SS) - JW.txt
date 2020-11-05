@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Malassezia sympodialis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Malassezia sympodialis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Malassezia sympodialis culture CBS:96806 mitochondrion|Malassezia sympodialis culture CBS:44340 mitochondrion|Malassezia sympodialis mycovirus isolate MsMV1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Malassezia sympodialis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7176BC55723,~8720BC52404,~9119BL0959,"
+"[/Preset]"

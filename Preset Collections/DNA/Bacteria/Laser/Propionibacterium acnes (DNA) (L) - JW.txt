@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Propionibacterium acnes (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Propionibacterium acnes.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Propionibacterium acnes ATCC 11828|Propionibacterium acnes TypeIA2 P.acn33|Propionibacterium acnes HL096PA1|Propionibacterium acnes hdn-1|Propionibacterium acnes 266|Propionibacterium acnes SK137|Propionibacterium acnes TypeIA2 P.acn31|Propionibacterium acnes C1|Propionibacterium acnes TypeIA2 P.acn17|Propionibacterium acnes KPA171202|Propionibacterium acnes 6609|Propionibacterium acnes HL096PA1 plasmid|Propionibacterium acnes KPA171202 sppak9519.1 ncRNA|Propionibacterium acnes KPA171202 sPPAK5 sRNA|Propionibacterium acnes KPA171202 sRNA 7||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Propionibacterium acnes (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1714BC9322565,~5151BC1127566,~3757BC5838013,~2988BC5506270,~6690BC8874808,~0137BC6703236,~8633BC5441059,~7874BC3337652,~1676BC5128632,~6024BC1548227,~3529BC4155493,~4273BC61662,~6562BL386,~1900BL248,~9406BL316,"
+"[/Preset]"

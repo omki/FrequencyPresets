@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human papillomavirus type 87 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human papillomavirus type 87.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 87 isolate 65A.87|Human papillomavirus type 87 isolate 65C.87|Human papillomavirus type 87 isolate 83A.87|Human papillomavirus type 87 (candidate)|Human papillomavirus type 87 isolate LNS3929176_HPV87|Human papillomavirus type 87 isolate LNS7880814_HPV87|Human papillomavirus type 87 isolate LNS5649440_HPV87|Human papillomavirus type 87 isolate LNS2013148_HPV87||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human papillomavirus type 87 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3812BC3876,~7514BC4202,~2062BC9248,~0567BC9087,~1111BC2787,~2501BC6613,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Mycobacterium intracellulare (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium intracellulare.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium intracellulare subsp. yongonense 05-1390 plasmid pMyong1|Mycobacterium intracellulare subsp. yongonense 05-1390 plasmid pMyong2|Mycobacterium intracellulare strain FLAC0181 plasmid pFLAC0181|Mycobacterium intracellulare ATCC 13950|Mycobacterium intracellulare ATCC 13950|Mycobacterium intracellulare MOTT-02|Mycobacterium intracellulare MOTT-02|Mycobacterium intracellulare strain FLAC0133 chromosome|Mycobacterium intracellulare subsp. yongonense strain Asan 36527 chromosome|Mycobacterium intracellulare MOTT-64|Mycobacterium intracellulare subsp. yongonense 05-1390 chromosome|Mycobacterium intracellulare subsp. yongonense 05-1390|Mycobacterium intracellulare subsp. intracellulare MTCC 9506|Mycobacterium intracellulare strain FLAC0181 chromosome||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Mycobacterium intracellulare (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3213BC662908,~1719BC82020,~2363BC23370,~4752BC4800862,~9199BC6164107,~6695BC6022671,~7349BC1808258,~9638BC6361027,~4086BC4303543,~1581BC5748961,~3235BC0270747,"
+"[/Preset]"

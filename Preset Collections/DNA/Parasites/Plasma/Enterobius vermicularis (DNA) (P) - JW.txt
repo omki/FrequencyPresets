@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Enterobius vermicularis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Enterobius vermicularis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Enterobius vermicularis mitochondrial DNA|Enterobius vermicularis mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Enterobius vermicularis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2718BC80097,~3362BC03096,"
+"[/Preset]"

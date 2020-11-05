@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human stool-associated circular virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human stool-associated circular virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human stool-associated circular virus NG13||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human stool-associated circular virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9820BC3444,"
+"[/Preset]"

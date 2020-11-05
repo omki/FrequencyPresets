@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Gardnerella vaginalis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Gardnerella vaginalis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Gardnerella vaginalis 409-05|Gardnerella vaginalis 409-05|Gardnerella vaginalis ATCC 14019|Gardnerella vaginalis ATCC 14019|Gardnerella vaginalis ATCC 14018 = JCM 11026 DNA|Gardnerella vaginalis strain FDAARGOS_568 chromosome|Gardnerella vaginalis HMP9231|Gardnerella vaginalis strain GV37 chromosome|Gardnerella vaginalis strain GV33 CRISPR|Gardnerella vaginalis strain GV21 CRISPR|Gardnerella vaginalis strain GV30 CRISPR|Gardnerella vaginalis strain GV28 CRISPR|Gardnerella vaginalis strain GV22 CRISPR|Gardnerella vaginalis strain GV25 CRISPR||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Gardnerella vaginalis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9117BC8424367,~7702BC5610775,~8366BC0728203,~0655BC5674830,~7516BC3357851,~2699BC7945502,~3243BC3371453,~7055BL0018,~2492BL0067,~0998BL3870,~8239BL2933,~2931BL9269,~7389BL6856,"
+"[/Preset]"

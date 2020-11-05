@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human coxsackievirus B3 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human coxsackievirus B3.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus B3 strain MKP|Human coxsackievirus B3 strain A103/KM/09|Human coxsackievirus B3 strain SSM-CVB3|Human coxsackievirus B3 strain 20|Human coxsackievirus B3 strain AH30|Human coxsackievirus B3 strain Fuyang19|Human coxsackievirus B3 strain Macocy|Human coxsackievirus B3 strain Nancy|Human coxsackievirus B3 strain 0|Human coxsackievirus B3 strain 28|Human coxsackievirus B3 strain GA|Human coxsackievirus B3 strain 2679|Human coxsackievirus B3 isolate CVB3SD2012CHN|Human coxsackievirus B3 isolate KM06|Human coxsackievirus B3 strain Beijing0811|Human coxsackievirus B3 strain GZ803||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human coxsackievirus B3 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~4057BC2807,~9850BL3967,~3207BL2744,~1793BL1072,~0034BL3160,~4746BL3893,~8183BL1212,~6789BL8300,"
+"[/Preset]"

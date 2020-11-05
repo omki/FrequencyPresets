@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Hepatitis D (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Hepatitis D.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Hepatitis D Virus|Hepatitis D virus isolate TW2479-53|Hepatitis D virus from Canada|Hepatitis D virus genomic RNA, isolate:VnzD8375|Hepatitis D virus genomic RNA, isolate:VnzD8349|Hepatitis D virus strain TW2667|Hepatitis D virus DNA, strain:Miyako(JA-M13)|Hepatitis D virus DNA, strain:Miyako(JA-M4)|Hepatitis D virus isolate TW2479-12s|Hepatitis D virus isolate TW2479-18|Hepatitis D virus isolate TW2479-13|Hepatitis D virus strain TW2476|Hepatitis D virus genomic RNA, isolate:VnzD8624|Hepatitis D virus isolate TWD2577-66 genotype I|Hepatitis D virus containing delta antigen ORF|Hepatitis D virus isolate TWD2476-38 genotype IIa||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Hepatitis D (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5112BC6792,~7501BC6498,~4361BC0790,~2867BC0742,~0198BC8408,~5800BC6432,~9248BC0744,~7843BC9090,~6084BC8444,~0786BC6524,~4234BL6435,~2720BL4115,~3384BL8444,"
+"[/Preset]"

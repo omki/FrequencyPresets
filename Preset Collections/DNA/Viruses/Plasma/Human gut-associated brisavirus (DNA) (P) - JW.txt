@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human gut-associated brisavirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human gut-associated brisavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human gut-associated brisavirus VW||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human gut-associated brisavirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9412BC4650,"
+"[/Preset]"

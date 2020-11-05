@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Coxsackievirus B2 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus B2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus B2 isolate NSW-V06-2008-CVB2|Coxsackievirus B2 isolate NSW-V16-2005-CVB2|Coxsackievirus B2 isolate NSW-V17-2006-CVB2|Coxsackievirus B2 isolate NSW-V29-2008-CVB2|Coxsackievirus B2 isolate NSW-V42-2008-CVB2|Coxsackievirus B2 isolate NSW-V52-2008-CVB2|Coxsackievirus B2 isolate NSW-V53-2010-CVB2|Coxsackievirus B2 strain 13-2380-2_B2|Coxsackievirus B2 strain Ohio|Coxsackievirus B2 strain RW41-2/YN/CHN/2012|Human coxsackievirus B2 isolate KOR 04-243|Human coxsackievirus B2 isolate KOR 04-279||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Coxsackievirus B2 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9478BL5635,~4280BL6220,~8628BL0940,~6124BL1869,~7878BL4779,~9167BL9365,~3504BL2005,~1000BL9285,~2764BL1668,~4053BL2012,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Ross River Virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Ross River Virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ross River virus (RRV) (strain NB5092) RNA|Ross River virus|Ross River virus isolate Ross River Virus/H.sapiens-wt/Australia/1972/14389|Ross River virus isolate Ross River Virus/A.vigilax-tc/Australia/1959/T48|Ross River virus strain 9057|Ross River virus strain 8961|Ross River virus isolate RRV_TT|Ross River virus strain 2982|Ross River virus strain 3078|Ross River virus strain 2975|Ross River virus strain T48|Ross River virus isolate MIDI86.2018|Ross River virus isolate MIDI13.2016|Ross River virus strain QML 1|Ross River virus isolate MIDI32.2017|Ross River virus isolate Ross River Virus/H.sapiens-wt/Australia/2009/PW14||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Ross River Virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4616BL03464,~2112BL85819,~0353BL46464,~5055BL00562,~9503BL03219,~7098BL97182,~5239BL36729,~0041BL10437,~4489BL12766,~2985BL97463,~3639BL60236,~5928BL97450,~9375BL97433,~7961BL01348,~8525BL99470,~0814BL60900,"
+"[/Preset]"

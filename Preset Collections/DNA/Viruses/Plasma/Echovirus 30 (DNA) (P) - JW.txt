@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Echovirus 30 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus 30.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus 30 strain Bastianni|Human echovirus 30 strain Echo30/Zhejiang/17/03/CSF|Human echovirus 30 isolate 14916net87|Human echovirus 30 strain Kor08-ECV30|Human echovirus 30 strain Bastianni||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Echovirus 30 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4244BL3769,~2105BL3381,~7288BL6827,~8832BL3805,~2644BL2887,"
+"[/Preset]"

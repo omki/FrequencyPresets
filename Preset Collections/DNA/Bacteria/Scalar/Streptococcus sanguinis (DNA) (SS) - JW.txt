@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Streptococcus sanguinis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus sanguinis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus sanguinis strain CGMH058 chromosome|Streptococcus sanguinis strain CGMH010 chromosome|Streptococcus sanguinis strain FDAARGOS_770 chromosome|Streptococcus sanguinis SK36|Streptococcus sanguinis SK36|Streptococcus sanguinis OH0843 s_sanguinis_OH0843_Ctg02|Streptococcus sanguinis OH0843 s_sanguinis_OH0843_Ctg01|Streptococcus sanguinis OH0843 s_sanguinis_OH0843_Ctg03||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Streptococcus sanguinis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7976BC2522814,~5472BC7583858,~6026BC2574961,~7315BC8871742,~2852BL071518,~0358BL5959700,~1902BL993917,"
+"[/Preset]"

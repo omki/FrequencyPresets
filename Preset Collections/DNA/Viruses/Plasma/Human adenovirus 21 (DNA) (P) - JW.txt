@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human adenovirus 21 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human adenovirus 21.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus 21 isolate OHT-006|Human adenovirus 21 strain VRDL T98-1269|Human adenovirus 21 strain VRDL T97-1745|Human adenovirus 21 strain NHRC 91447|Human adenovirus 21 strain NHRC 32389|Human adenovirus 21 strain NHRC 44288|Human adenovirus 21 strain NHRC 52331|Human adenovirus 21 strain NHRC 71227|Human adenovirus 21 strain NHRC 64589|Human adenovirus 21 strain CDC V2148A|Human adenovirus 21 strain NHRC 32493|Human adenovirus 21 strain PEL0066|Human adenovirus 21 strain NHRC 5|Human adenovirus 21 strain NHRC 71252|Human adenovirus 21 strain CDC V1375E|Human adenovirus 21 strain CDC RU8176|Human adenovirus 21 strain NHRC 63218|Human adenovirus 21 strain NHRC 71139|Human adenovirus 21 strain NHRC 10030|Human adenovirus 21 strain NHRC 20007|Human adenovirus 21 strain VRDL T87-0342|Human adenovirus 21||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human adenovirus 21 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0971BL57767,~5054BL44551,~6708BL59383,~0410BL71924,~5857BL43250,~3453BL96469,~1684BL81144,~5396BL28563,~0834BL96440,~8339BL28568,~9983BL10333,~1373BL44599,~5720BL44598,~3226BL71243,~4970BL73533,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Semliki Forest virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Semliki Forest virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Semliki Forest virus 4|Semliki Forest virus isolate L10|Semliki Forest virus strain NIV8913590|Semliki Forest virus strain SFV6|Semliki Forest virus isolate Tanzania53|Semliki Forest virus isolate Me tri 5-71|Semliki forest virus strain L10|Semliki forest virus|Semliki forest virus from Viet Nam||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Semliki Forest virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4499BL73547,~9847BL36041,~7343BL03441,~5673BL60529,~9386BL73550,~4723BL58080,~2329BL58229,"
+"[/Preset]"

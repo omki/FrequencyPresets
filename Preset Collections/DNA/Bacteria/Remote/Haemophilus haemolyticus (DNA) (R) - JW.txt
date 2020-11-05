@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Haemophilus haemolyticus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Haemophilus haemolyticus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Haemophilus haemolyticus strain M28486 chromosome|Haemophilus haemolyticus strain M19345 chromosome|Haemophilus haemolyticus strain M19346 chromosome||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Haemophilus haemolyticus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9534BC6781876,~0188BC0057263,~2577BC6823300,"
+"[/Preset]"

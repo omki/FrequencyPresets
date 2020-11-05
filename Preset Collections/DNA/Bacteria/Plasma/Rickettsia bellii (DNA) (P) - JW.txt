@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Rickettsia bellii (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia bellii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia bellii RML369-C|Rickettsia bellii RML369-C|Rickettsia bellii isolate An04 chromosome|Rickettsia bellii OSU 85-389||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Rickettsia bellii (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1909BC3750149,~2553BC0133089,~4842BC8343639,~1703BL4040587,"
+"[/Preset]"

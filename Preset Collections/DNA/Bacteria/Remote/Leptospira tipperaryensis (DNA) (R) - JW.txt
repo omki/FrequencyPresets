@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Leptospira tipperaryensis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Leptospira tipperaryensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Leptospira tipperaryensis strain GWTS #1 chromosome 1|Leptospira tipperaryensis strain GWTS#1 chromosome 1|Leptospira tipperaryensis strain GWTS #1 chromosome 2|Leptospira tipperaryensis strain GWTS#1 chromosome 2||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Leptospira tipperaryensis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9152BC3969673,~0441BC2011435,~5889BC567168,~3485BC053784,"
+"[/Preset]"

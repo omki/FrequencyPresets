@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Diabetes Type 1 (DNA) (R) - JW"
+"Preset_Notes=This preset holds data for pathogens linked to diabetes type 1.||Environmental factors, especially viruses, are thought to play an important role in the initiation or acceleration of the pathogenesis of type 1 diabetes (T1D).||Data from retrospective and prospective epidemiological studies strongly suggest that enteroviruses, such as coxsackievirus B4 (CV-B4), may be associated with the development of T1D.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus B4 isolate CVB4/GX/10|Human coxsackievirus B4 strain HHHT34T/NM/CHN/2010|Human coxsackievirus B4 strain BM24G/NM/CHN/2010|Human coxsackievirus B4 strain Tuscany|Human coxsackievirus B4 strain E2 variant||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Diabetes Type 1 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2126BL3870,~4415BL3205,~8963BL1040,~6458BL9308,~7012BL9584,"
+"[/Preset]"

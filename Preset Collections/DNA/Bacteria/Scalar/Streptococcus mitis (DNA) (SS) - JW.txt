@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Streptococcus mitis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus mitis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus mitis strain FDAARGOS_684 chromosome|Streptococcus mitis NCTC 12261 chromosome|Streptococcus mitis strain KCOM 1350 (= ChDC B183) chromosome|Streptococcus mitis strain KCOM 1350 (= ChDC B183)|Streptococcus mitis strain SK637 chromosome|Streptococcus mitis Nm-65 DNA|Streptococcus mitis strain S022-V3-A4 chromosome|Streptococcus mitis B6|Streptococcus mitis B6, strain B6|Streptococcus mitis strain SVGS_061 chromosome|Streptococcus mitis strain SVGS_061||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Streptococcus mitis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3371BC0071826,~4925BC9071413,~6214BC6808544,~3174BC0968390,~1670BC2638738,~0801BC0656771,~4613BC2070776,~8051BC2021508,~6556BC5114284,"
+"[/Preset]"

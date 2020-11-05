@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=NY_014 poxvirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for NY_014 poxvirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|NY_014 poxvirus strain 2013||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=NY_014 poxvirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7364BL566373,"
+"[/Preset]"

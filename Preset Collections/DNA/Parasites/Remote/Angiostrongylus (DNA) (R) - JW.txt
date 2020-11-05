@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Angiostrongylus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Angiostrongylus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Angiostrongylus cantonensis mitochondrion|Angiostrongylus cantonensis isolate FH.1 mitochondrion|Angiostrongylus cantonensis isolate SYD.1 mitochondrion|Angiostrongylus cantonensis mitochondrial DNA|Angiostrongylus cantonensis isolate TEN.1 mitochondrion|Angiostrongylus cantonensis isolate HAW.1 mitochondrion|Angiostrongylus cantonensis isolate AC3 mitochondrion|Angiostrongylus cantonensis isolate ACThai mitochondrion|Angiostrongylus costaricensis mitochondrion|Angiostrongylus costaricensis mitochondrial DNA|Angiostrongylus costaricensis isolate AC2 mitochondrion|Angiostrongylus mackerrasae isolate P43/19-E voucher W/L HC# N5721 mitochondrion|Angiostrongylus malaysiensis isolate AM6 mitochondrion|Angiostrongylus vasorum mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Angiostrongylus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2988BC21841,~4532BC04399,~8344BC35922,~2782BC35924,~0287BC08102,~9428BC04358,~3221BC54998,~8678BC53782,~5164BC55687,~6828BC95435,~8117BC08284,~3554BC08157,~1150BC08878,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Mycoplasma arthritidis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Mycoplasma arthritidis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycoplasma arthritidis 158L3-1|Mycoplasma arthritidis 158L3-1|Mycoplasma arthritidis bacteriophage MAV1||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Mycoplasma arthritidis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~2712BC586815,~6424BC038872,~1862BL06704,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=St. Louis encephalitis virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for St. Louis encephalitis virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|St. Louis encephalitis virus isolate 2281|St. Louis encephalitis virus isolate 39|St. Louis encephalitis virus isolate 43|St. Louis encephalitis virus isolate BeH355964|St. Louis encephalitis virus strain Palenque-C475|St. Louis encephalitis virus strain 79V-2533|St. Louis encephalitis virus strain CbaAr-4005|St. Louis encephalitis virus strain Palenque-A770|St. Louis encephalitis virus isolate Imperial Valley|St. Louis encephalitis virus strain Hubbard|St. Louis encephalitis virus strain Kern217||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=St. Louis encephalitis virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~3751BL51160,~7108BL51112,~5694BL99088,~6258BL66195,~8647BL19472,~3085BL51014,~0580BL62952,~1234BL26423,~3523BL62942,"
+"[/Preset]"

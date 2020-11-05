@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Giardia lamblia (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Giardia lamblia.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Giardia lamblia virus|Giardia lamblia virus|Giardia lamblia genomic locus 21||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Giardia lamblia (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7058BL4582,~5654BL4580,~3895BL6507,"
+"[/Preset]"

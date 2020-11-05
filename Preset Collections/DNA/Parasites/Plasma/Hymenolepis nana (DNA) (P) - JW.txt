@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Hymenolepis nana (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Hymenolepis nana.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Hymenolepis nana mitochondrial DNA|Hymenolepis nana mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Hymenolepis nana (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3086BC08561,~4730BC04154,"
+"[/Preset]"

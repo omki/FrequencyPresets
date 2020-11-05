@@ -1,0 +1,309 @@
+"[Preset]"
+"Base_Preset=\Miscellaneous\Spectro Chrome Light Therapy\Shell Presets\Remote.txt"
+"PresetName=Rabies, hydrophobia"
+"Preset_Notes=Preset developed by Eunice Lieveld.
+
+
+Rabies is a deadly virus spread to people from the saliva of infected animals. 
+The rabies virus is usually transmitted through a bite.
+
+Animals most likely to transmit rabies in the United States include bats, co-
+yotes, foxes, raccoons and skunks. In developing countries of Africa and South-
+east Asia, stray dogs are the most likely to spread rabies to people.
+
+Once a person begins showing signs and symptoms of rabies, the disease is nearly
+always fatal. For this reason, anyone who may have a risk of contracting rabies 
+should receive rabies vaccines for protection.
+Symptoms
+
+The first symptoms of rabies may be very similar to the flu and may last for days. 
+Later signs and symptoms may include:
+
+    Fever
+    Headache
+    Nausea
+    Vomiting
+    Agitation
+    Anxiety
+    Confusion
+    Hyperactivity
+    Difficulty swallowing
+    Excessive salivation
+    Fear of water (hydrophobia) because of the difficulty in swallowing
+    Hallucinations
+    Insomnia
+    Partial paralysis
+================================================
+
+247. Rabies, hydrophobia
+
+Premonitory stage:
+
+a. Green [32] systemic front and back.
+
+b. Blue [39] systemic front.
+
+c. Yellow [16-17] systemic back.
+
+Excitement stage:
+
+d. Yellow [16-17] systemic back (keep Color from shining on front areas).
+
+e. Magenta [65-66] on #1-2-3-4-5.
+
+f. Violet [51-52] systemic front.
+
+Paralytic stage:
+
+g. Scarlet [71] systemic front and back.
+
+NOTE: Condition is extremely serious, usually fatal
+================================================
+
+[70]Kidney and adrenal stimulant, area #18.
+
+[71]General stimulant. Increases functional activity of the arteries.
+
+[72]Raises blood pressure by three effects:
+
+[73]Constricts the blood vessels (vasoconstrictor)
+
+[74]Increases heart rate, areas #4-5
+
+[75]Stimulates activity of the kidneys and adrenals, area #18; and
+the chromaffin system, systemic front and back.
+
+[76]Accelerates fetal expulsion at lime of delivery (ecbolic).
+
+[77]Emotional stimulant. Builds sex powers by increasing sensitivity and desire when
+deficient (aphrodisiac).
+
+[78]Stimulates the reproductive system, and menstrual function (emmenagogue)."
+"Out1_Offset=-100"
+"Out2_Offset=-100"
+"Loaded_Programs=Color Scarlet"
+"Loaded_Frequencies=
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+,"
+"[/Preset]"

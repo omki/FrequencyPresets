@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Leptospira tipperaryensis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Leptospira tipperaryensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Leptospira tipperaryensis strain GWTS #1 chromosome 1|Leptospira tipperaryensis strain GWTS#1 chromosome 1|Leptospira tipperaryensis strain GWTS #1 chromosome 2|Leptospira tipperaryensis strain GWTS#1 chromosome 2||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Leptospira tipperaryensis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~9152BC3969673,~0441BC2011435,~5889BC567168,~3485BC053784,"
+"[/Preset]"

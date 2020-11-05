@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Duvenhage virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Duvenhage virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Duvenhage virus isolate 94286SA|Duvenhage virus isolate DUVVSA06|Duvenhage virus isolate 86132SA|Duvenhage virus isolate NL07||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Duvenhage virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9184BL99038,~4522BL60907,~2127BL30913,~3771BL89841,"
+"[/Preset]"

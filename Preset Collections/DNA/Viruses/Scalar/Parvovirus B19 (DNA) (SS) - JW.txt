@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Parvovirus B19 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Parvovirus B19.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human parvovirus B19 isolate 3rd_WHO_IRP|Human parvovirus B19 strain HZ1|Human parvovirus B19 isolate KU1|Human parvovirus B19 DNA, isolate: F27|Human parvovirus B19 isolate AA-01|Human parvovirus B19, isolate C39 from in-vitro culture|Human parvovirus B19, isolate C39 from plasma|Human parvovirus B19 isolate AA-04|Human parvovirus B19 isolate BX1|Human parvovirus B19 isolate BX2|Human parvovirus B19 isolate KU11|Human parvovirus B19 isolate KU12|Human parvovirus B19 isolate KU2|Human parvovirus B19 isolate KU3|Human parvovirus B19 isolate KU4|Human parvovirus B19 isolate KU5|Human parvovirus B19 isolate KU8|Human parvovirus B19||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Parvovirus B19 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1490BL7647,~2044BL7845,~4333BL0793,~9870BL3191,~7376BL1306,~8920BL6955,~9319BL1657,"
+"[/Preset]"

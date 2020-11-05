@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Bartonella bacilliformis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Bartonella bacilliformis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bartonella bacilliformis strain KC584 chromosome|Bartonella bacilliformis strain FDAARGOS_174 chromosome|Bartonella bacilliformis KC583||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Bartonella bacilliformis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7975BC3530554,~9264BC6425456,~3701BC4801003,"
+"[/Preset]"

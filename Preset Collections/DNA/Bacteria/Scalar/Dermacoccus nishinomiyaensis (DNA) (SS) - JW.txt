@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Dermacoccus nishinomiyaensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Dermacoccus nishinomiyaensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Dermacoccus nishinomiyaensis strain M25 chromosome|Dermacoccus nishinomiyaensis strain M25||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Dermacoccus nishinomiyaensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8454BC5037698,~2166BC9958120,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Giardia lamblia (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Giardia lamblia.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Giardia lamblia virus|Giardia lamblia virus|Giardia lamblia genomic locus 21||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Giardia lamblia (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~7058BL4582,~5654BL4580,~3895BL6507,"
+"[/Preset]"

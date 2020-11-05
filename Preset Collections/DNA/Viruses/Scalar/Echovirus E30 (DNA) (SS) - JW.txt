@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Echovirus E30 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E30.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E30 isolate NSW-V46-2008-ECHO30|Echovirus E30 isolate NSW-V47B-2005-ECHO30|Echovirus E30 strain USA/2017/CA-RGDS-1005|Echovirus E30 strain 1-B4-TW|Echovirus E30 strain 16-I10|Echovirus E30 strain USA/2018-23125|Echovirus E30 strain 2002-59|Echovirus E30 strain Bastianni|Echovirus E30 isolate E30SD2010CHN|Echovirus E30 strain 13-759|Echovirus E30 isolate 2012EM161|Echovirus E30 Echo30/Hokkaido.JPN/21208/2017 genomic RNA|Echovirus E30 Echo30/Hokkaido.JPN/21214/2017 genomic RNA|Echovirus E30 Echo30/Hokkaido.JPN/21246/2017 genomic RNA|Echovirus E30 Echo30/Hokkaido.JPN/21326/2017 genomic RNA|Echovirus E30 strain 13-311|Echovirus E30 strain 14-397|Echovirus E30 isolate ECV30/GX10/05||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Echovirus E30 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~6428BL4301,~0130BL4082,~4678BL6379,~2174BL3949,~3728BL1761,~5117BL3588,~0564BL6273,~7060BL2972,~8714BL1261,~0003BL0282,~5440BL2934,~3946BL3511,~4690BL1654,"
+"[/Preset]"

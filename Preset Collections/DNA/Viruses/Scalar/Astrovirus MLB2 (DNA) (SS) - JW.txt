@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Astrovirus MLB2 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Astrovirus MLB2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Astrovirus MLB2 isolate MLB2/human/Geneva/2014|Astrovirus MLB2 isolate MLB2/human/Stl/WD0559/2008|Astrovirus MLB2 RNA, isolate: GUP187|Astrovirus MLB2||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Astrovirus MLB2 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1563BL4960,~5900BL6602,~3406BL1974,~4160BL7898,"
+"[/Preset]"

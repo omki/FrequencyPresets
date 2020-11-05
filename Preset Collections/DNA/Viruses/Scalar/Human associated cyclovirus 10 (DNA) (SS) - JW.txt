@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human associated cyclovirus 10 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human associated cyclovirus 10.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human associated cyclovirus 10 strain 5841A|Human associated cyclovirus 10 strain 7046A|Human associated cyclovirus 10 strain 7078A|Human associated cyclovirus 10 strain 7081A||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human associated cyclovirus 10 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8593BC1003,~3941BC0139,~1447BC5906,"
+"[/Preset]"

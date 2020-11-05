@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human adenovirus 1 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human adenovirus 1.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus 1 strain SH2016|Human adenovirus 1 isolate SG05/HAdvC1/2016|Human adenovirus 1 isolate SG09/HAdvC1/2016|Human adenovirus 1 isolate SG08/HAdvC1/2016|Human adenovirus 1 strain QH-1665/2018||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human adenovirus 1 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~8826BL56515,~9115BL43090,~4563BL51413,~2158BL44935,"
+"[/Preset]"

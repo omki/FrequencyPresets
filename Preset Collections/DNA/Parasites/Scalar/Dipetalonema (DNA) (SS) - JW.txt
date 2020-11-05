@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Dipetalonema (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Dipetalonema.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Wolbachia endosymbiont of Dipetalonema caudispina strain 362YU chromosome||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Dipetalonema (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0510BC142404,"
+"[/Preset]"

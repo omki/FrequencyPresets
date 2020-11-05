@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=HIV-2 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for HIV-2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HIV-2 isolate DE20108JP005 from Japan|HIV-2 isolate DE20107NG002 from Nigeria|HIV-2 isolate LA43|HIV-2 isolate DE20189CI001 from Cote d'Ivoire|HIV-2 isolate LA42 from Senegal|HIV-2 isolate LA44|HIV-2 isolate LA40|HIV-2 isolate NNVA from India|HIV-2 isolate ALI from Guinea-Bissau|HIV-2 isolate LA37 from Senegal|HIV-2 isolate LA36GomM|HIV-2 isolate 03CM-510-03 from Cameroon|HIV-2 isolate Pt14D03|HIV-2 isolate NWK08 from USA|HIV-2 isolate CAM2|HIV-2 isolate MCR35|HIV-2 isolate 96FR12034 from France|HIV-2 isolate MCN13|HIV-2 isolate CRIK 147 from India|HIV-2|Human immunodeficiency virus type 2 from strain HIV-2UC1||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=HIV-2 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3706BL51497,~4095BL86878,~2956BL96393,~7038BL86507,~8682BL99722,~2495BL94222,~7832BL94276,~5338BL30254,~3669BL99782,~7371BL86596,~2728BL30288,~0314BL7154,~1978BL2369,~2267BL9610,~7705BL0857,~5200BL5171,~6854BL8406,~7144BL9185,~2681BL9415,~0187BL51817,~1731BL38397,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Babesia equi (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia equi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia equi strain WA chromosome 3|Babesia equi strain WA chromosome 1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Babesia equi (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7288BL3059916,~1980BL5646681,"
+"[/Preset]"

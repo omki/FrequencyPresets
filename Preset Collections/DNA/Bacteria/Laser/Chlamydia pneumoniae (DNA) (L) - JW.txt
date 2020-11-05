@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Chlamydia pneumoniae (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Chlamydia pneumoniae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Chlamydia pneumoniae TW-183|Chlamydia pneumoniae J138|Chlamydia pneumoniae AR39|Chlamydia pneumoniae CWL029|Chlamydia pneumoniae LPCoLN||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Chlamydia pneumoniae (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~3172BC6377329,~1677BC6336198,~2321BC5599273,~6034BC6354357,~1471BC6300030,"
+"[/Preset]"

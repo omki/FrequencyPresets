@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human adenovirus 21a (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human adenovirus 21a.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human adenovirus 21a isolate LRTI-2|Human adenovirus 21a isolate LRTI-1|Human adenovirus 21a isolate LRTI-8|Human adenovirus 21a isolate human/CHN/BB/201903/21|Human adenovirus 21a isolate LRTI-7|Human adenovirus 21a isolate LRTI-9|Human adenovirus 21a isolate LRTI-5|Human adenovirus 21a isolate LRTI-6|Human adenovirus 21a isolate LRTI-3|Human adenovirus 21a isolate LRTI-4|Human adenovirus 21a isolate LRTI-5|Human adenovirus 21a isolate Sibu-97||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human adenovirus 21a (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7618BL26548,~1156BL71214,~9651BL59388,~0205BL69544,~2694BL59395,~6042BL46210,~4548BL59392,~5292BL51043,~0904BL71209,~4341BL46215,"
+"[/Preset]"

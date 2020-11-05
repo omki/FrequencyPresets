@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Bartonella henselae (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Bartonella henselae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bartonella henselae str. Houston-1|Bartonella henselae strain Houston-1|Bartonella henselae strain Houston-I chromosome|Bartonella henselae, strain BM1374163|Bartonella henselae, strain BM1374165||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Bartonella henselae (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1169BC0013526,~9664BC1324010,~7805BC9838124,~2607BC0996012,~6055BC5291156,"
+"[/Preset]"

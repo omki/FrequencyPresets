@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Providencia alcalifaciens (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Providencia alcalifaciens.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Providencia alcalifaciens Dmel2 plasmid pPALC1|Providencia alcalifaciens strain BT169 plasmid pBT169|Providencia alcalifaciens strain FDAARGOS_408 chromosome|Providencia alcalifaciens strain 1701003 chromosome||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Providencia alcalifaciens (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4856BC08661,~9394BC3569,~6899BC5819627,~5030BC0345843,"
+"[/Preset]"

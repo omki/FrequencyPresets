@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Hendra virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Hendra virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Hendra virus strain HeV/Australia/Bat/2009/CedarGrove 11c|Hendra virus strain HeV/Australia/Bat/2009/TolgaScrub 30g|Hendra virus strain HeV/Australia/Bat/2009/Yeppoon Y47a|Hendra virus strain HeV/Australia/Bat/2009/Yeppoon Y4a|Hendra virus strain HeV/Australia/Horse/2006/Murwillumbah|Hendra virus strain HeV/Australia/Horse/2007/Clifton Beach Q|Hendra virus strain HeV/Australia/Horse/2007/CliftonBeach|Hendra virus strain HeV/Australia/Horse/2007/Peachester|Hendra virus strain HeV/Australia/Horse/2008/Proserpine|Hendra virus strain HeV/Australia/Horse/2008/Redlands|Hendra virus strain HeV/Australia/Horse/2009/Cawarral|Hendra virus strain HeV/Australia/Human Female/2008/Redlands|Hendra virus||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Hendra virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2334BL35355,~6136BL53591,~0584BL05734,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Treponema denticola (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Treponema denticola.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Treponema denticola ATCC 35405|Treponema denticola ATCC 35405|Treponema denticola plasmid pTS1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Treponema denticola (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3752BC8280505,~7465BC5513597,~2902BC7287,"
+"[/Preset]"

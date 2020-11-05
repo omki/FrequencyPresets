@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Hudisavirus sp. (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Hudisavirus sp..||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Hudisavirus sp. isolate P19|Hudisavirus sp. isolate P3_2|Hudisavirus sp. isolate P23|Hudisavirus sp. isolate P22|Hudisavirus sp. isolate P29|Hudisavirus sp. isolate P13_2|Hudisavirus sp. isolate P18|Hudisavirus sp. isolate P13_1|Hudisavirus sp. isolate ETH_P25_2016|Hudisavirus sp. isolate ETH_P22_2016|Hudisavirus sp. isolate ETH_P4_2016|Hudisavirus sp. isolate ETH_P8_2016|Hudisavirus sp. isolate ETH_P7_2016|Hudisavirus sp. isolate ETH_P20_2016||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Hudisavirus sp. (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4229BC8319,~2715BC3471,~3379BC5998,~8171BC8327,~2528BC8421,~0024BC7750,~8355BC8071,~3067BC8560,~7405BL8682,~5900BL2179,~4241BL6924,~8943BL2199,~2391BL3921,~0987BL5866,"
+"[/Preset]"

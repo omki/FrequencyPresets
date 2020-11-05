@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Pediculus humanus corporis chimeric (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Pediculus humanus corporis chimeric.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 2|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 1|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 1|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 5|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 7|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 3|Pediculus humanus corporis chimeric mitochondrial mini-chromosome Type 6||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Pediculus humanus corporis chimeric (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0506BC6416,~8102BC6412,~9756BC5832,~0045BC1202,~5483BC4212,~3088BC2590,~4642BC7198,"
+"[/Preset]"

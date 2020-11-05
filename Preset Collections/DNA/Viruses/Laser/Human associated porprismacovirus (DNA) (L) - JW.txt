@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human associated porprismacovirus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human associated porprismacovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human associated porprismacovirus 3 isolate 16806x66_213|Human associated porprismacovirus isolate 17488x45_1790|Human associated porprismacovirus 2 isolate SF2|Human associated porprismacovirus isolate 16845x3_952||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human associated porprismacovirus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1217BC6434,~2961BC7989,~3250BC5048,~8607BC8024,"
+"[/Preset]"

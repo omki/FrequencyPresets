@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia africae (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia africae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia africae ESF-5 plasmid pRAF|Rickettsia africae ESF-5|Rickettsia africae ESF-5||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia africae (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0481BC63538,~8986BC1633212,~9530BC0432767,"
+"[/Preset]"

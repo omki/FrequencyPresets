@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Strongyloides stercoralis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Strongyloides stercoralis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Strongyloides stercoralis D024_2 mitochondrial DNA|Strongyloides stercoralis HTB177_4 mitochondrial DNA|Strongyloides stercoralis P11_8 mitochondrial DNA|Strongyloides stercoralis MYZ001_8 mitochondrial DNA|Strongyloides stercoralis isolate PV001 mitochondrion|Strongyloides stercoralis mitochondrial DNA, isolate: PV001||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Strongyloides stercoralis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7352BC08513,~1065BC34628,~6402BC34970,~4008BC34948,~2249BC08980,~7941BC62074,"
+"[/Preset]"

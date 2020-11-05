@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human foamy virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human foamy virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human foamy virus proviral DNA HFV||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human foamy virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2242BL24872,"
+"[/Preset]"

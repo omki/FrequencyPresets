@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Candida albicans (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Candida albicans.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida albicans strain L296 mitochondrion|Candida albicans strain L757 mitochondrion|Candida albicans strain CBS 562 mitochondrion|Candida albicans SC5314 mitochondrion|Candida albicans strain TIMM 1768 chromosome 6|Candida albicans strain TIMM 1768 chromosome 7|Candida albicans ITS1 processing site A2|Candida albicans strain TIMM 1768 chromosome 3|Candida albicans ITS1 processing site A3|Candida albicans strain TIMM 1768 chromosome R|Candida albicans strain TIMM 1768 chromosome 1|Candida albicans genomic DNA, chromosome 7||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Candida albicans (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9099BC73832,~4801BC75106,~8249BC48548,~6745BC79266,~5085BL8651123,~9788BL6216914,~3135BL341,~1731BL3309169,~2385BL885,~4674BL8535621,~9011BL8074096,~6617BL850785,"
+"[/Preset]"

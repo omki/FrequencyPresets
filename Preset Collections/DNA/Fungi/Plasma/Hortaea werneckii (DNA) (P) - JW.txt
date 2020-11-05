@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Hortaea werneckii (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Hortaea werneckii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Hortaea werneckii totivirus 1 strain HwTv1EXF-2000||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Hortaea werneckii (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2452BL8411,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Echovirus E7 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E7.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E7 isolate NSW-V35A-2006-ECHO7|Echovirus E7 isolate NSW-V36-2012-ECHO7|Echovirus E7 isolate NSW-V49-2012-ECHO7|Echovirus E7 isolate NSW-V28-2007-ECHO7|Echovirus E7 isolate Env_2016_Sep_E-7a|Echovirus E7 isolate Env_2017_Jan_E-7|Echovirus E7 isolate Env_2016_Sep_E-7b|Echovirus E7 strain Nigeria/AFP/2014|Echovirus E7 isolate 98-57213|Echovirus E7 strain DH22G/JS/2012|Echovirus E7 isolate 98-59065|Echovirus E7 isolate Wallace|Echovirus E7 isolate RIGVIR|Echovirus E7 strain Ibadan_NGR_2010|Echovirus E7 strain 2001-031|Echovirus E7 strain 2001-31|Echovirus E7 strain 40/Longyou/ZJ|Echovirus E7 isolate 3988/09|Echovirus E7 isolate 07VI447|Echovirus E7 isolate 98-60628||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Echovirus E7 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~9350BL2487,~1749BL4475,~5186BL4319,~3682BL1266,~4336BL2900,~6625BL1560,~3486BL3242,~8668BL9408,~9222BL6239,~3924BL9532,~8472BL3891,~6968BL4472,~4108BL2978,~9811BL1668,~3358BL1688,~1854BL9405,~2408BL3766,~4897BL9273,"
+"[/Preset]"

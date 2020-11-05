@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Babesia microti (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia microti.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia microti strain RI apicoplast|Babesia microti strain RI mitochondrion, isoform 2|Babesia microti strain RI mitochondrion, isoform 3|Babesia microti strain RI mitochondrion, isoform 4|Babesia microti mitochondrial DNA, genome structure type-I, strain: Munich|Babesia microti mitochondrial DNA, genome structure type-II, strain: Munich|Babesia microti mitochondrial DNA, genome structure type-III, strain: Munich|Babesia microti mitochondrial DNA, genome structure type-IV, strain: Munich|Babesia microti strain RI mitochondria|Babesia microti strain RI chromosome I|Babesia microti strain RI chromosome II|Babesia microti strain RI chromosome III|Babesia microti strain RI chromosome IV||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Babesia microti (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9353BC57274,~3701BL43906,~1206BL64629,~2950BL58973,~4240BL2413558,~8687BL5891291,~6283BL3360659,~7837BL1479255,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Nihonkaiense (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Nihonkaiense.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Diphyllobothrium nihonkaiense mitochondrion|Diphyllobothrium nihonkaiense mitochondrial DNA|Diphyllobothrium nihonkaiense mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Nihonkaiense (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0857BC92814,~1511BC54370,~2800BC24284,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Anaerococcus prevotii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Anaerococcus prevotii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Anaerococcus prevotii DSM 20548 plasmid pAPRE01|Anaerococcus prevotii DSM 20548|Anaerococcus prevotii DSM 20548||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Anaerococcus prevotii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3696BC976733,~4240BC2529980,~6639BC9269556,"
+"[/Preset]"

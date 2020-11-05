@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Candida parapsilosis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Candida parapsilosis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida parapsilosis strain SR23 telomeric minicircle; mitochondrial|Candida parapsilosis mitochondrion|Candida parapsilosis strain CLIB214 mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Candida parapsilosis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4459BC396,~8261BL58703,~3609BL55606,"
+"[/Preset]"

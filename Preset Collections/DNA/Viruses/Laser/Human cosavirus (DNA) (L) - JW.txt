@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human cosavirus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human cosavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human cosavirus A strain AM326/BRA-AM/2017|Human cosavirus E1|Human cosavirus isolate Cosavirus-zj-1|Human cosavirus B1|Human cosavirus D1|Human cosavirus isolate Cosavirus_Amsterdam_1994||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human cosavirus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1509BL6937,~5202BL7602,~0659BL1392,~8245BL1578,~9809BL1207,~0198BL9254,"
+"[/Preset]"

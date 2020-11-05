@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Hepatitis G (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Hepatitis G.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|GB virus C/Hepatitis G virus|Hepatitis G virus isolate R10291|Hepatitis G virus isolate 765|Hepatitis G virus strain HGV-Iw isolate pHGVqz|Hepatitis G virus strain Iowan|Hepatitis G virus||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Hepatitis G (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4162BL4231,~5552BL9209,~0999BL3202,~8495BL0518,~9149BL8575,~0438BL8472,"
+"[/Preset]"

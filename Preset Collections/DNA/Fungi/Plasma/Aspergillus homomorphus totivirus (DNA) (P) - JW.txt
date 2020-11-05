@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Aspergillus homomorphus totivirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Aspergillus homomorphus totivirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Aspergillus homomorphus totivirus 1 strain AhTv1CBS 101889||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Aspergillus homomorphus totivirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9584BL6618,"
+"[/Preset]"

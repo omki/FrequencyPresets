@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=HBV genotype G (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for HBV genotype G.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|HBV genotype G DNA, isolate: MEX921M|HBV genotype G DNA, isolate: HB-JI444GF|HBV genotype G DNA, isolate: MEX918M||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=HBV genotype G (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~0610BC6421,~8215BC4541,~9869BC5443,"
+"[/Preset]"

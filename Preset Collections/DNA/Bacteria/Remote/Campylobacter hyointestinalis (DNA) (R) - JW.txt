@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Campylobacter hyointestinalis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Campylobacter hyointestinalis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Campylobacter hyointestinalis subsp. hyointestinalis strain S12 chromosome|Campylobacter hyointestinalis subsp. lawsonii CCUG 27631 chromosome|Campylobacter hyointestinalis subsp. hyointestinalis strain CCUG 14169 chromosome|Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260 chromosome|Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260|Campylobacter hyointestinalis subsp. lawsonii strain CHY5 chromosome|Campylobacter hyointestinalis subsp. lawsonii strain CHY5 plasmid pCHY5|Campylobacter hyointestinalis subsp. hyointestinalis strain S12 plasmid pCh1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Campylobacter hyointestinalis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~6451BC5968353,~4946BC0603589,~2187BC8160287,~6999BC3926791,~1337BC0005829,~9833BC4232,~0587BC4007,"
+"[/Preset]"

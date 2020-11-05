@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Echovirus E25 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E25.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E25 isolate NSW-V58-2010-ECHO25|Echovirus E25 isolate NSW-V09-2008-ECHO25|Echovirus E25 strain USA/2018-23126|Echovirus E25 isolate NSW-V07-2007-ECHO25|Echovirus E25 isolate NSW-V08-2008-ECHO25|Echovirus E25 strain USA/CA/RGDS-2017-1010|Echovirus E25 strain 10-4339-2|Echovirus E25 isolate E25SD2010CHN|Echovirus E25 strain XM0297|Echovirus E25 strain E25/2010/CHN/BJ|Echovirus E25 strain USA/2016-19521|Echovirus E25 strain E25/ZE-wly/Zhejiang/CHN/2005||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Echovirus E25 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9784BL5006,~7280BL2420,~8834BL9084,~0123BL6234,~4671BL9385,~2176BL2247,~3720BL2772,~5110BL3156,~0557BL4807,~7053BL6475,~8707BL3520,"
+"[/Preset]"

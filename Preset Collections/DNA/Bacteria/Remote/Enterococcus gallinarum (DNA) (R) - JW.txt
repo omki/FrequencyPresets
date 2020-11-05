@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Enterococcus gallinarum (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Enterococcus gallinarum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Enterococcus gallinarum strain FDAARGOS_728 chromosome|Enterococcus gallinarum strain A6981 plasmid pA6981|Enterococcus gallinarum strain FDAARGOS_163 chromosome||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Enterococcus gallinarum (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~5164BC4596845,~9876BC97366,~4314BC4250517,"
+"[/Preset]"

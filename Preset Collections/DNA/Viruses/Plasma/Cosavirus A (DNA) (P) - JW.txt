@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Cosavirus A (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Cosavirus A.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human cosavirus A strain AM326/BRA-AM/2017||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Cosavirus A (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5394BL3429,"
+"[/Preset]"

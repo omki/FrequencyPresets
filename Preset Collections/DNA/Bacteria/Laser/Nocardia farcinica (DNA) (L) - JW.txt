@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Nocardia farcinica (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Nocardia farcinica.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Nocardia farcinica strain NCTC11134 plasmid 3|Nocardia farcinica IFM 10152 plasmid pNF1 DNA|Nocardia farcinica IFM 10152 plasmid pNF1|Nocardia farcinica strain NCTC11134 plasmid 2|Nocardia farcinica strain NCTC11134 plasmid 5|Nocardia farcinica IFM 10152 DNA|Nocardia farcinica IFM 10152|Nocardia farcinica strain W6977 chromosome|Nocardia farcinica IFM 10152 plasmid pNF2 DNA|Nocardia farcinica IFM 10152 plasmid pNF2|Nocardia farcinica strain NCTC11134 plasmid 4||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Nocardia farcinica (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~5597BC76903,~6141BC354822,~8430BC3694025,~2988BC66277,~0483BC4437707,~1037BC7711429,~5840BC71909,~0287BC91474,"
+"[/Preset]"

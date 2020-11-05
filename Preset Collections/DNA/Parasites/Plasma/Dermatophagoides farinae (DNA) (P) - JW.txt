@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Dermatophagoides farinae (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Dermatophagoides farinae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Dermatophagoides farinae isolate AD521 mitochondrion|Dermatophagoides farinae mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Dermatophagoides farinae (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7237BC39360,~2675BC97548,"
+"[/Preset]"

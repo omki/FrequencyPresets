@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Coxsackievirus B4 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus B4.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus B4 isolate Env_2017_Jan_CV-B4|Coxsackievirus B4 isolate NSW-V31-2010-CVB4|Coxsackievirus B4 isolate NSW-V57-2007-CVB4|Coxsackievirus B4 isolate NSW-V11-2010-CVB4|Coxsackievirus B4 strain 2019/FR/3996|Coxsackievirus B4 strain EPV3715|Coxsackievirus B4 isolate Laiwu/SD/CHN/2013|Coxsackievirus B4 isolate HN23/CHN/2013|Coxsackievirus B4 isolate CV-B4/P11/2013/China|Coxsackievirus B4|Human coxsackievirus B4 isolate CVB4/GX/10|Human coxsackievirus B4 strain HHHT34T/NM/CHN/2010|Human coxsackievirus B4 strain BM24G/NM/CHN/2010|Human coxsackievirus B4 strain Tuscany|Human coxsackievirus B4 strain E2 variant||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Coxsackievirus B4 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7583BL5219,~9872BL8708,~6733BL2268,~2815BL2617,~3479BL9092,~7272BL9545,~2629BL1742,~9115BL2543,~8456BL9661,~2168BL4477,~7505BL4493,~5101BL3901,~6755BL9304,"
+"[/Preset]"

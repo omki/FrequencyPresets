@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Malassezia globosa (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Malassezia globosa.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Malassezia globosa strain CBS7966 mitochondrion|Malassezia globosa culture CBS:7966 mitochondrion|Malassezia globosa culture CBS:7874 mitochondrion|Malassezia globosa culture CBS:7990 mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Malassezia globosa (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4296BC58458,~9734BC26294,~7230BC43279,~5470BC42630,"
+"[/Preset]"

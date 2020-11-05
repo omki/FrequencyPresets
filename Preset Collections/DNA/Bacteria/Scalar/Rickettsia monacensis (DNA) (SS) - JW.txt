@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia monacensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia monacensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia monacensis plasmid pRM|Rickettsia monacensis strain IrR/Munich plasmid pRM|Rickettsia monacensis, strain IrR/Munich||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia monacensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1427BC25928,~5220BC04324,~0677BC9265296,"
+"[/Preset]"

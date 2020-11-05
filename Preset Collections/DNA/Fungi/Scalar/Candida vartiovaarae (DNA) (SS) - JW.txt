@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Candida vartiovaarae (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Candida vartiovaarae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida vartiovaarae strain CBS 4289 mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Candida vartiovaarae (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4063BC75861,"
+"[/Preset]"

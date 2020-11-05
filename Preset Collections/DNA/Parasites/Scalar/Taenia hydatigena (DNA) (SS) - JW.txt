@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Taenia hydatigena (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Taenia hydatigena.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Taenia hydatigena mitochondrion|Taenia hydatigena mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Taenia hydatigena (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7010BC54754,~5516BC08445,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Kyasanur forest disease virus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Kyasanur forest disease virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Kyasanur Forest disease virus strain NIV16877|Kyasanur Forest disease virus strain NIV16855|Kyasanur forest disease virus strain G11338|Kyasanur forest disease virus strain W-377|Kyasanur forest disease virus strain KFD P 9605|Kyasanur forest disease virus strain P9605||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Kyasanur forest disease virus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0752BL01241,~4454BL09152,~9801BL86443,~7497BL20803,~5638BL96627,"
+"[/Preset]"

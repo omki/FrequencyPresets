@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Husavirus sp. (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Husavirus sp..||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Husavirus sp. isolate 16915_89|Husavirus sp. isolate 16370_59|Husavirus sp. isolate 19344_29||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Husavirus sp. (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~0930BL5708,~5387BL7193,~3983BL8126,"
+"[/Preset]"

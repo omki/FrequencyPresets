@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Babesia motasi (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia motasi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia motasi isolate Ningxian apicoplast|Babesia motasi isolate Hebei apicoplast|Babesia motasi isolate Lintan apicoplast|Babesia motasi isolate Tianzhu apicoplast|Babesia motasi isolate Lintan mitochondrion|Babesia motasi isolate Tianzhu mitochondrion|Babesia motasi isolate Hebei mitochondrion|Babesia motasi isolate Ningxian mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Babesia motasi (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~5411BC61480,~0859BC52022,~8354BC76515,~9008BC1750,~0398BC3025,~7158BC7349,"
+"[/Preset]"

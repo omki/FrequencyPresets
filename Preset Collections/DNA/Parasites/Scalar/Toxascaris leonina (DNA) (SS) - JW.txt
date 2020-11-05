@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Toxascaris leonina (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Toxascaris leonina.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Toxascaris leonina mitochondrion|Toxascaris leonina isolate TC13 mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Toxascaris leonina (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5387BC08986,~6031BC20210,"
+"[/Preset]"

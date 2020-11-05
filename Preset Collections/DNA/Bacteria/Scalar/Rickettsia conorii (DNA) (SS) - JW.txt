@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia conorii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia conorii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia conorii str. Malish 7|Rickettsia conorii str. Malish 7||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia conorii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2606BC0822928,~0947BC9571680,"
+"[/Preset]"

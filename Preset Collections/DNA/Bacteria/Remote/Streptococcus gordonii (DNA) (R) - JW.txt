@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Streptococcus gordonii (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus gordonii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus gordonii strain FDAARGOS_371 chromosome|Streptococcus gordonii strain IE35|Streptococcus gordonii strain FDAARGOS_683 chromosome|Streptococcus gordonii str. Challis substr. CH1|Streptococcus gordonii str. Challis substr. CH1|Streptococcus gordonii strain FDAARGOS_257 chromosome|Streptococcus gordonii strain KCOM 1506 (= ChDC B679) chromosome|Streptococcus gordonii strain KCOM 1506 (= ChDC B679)||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Streptococcus gordonii (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2862BC7637099,~6210BC0316196,~4806BC7684715,~3046BC9525892,~7759BC7021155,~2196BC7815209,~9792BC5073472,"
+"[/Preset]"

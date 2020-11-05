@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=MW polyomavirus (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for MW polyomavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|MW polyomavirus strain MA095|MW polyomavirus isolate HN037|MW polyomavirus isolate HN104|MW polyomavirus isolate HB017C|MW polyomavirus isolate HB040C|MW polyomavirus isolate HB039C|MW polyomavirus isolate HB087C|MW polyomavirus isolate TEDDY_01|MW polyomavirus isolate Y96|MW polyomavirus strain QLDMW02|MW polyomavirus strain QLDMW03|MW polyomavirus strain QLDMW04|MW polyomavirus strain QLDMW05|MW polyomavirus strain QLDMW09|MW polyomavirus strain QLDMW10|MW polyomavirus strain QLDMW11|MW polyomavirus strain QLDMW12|MW polyomavirus strain QLDMW13|MW polyomavirus strain WD976|MW polyomavirus||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=MW polyomavirus (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9038BC0210,~4585BC7322,~2071BC0846,~0212BC0177,~4024BC0849,~9462BC9054,~7967BC8500,"
+"[/Preset]"

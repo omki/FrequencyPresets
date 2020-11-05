@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human T-cell leukemia virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human T-cell leukemia virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human T-cell leukemia virus type I OATL9B proviral DNA|Human T-cell leukemia virus type I isolate PH1511|Human T-cell leukemia virus type I OATL9A DNA|Human T-cell leukemia virus type I isolate ATL MhD1|Human T-cell leukemia virus type I isolate MhD ATL2|Human T-cell leukemia virus type I isolate MhD ATL3|Human T-cell leukemia virus type I isolate MhD ATL4|Human T-cell leukemia virus type I isolate MhD ATL5|Human T-cell leukemia virus type I ED proviral DNA|Human T-cell leukemia virus type I isolate PH1209|Human T-cell leukemia virus type I isolate PH1376|Human T-cell leukemia virus type I isolate PH507|Human T-cell leukemia virus type I isolate PH610|Human T-cell leukemia virus type I isolate PH71|Human T-cell leukemia virus type I isolate PH961||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human T-cell leukemia virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~3610BL3096,~2841BL8033,~6553BL0091,~0091BL1659,~8597BL7624,~7737BL4928,"
+"[/Preset]"

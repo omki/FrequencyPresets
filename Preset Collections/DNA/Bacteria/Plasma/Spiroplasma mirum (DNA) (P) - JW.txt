@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Spiroplasma mirum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Spiroplasma mirum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Spiroplasma mirum ATCC 29335 chromosome|Spiroplasma mirum ATCC 29335|Spiroplasma mirum ATCC 29335 strain SMCA chromosome|Spiroplasma mirum ATCC 29335 strain SMCA||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Spiroplasma mirum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~2999BC5151714,~1130BC1089686,~5932BC3625491,~9380BC9957769,"
+"[/Preset]"

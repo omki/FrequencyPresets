@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Mycoplasma genitalium (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Mycoplasma genitalium.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycoplasma genitalium M6282|Mycoplasma genitalium M6282|Mycoplasma genitalium M2288|Mycoplasma genitalium M2288|Mycoplasma genitalium M6320|Mycoplasma genitalium M6320|Mycoplasma genitalium M2321|Mycoplasma genitalium M2321|Mycoplasma genitalium G37|Mycoplasma genitalium G37||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Mycoplasma genitalium (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~6832BC669274,~7486BC940878,~9775BC642446,~3112BC121405,~1718BC195133,~2362BC058089,~4651BC602925,"
+"[/Preset]"

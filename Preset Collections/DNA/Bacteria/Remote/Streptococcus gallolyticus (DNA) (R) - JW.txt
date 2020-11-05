@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Streptococcus gallolyticus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Streptococcus gallolyticus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Streptococcus gallolyticus strain ICDDRB-NRC-S1|Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069 plasmid pSGG1|Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069 plasmid pSGG1, strain ATCC BAA-2069|Streptococcus gallolyticus strain FDAARGOS_755 chromosome|Streptococcus gallolyticus UCN34|Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069|Streptococcus gallolyticus subsp. gallolyticus ATCC 43143 DNA|Streptococcus gallolyticus subsp. gallolyticus ATCC 43143|Streptococcus gallolyticus subsp. gallolyticus DSM 16831 chromosome|Streptococcus gallolyticus subsp. gallolyticus DSM 16831||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Streptococcus gallolyticus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7558BC3831379,~2996BC30898,~0591BC3774692,~1145BC6446230,~5858BC3105318,~0395BC8700245,~7891BC3295193,~6022BC5827507,"
+"[/Preset]"

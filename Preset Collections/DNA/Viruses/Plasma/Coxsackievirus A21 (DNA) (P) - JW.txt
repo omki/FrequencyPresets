@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Coxsackievirus A21 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A21.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A21 strain USA/TN/2015-OB2038|Coxsackievirus A21 strain V12125(MSH6283)/Ft Jackson South Carolina USA/2000|Coxsackievirus A21 strain V16073(UC8)/Ft Jackson South Carolina USA/2004|Coxsackievirus A21 strain 429/Ft Jackson South Carolina USA/1998|Coxsackievirus A21 strain T197/Ft Jackson South Carolina USA/2002|Coxsackievirus A21 isolate 16SF042|Coxsackievirus A21 isolate JN12377/SD/CHN/2012/CVA21|Coxsackievirus A21 strain NIV17-608-2|Human coxsackievirus A21 (strain Coe) genomic RNA|Human coxsackievirus A21 strain Kuykendall|Human coxsackievirus A21 strain Kuykendall||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Coxsackievirus A21 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3363BL6224,~4652BL4418,~9099BL0237,~7595BL1031,~8249BL9363,~0538BL2801,~7399BL9220,~2571BL6485,~3125BL3767,"
+"[/Preset]"

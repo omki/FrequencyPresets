@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Echovirus E6 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E6.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E6 isolate Env_2017_Jan_E-6|Echovirus E6 isolate NSW-V18-2007-ECHO6|Echovirus E6 strain 2-C2|Echovirus E6 strain 2-D5-TW|Echovirus E6 strain 2005-29-1|Echovirus E6 isolate 78R2|Echovirus E6 strain EchoE6/22/ZJ/CHN/2018|Echovirus E6 isolate E6SD11CHN|Echovirus E6 strain K727/YN/CHN/2013|Echovirus E6 strain K843/YN/CHN/2013|Echovirus E6 isolate 2012EM100|Echovirus E6 isolate 2012EM95|Echovirus E6 strain FIN09-NPA|Echovirus E6 RNA, strain: Echo6/Hokkaido.JPN/19720/2011|Echovirus E6 RNA, strain: Echo6/Hokkaido.JPN/19722/2011|Echovirus E6 RNA, strain: Echo6/Hokkaido.JPN/19723/2011|Echovirus E6 RNA, strain: Echo6/Hokkaido.JPN/19724/2011|Echovirus E6 strain KM57-09|Echovirus E6 isolate E6-366/HB/CHN/2015|Echovirus E6 isolate E6/P735/2013/China|Echovirus E6 isolate RA/E6/Ahvaz/Iran/2011|Echovirus E6 strain E6/2011/Iran/Ahvaz||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Echovirus E6 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7325BL2522,~5565BL4462,~0368BL4071,~4715BL4492,~2211BL6420,~0542BL3880,~5254BL2852,~9691BL6875,~7297BL6874,~8841BL3820,~0130BL2059,~4688BL1177,~2173BL2961,"
+"[/Preset]"

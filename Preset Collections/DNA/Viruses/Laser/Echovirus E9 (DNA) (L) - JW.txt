@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Echovirus E9 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E9.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E9 isolate NSW-V47A-2005-ECHO9|Echovirus E9 isolate NSW-V54-2005-ECHO9|Echovirus E9 isolate NSW-V32-2008-ECHO9|Echovirus E9 strain USA/CA/RGDS-2017-1011|Echovirus E9 strain UW0|Echovirus E9 strain USA/MI/2004-23028|Echovirus E9 strain MSH/KM812/2010|Echovirus E9 strain 11-2042-1|Echovirus E9 strain DM14|Echovirus E9 strain DM33|Echovirus E9 strain DM34|Echovirus E9 strain UW1||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Echovirus E9 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~4857BL0573,~2453BL3463,~3007BL9140,~4396BL3026,~9844BL6519,~7339BL3936,~8993BL4466,~0383BL3766,~4720BL2965,~2226BL2070,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Rickettsia buchneri (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia buchneri.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia buchneri strain ISO7 plasmid pREISMN_3|Rickettsia buchneri strain ISO7 plasmid pREISMN_1||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Rickettsia buchneri (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~3071BC20127,~4725BC48903,"
+"[/Preset]"

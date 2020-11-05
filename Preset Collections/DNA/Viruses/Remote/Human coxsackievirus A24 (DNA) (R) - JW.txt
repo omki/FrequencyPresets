@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human coxsackievirus A24 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human coxsackievirus A24.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus A24 strain China/GD01/2010|Human coxsackievirus A24 strain China/GD332/2007|Human coxsackievirus A24 strain China/GD391/2007|Human coxsackievirus A24 strain China/GD46/2010|Human coxsackievirus A24 strain Joseph|Human coxsackievirus A24|Human coxsackievirus A24 DNA|Human coxsackievirus A24 isolate DSO-26/2005|Human coxsackievirus A24 isolate DSO-52/2005||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human coxsackievirus A24 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~6702BL6463,~3673BL1639,~9755BL1174,~0309BL2095,~4112BL3348,~9559BL9252,~6055BL2867,"
+"[/Preset]"

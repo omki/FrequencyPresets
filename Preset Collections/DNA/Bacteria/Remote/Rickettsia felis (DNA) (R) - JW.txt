@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Rickettsia felis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia felis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia felis URRWXCal2|Rickettsia felis URRWXCal2 plasmid pRFdelta|Rickettsia felis URRWXCal2 plasmid pRF|Rickettsia felis plasmid pRF||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Rickettsia felis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~6464BC9741514,~1911BC49365,~9407BC45222,~0061BC42721,"
+"[/Preset]"

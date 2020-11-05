@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=NY_014 poxvirus (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for NY_014 poxvirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|NY_014 poxvirus strain 2013||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=NY_014 poxvirus (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7364BL566373,"
+"[/Preset]"

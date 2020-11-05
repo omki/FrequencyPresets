@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Mycobacterium leprae (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium leprae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium leprae strain MRHRU-235-G chromosome|Mycobacterium leprae Br4923 sequence|Mycobacterium leprae Kyoto-2 DNA|Mycobacterium leprae TN||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Mycobacterium leprae (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4678BC4591268,~2174BC4741902,~1304BC9140164,~5117BC4741103,"
+"[/Preset]"

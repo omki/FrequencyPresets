@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Rickettsia japonica (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia japonica.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia japonica YH DNA|Rickettsia japonica YH|Rickettsia japonica DNA, strain: OHH-1|Rickettsia japonica strain LA4/2015 chromosome|Rickettsia japonica strain LA16/2015 chromosome|Rickettsia japonica DNA, strain: HH-1|Rickettsia japonica DNA, strain: PO-1|Rickettsia japonica DNA, strain: HH07124|Rickettsia japonica DNA, strain: HH06154|Rickettsia japonica DNA, strain: DT-1|Rickettsia japonica DNA, strain: HH07167|Rickettsia japonica DNA, strain: Nakase|Rickettsia japonica DNA, strain: Tsuneishi|Rickettsia japonica DNA, strain: YH_M|Rickettsia japonica DNA, strain: MZ08014||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Rickettsia japonica (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~9968BC6254793,~7464BC6322650,~8018BC0403156,~0407BC4904233,~4854BC6322397,~2350BC2175435,~3904BC5725567,~8716BC9242061,~2154BC3274256,~0659BC9551624,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Salmonella enteritidis (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Salmonella enteritidis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Salmonella enteritidis plasmid pB|Salmonella enteritidis serovar Enteritidis plasmid pK|Salmonella enteritidis serovar Enteritidis plasmid pP|Salmonella enteritidis serovar Enteritidis plasmid pC||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Salmonella enteritidis (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5089BC9469,~3574BC7263,~4238BC3292,~5528BC3368,"
+"[/Preset]"

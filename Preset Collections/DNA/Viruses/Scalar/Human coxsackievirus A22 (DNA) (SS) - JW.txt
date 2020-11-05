@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Human coxsackievirus A22 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Human coxsackievirus A22.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus A22 strain ban99-10427|Human coxsackievirus A22 strain USA75-10624|Human coxsackievirus A22 strain 438913|Human coxsackievirus A22 strain Chulman||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Human coxsackievirus A22 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~5630BL3793,~9088BL6862,~7584BL7093,~8138BL1213,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Rickettsia rickettsii (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia rickettsii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia rickettsii str. Brazil|Rickettsia rickettsii str. R|Rickettsia rickettsii str. Arizona|Rickettsia rickettsii str. Iowa|Rickettsia rickettsii str. Iowa|Rickettsia rickettsii str. Hauke|Rickettsia rickettsii str. Morgan|Rickettsia rickettsii str. Hino|Rickettsia rickettsii str. Colombia|Rickettsia rickettsii str. Hlp#2|Rickettsia rickettsii str. 'Sheila Smith'||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Rickettsia rickettsii (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1890BC8513888,~3189BC6364001,~7637BC0359853,~5132BC4977857,~6786BC2220072,~8075BC9577875,~2513BC4978738,~0019BC2166650,~1663BC5730882,~3052BL2153406,"
+"[/Preset]"

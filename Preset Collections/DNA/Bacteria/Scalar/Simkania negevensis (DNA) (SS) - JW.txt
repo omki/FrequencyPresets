@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Simkania negevensis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Simkania negevensis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Simkania negevensis Z plasmid pSn|Simkania negevensis Z plasmid pSn|Simkania negevensis Z chromosome gsn.131|Simkania negevensis Z main chromosome||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Simkania negevensis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7948BC392928,~8692BC170929,~0981BC7900923,~7752BC8875439,"
+"[/Preset]"

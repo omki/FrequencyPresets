@@ -1,0 +1,319 @@
+"[Preset]"
+"Base_Preset=\Miscellaneous\Spectro Chrome Light Therapy\Shell Presets\Contact.txt"
+"PresetName=Breakbone fever (dengue)"
+"Preset_Notes=Preset developed by Eunice Lieveld.
+
+
+Dengue (DENG-gey) fever is a mosquito-borne disease that occurs in tropical 
+and subtropical areas of the world. Mild dengue fever causes a high fever, 
+rash, and muscle and joint pain. A severe form of dengue fever, also called 
+dengue hemorrhagic fever, can cause severe bleeding, a sudden drop in blood 
+pressure (shock) and death.
+
+Millions of cases of dengue infection occur worldwide each year. Dengue fever 
+is most common in Southeast Asia and the western Pacific islands, but the dis-
+ease has been increasing rapidly in Latin America and the Caribbean.
+
+Researchers are working on dengue fever vaccines. For now the best prevention 
+is to reduce mosquito habitat in areas where dengue fever is common.
+Symptoms
+
+Many people, especially children and teens, may experience no signs or symptoms 
+during a mild case of dengue fever. When symptoms do occur, they usually begin 
+four to seven days after you are bitten by an infected mosquito.
+
+Dengue fever causes a high fever — 104 F degrees — and at least two of the fol-
+lowing symptoms:
+
+    Headache
+    Muscle, bone and joint pain
+    Nausea
+    Vomiting
+    Pain behind the eyes
+    Swollen glands
+    Rash
+
+Most people recover within a week or so. In some cases, symptoms worsen and 
+can become life-threatening. Blood vessels often become damaged and leaky. 
+And the number of clot-forming cells (platelets) in your bloodstream drops. 
+This can cause a severe form of dengue fever, called dengue hemorrhagic fever, 
+severe dengue or dengue shock syndrome.
+
+Signs and symptoms of dengue hemorrhagic fever or severe dengue — a life-
+threatening emergency — include:
+
+    Severe abdominal pain
+    Persistent vomiting
+    Bleeding from your gums or nose
+    Blood in your urine, stools or vomit
+    Bleeding under the skin, which might look like bruising
+    Difficult or rapid breathing
+    Cold or clammy skin (shock)
+    Fatigue
+    Irritability or restlessness
+================================================
+
+234. Breakbone fever (dengue)
+
+a. Green [32] and Blue [39] systemic front.
+
+b. Purple [54-60] systemic front to include extremities when with high 
+fever and pain. Magenta [66] at other times.
+
+c. Scarlet [71-72] systemic front and back if circulatory collapse 
+(fever shock syndrome) appears imminent.
+
+d. Indigo [44-47] systemic front and on hemorrhages.
+
+For convalescence:
+
+e. Lemon [22-28] systemic to include rash areas (a few cases do not have a rash).
+
+f. After one week add Yellow [17] systemic front.
+
+g. Continue Lemon + Yellow for three weeks after all obvious symptoms disappear,
+
+h. Conclude with Turquoise [36] systemic front.
+================================================
+
+[22] Produces a favorable change in the processes of nutrition and repair in 
+persistent disorders (chronic alterative). Dissolves blood clots.
+
+[23] Promotes coughing to expel mucus and fluids from the lungs and air 
+passages, areas #2-3-4-5-17 (expectorant).
+
+[24] Bone builder, by phosphorus effect.
+
+[25] Brain stimulant, areas #1-15.
+
+[26] Thymus builder and stimulant, areas #4-5.
+
+[27] Mildly stimulates digestive system, areas #6-7-8-9-10-18-19 (laxative).
+
+[28] Equilibrator after extended use of ultra-Green tonations."
+"Loaded_Programs=Color Lemon"
+"Loaded_Frequencies=
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+,"
+"[/Preset]"

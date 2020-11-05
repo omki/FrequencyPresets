@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Warts (filiform) (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data of micro-organisms associated with filiform warts.||Filiform warts are made up of long, thin projections of skin, giving them a distinctive appearance. They often occur around a person's eyes or lips. These warts are also called digitate or facial warts.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human papillomavirus type 2 isolate C2|Human papillomavirus type 2 isolate CN-HB1|Human papillomavirus type 2 isolate C1|Human papillomavirus type 2 isolate CN-SC1|Human papillomavirus type 4|Human papillomavirus type 29||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Warts (filiform) (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~1296BC9271,~5908BC3275,~0446BC3072,~7941BL3103,~6182BL4238,"
+"[/Preset]"

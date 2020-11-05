@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Wesselsbron virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Wesselsbron virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Wesselsbron virus strain WSLV-IP259570/SEN/2013|Wesselsbron virus strain WSLV-IP248525/SEN/2013|Wesselsbron virus strain WSLV-IP262451/SEN/2014|Wesselsbron virus isolate SA999-10|Wesselsbron virus from South Africa|Wesselsbron virus strain SAH177||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Wesselsbron virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0641BL43916,~8246BL94509,~9890BL78690,~0180BL61500,~5537BL94761,~3133BL26598,"
+"[/Preset]"

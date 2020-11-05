@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Babesia bovis (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia bovis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia bovis T2Bo apicoplast|Babesia bovis strain T2Bo apicoplast|Babesia bovis T2Bo chromosome 2|Babesia bovis T2Bo chromosome 3|Babesia bovis T2Bo mitochondrion|Babesia bovis mitochondrion|Babesia bovis strain Mo7 merozoite surface antigen-2 locus||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Babesia bovis (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~2722BC71001,~4111BC69091,~9559BL3851146,~6055BL8622359,~7709BL5723,~9098BL2260,"
+"[/Preset]"

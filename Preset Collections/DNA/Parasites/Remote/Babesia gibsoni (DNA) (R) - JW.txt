@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Babesia gibsoni (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia gibsoni.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia gibsoni isolate WH58 mitochondrion|Babesia gibsoni mitochondrial DNA, strain: HUVIMdr1|Babesia gibsoni mitochondrial DNA, strain: HUVIMdr2|Babesia gibsoni mitochondrial DNA, strain: HUVIMwt1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Babesia gibsoni (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~2622BL9317,~0128BL9782,~8359BL9930,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Atopobium parvulum (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Atopobium parvulum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Atopobium parvulum DSM 20469|Atopobium parvulum DSM 20469||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Atopobium parvulum (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7611BC0140101,~5842BC3765935,"
+"[/Preset]"

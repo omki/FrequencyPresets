@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human coxsackievirus B5 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human coxsackievirus B5.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human coxsackievirus B5 strain CVB5/CC10/16|Human coxsackievirus B5 strain CVB5/CC10/17|Human coxsackievirus B5 strain A210/KM/09|Human coxsackievirus B5 isolate CVB5/SD/09|Human coxsackievirus B5 strain COXB5/Henan/2010|Human coxsackievirus B5 isolate 19CSF|Human coxsackievirus B5 strain CVB5/CC10/10|Human coxsackievirus B5 isolate 2000/CSF/KOR|Human coxsackievirus B5 isolate 17Y|Human coxsackievirus B5 isolate 20CSF|Human coxsackievirus B5 isolate 03001N|Human coxsackievirus B5 strain ChZJ-1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human coxsackievirus B5 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~6189BL0834,~1527BL4166,~9023BL3212,~0777BL3197,~2066BL3793,~9826BL6862,~7422BL6481,~5663BL1211,~9365BL9668,~4713BL6489,~2308BL2939,"
+"[/Preset]"

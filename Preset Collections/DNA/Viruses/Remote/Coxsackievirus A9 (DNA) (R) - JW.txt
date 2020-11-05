@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Coxsackievirus A9 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Coxsackievirus A9.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Coxsackievirus A9 isolate NSW-V14-2009-CVA9|Coxsackievirus A9 isolate NSW-V56-2006-CVA9|Coxsackievirus A9 isolate NSW-V41-2013-CVA9|Coxsackievirus A9 strain 1-D7-CA9|Coxsackievirus A9 isolate NSW-V20-2008-CVA9|Coxsackievirus A9 strain 16C8|Coxsackievirus A9 strain USA/2015/CA-RGDS-1050|Coxsackievirus A9 strain 16C2|Coxsackievirus A9 strain LHY03|Coxsackievirus A9 strain USA/MI/2005-23029|Coxsackievirus A9 isolate CV-A9/P351/2013/China|Coxsackievirus A9 isolate CV-A9/P56/2013/China|Coxsackievirus A9 isolate CV-A9/P220/2013/China|Human coxsackievirus A9 genomic RNA, strain: Griggs||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Coxsackievirus A9 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~3949BL7732,~1445BL6167,~2099BL4349,~3488BL9088,~8836BL6633,~6321BL2731,~7085BL1019,~8374BL3963,~3712BL2998,~1318BL2994,~2962BL1606,~6674BL9628,~1111BL2026,~9617BL9616,"
+"[/Preset]"

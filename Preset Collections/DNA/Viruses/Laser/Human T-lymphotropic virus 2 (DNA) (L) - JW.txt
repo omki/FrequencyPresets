@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human T-lymphotropic virus 2 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human T-lymphotropic virus 2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human T-lymphotropic virus 2 isolate Pygmy 550602|Human T-lymphotropic virus 2 NIID18002 proviral DNA|Human T-lymphotropic virus 2 HTLV-2/Japan/NIID/001/2020 proviral DNA|Human T-lymphotropic virus 2 NIID18001 proviral DNA||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human T-lymphotropic virus 2 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~8459BL2084,~6955BL5588,~7609BL0555,~9998BL6571,"
+"[/Preset]"

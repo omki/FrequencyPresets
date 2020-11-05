@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Malassezia furfur (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Malassezia furfur.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Malassezia furfur isolate CBS14141 mitochondrion|Malassezia furfur culture CBS:7710 mitochondrion|Malassezia furfur culture CBS:7982 mitochondrion|Malassezia furfur culture CBS:1878 strain CBS 1878 mitochondrion|Malassezia furfur culture CBS:4172 mitochondrion|Malassezia furfur culture CBS:JPLK23 mitochondrion|Malassezia furfur culture CBS:7019 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Malassezia furfur (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5009BC78530,~3595BC70032,~4159BC77779,~5548BC74790,~3308BC75740,~8481BC92096,~9135BC08598,"
+"[/Preset]"

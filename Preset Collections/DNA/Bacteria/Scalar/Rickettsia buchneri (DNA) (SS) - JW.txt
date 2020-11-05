@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia buchneri (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia buchneri.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia buchneri strain ISO7 plasmid pREISMN_3|Rickettsia buchneri strain ISO7 plasmid pREISMN_1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia buchneri (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~3071BC20127,~4725BC48903,"
+"[/Preset]"

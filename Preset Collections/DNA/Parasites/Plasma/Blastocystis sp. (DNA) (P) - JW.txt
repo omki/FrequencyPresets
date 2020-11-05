@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Blastocystis sp. (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Blastocystis sp..||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Blastocystis sp. ST4 mitochondrion|Blastocystis sp. DMP/02-328 mitochondrion|Blastocystis sp. subtype 4 strain DMP/10-212 mitochondrion|Blastocystis sp. subtype 8 strain DMP/08-128 mitochondrion|Blastocystis sp. subtype 3 strain DMP/08-326 mitochondrion|Blastocystis sp. subtype 3 strain DMP/IH478 mitochondrion|Blastocystis sp. subtype 3 strain DMP/08-1043 mitochondrion|Blastocystis sp. subtype 3 mitochondrion|Blastocystis sp. subtype 2 strain Flemming mitochondrion|Blastocystis sp. NandII mitochondrion|Blastocystis sp. NandII mitochondrion|Blastocystis sp. subtype 9 strain F5323 mitochondrion|Blastocystis sp. subtype 6 strain SSI:754 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Blastocystis sp. (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~6306BC39183,~7050BC16919,~9349BC39900,~3796BC39859,~1382BC27382,~2946BC81604,~6648BC24451,~1196BC82117,~9692BC39285,~7822BC40368,~1635BC33063,~6072BC33468,"
+"[/Preset]"

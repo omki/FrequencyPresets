@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Kunjin virus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Kunjin virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Kunjin virus isolate Boort|Kunjin virus isolate GU0631|Kunjin virus isolate GU1009|Kunjin virus isolate Hu6774|Kunjin virus isolate K68967|Kunjin virus isolate K74015|Kunjin virus isolate NSW2012|Kunjin virus isolate P9974|Kunjin virus isolate SA2011|Kunjin virus isolate CH16514C||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Kunjin virus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~5033BL43414,~0470BL43414,~8076BL66779,"
+"[/Preset]"

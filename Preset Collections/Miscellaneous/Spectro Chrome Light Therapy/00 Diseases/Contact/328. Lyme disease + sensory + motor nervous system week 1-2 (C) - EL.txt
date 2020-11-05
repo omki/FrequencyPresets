@@ -1,0 +1,1262 @@
+"[Preset]"
+"Base_Preset=\Miscellaneous\Spectro Chrome Light Therapy\Shell Presets\Contact.txt"
+"PresetName=Lyme disease"
+"Preset_Notes=Preset developed by Eunice Lieveld.
+
+
+Lyme disease is caused by four main species of bacteria. Borrelia burg-
+dorferi and Borrelia mayonii cause Lyme disease in the United States, 
+while Borrelia afzelii and Borrelia garinii are the leading causes in 
+Europe and Asia. The most common tick-borne illness in these regions, 
+Lyme disease is transmitted by the bite of an infected black-legged tick, 
+commonly known as a deer tick.
+
+You're more likely to get Lyme disease if you live or spend time in gras-
+sy and heavily wooded areas where ticks carrying Lyme disease thrive. It's 
+important to take common-sense precautions in tick-infested areas.
+Symptoms
+
+    Photo of the bull's-eye rash characteristic of Lyme disease
+    Lyme disease rash
+
+The signs and symptoms of Lyme disease vary. They usually appear in stages, 
+but the stages can overlap.
+
+Early signs and symptoms
+
+A small, red bump, similar to the bump of a mosquito bite, often appears at 
+the site of a tick bite or tick removal and resolves over a few days. This 
+normal occurrence doesn't indicate Lyme disease.
+
+However, these signs and symptoms can occur within a month after you've been 
+infected:
+
+    Rash. From three to 30 days after an infected tick bite, an expanding red 
+    area might appear that sometimes clears in the center, forming a bull's-eye 
+    pattern. The rash (erythema migrans) expands slowly over days and can spread 
+    to 12 inches (30 centimeters) across. It's typically not itchy or painful but 
+    might feel warm to the touch.
+
+    Erythema migrans is one of the hallmarks of Lyme disease, although not every-
+    one with Lyme disease develops the rash. Some people develop this rash at more 
+    than one place on their bodies.
+
+    Other symptoms. Fever, chills, fatigue, body aches, headache, neck stiffness 
+    and swollen lymph nodes can accompany the rash.
+
+Later signs and symptoms
+
+If untreated, new signs and symptoms of Lyme infection might appear in the fol-
+lowing weeks to months. These include:
+
+    Erythema migrans. The rash may appear on other areas of your body.
+
+    Joint pain. Bouts of severe joint pain and swelling are especially likely to 
+    affect your knees, but the pain can shift from one joint to another.
+
+    Neurological problems. Weeks, months or even years after infection, you might 
+    develop inflammation of the membranes surrounding your brain (meningitis), 
+    temporary paralysis of one side of your face (Bell's palsy), numbness or weak-
+    ness in your limbs, and impaired muscle movement.
+
+Less common signs and symptoms
+
+Several weeks after infection, some people develop:
+
+    Heart problems, such as an irregular heartbeat
+    Eye inflammation
+    Liver inflammation (hepatitis)
+    Severe fatigue
+================================================
+
+328. Lyme disease
+
+Acute stage:
+
+a. Green [29] and Blue [39] systemic front.
+
+b. Schedule #284 if with chills.
+Shivering is an indication that the body requires a higher internal 
+temperature-try Scarlet [72] on #1-2-3-4-5-18 or systemic. Chills 
+may be felt at the onset of a fever or other problem; try Purple [63] 
+on #1-2-3-4-5 without waiting for a Forecast time. If onset is felt 
+without chills, see note in schedule #231, and then schedule #315
+
+315. Unexplained fever (FUO)
+
+a. Green [29-32] and Blue [39] systemic front.
+
+b. Magenta [65-67] on #4-5-18 or Purple [60] on #4-5 if fever is high.
+
+c. If fever persists without explanation, try Yellow [17] systemic front. 
+If fever does not drop, continue with instructions a. and b. for a few 
+days, then repeat c.
+
+d. If fever is a recurrent type, between episodes tonate Yellow [17] 
+Lemon [22] and Purple [61] systemic front.
+
+NOTE: Chronic stage may develop along any of several courses: 
+arthritis,  Color Schedule #212; 
+212. Osteo-arthritis, rheumatoid arthritis
+
+Acute condition:
+
+a. Green [29-31-32] and Magenta [66] systemic to include affected areas.
+
+b. Blue [39] or Indigo [45-47] on affected areas.
+
+Chronic condition:
+
+c. Lemon [22-24] and Magenta [66] systemic to include affected areas.
+
+d. Turquoise [33] and/or Indigo [44-47] if with effusions or pain.
+
+e. Orange [14] on areas of bone atrophy.
+
+
+
+nerve involvement, #275 or 276; 
+a. Lemon [22] and Yellow [16-17] 1 for two weeks, then
+
+b. Lemon [22] and Orange [15] for four weeks, then
+
+c. Lemon [22] and Red [1] for six weeks.
+
+
+
+skin ulcers, #186; 
+186. Skin diseases/sores/ulceration. Athlete's foot. Moles. Warts.
+
+Moist or weeping types:
+
+a. Turquoise [33-35] systemic to include affected area until 
+signs of drying appear, then also tonate:
+
+b. Indigo [44] on affected area.
+
+Dry or scaly types:
+
+c. Lemon [22] systemic to include affected area, and
+
+d. Orange [15] on affected area until area erupts and exudes freeiy 
+(becomes a weeping type), then
+
+e. Continue as listed for weeping types (a. and b.)
+
+NOTE: Do not use soap on affected area. Diet, allergies, or emotional stress 
+may be involved in some cases. If sores or ulcerations tend to recur, see 
+Schedule #314. Athlete's fool is a weeping type but its cause is an external 
+fungus feeding on dead skin which is not in the circulator)' system; Spectro-
+Chrome may help but is not usually effective except if an infection occurs. 
+Similar comment applies to moles and warts.
+
+
+recurring fever, #226; 
+226. Relapsing or intermittent fevers
+
+When there is fever:
+
+a. Green [32] Blue [39], and Purple [61] systemic front.
+
+b. Magenta [65] on #4-5.
+
+When there is little or no fever:
+
+c. Yellow [17] and Lemon [22] systemic front.
+
+d. Magenta [65] on #4-5.
+
+e. When fever no longer recurs,conclude with Turquoise [35-36] systemic front
+
+
+
+heart problems, #65 or 71; 
+65. Acute carditis
+
+a. Turquoise [33] systemic front.
+
+b. Magenta [65] on #4-5.
+
+c. Indigo [44] on #4-5 if with effusion
+
+
+71. Cardiac arrhythmia
+
+a. Lemon [22] and Magenta [65-66] systemic front. In some cases tonating 
+systemic from area #22 may be moreeFfective, and even essential.
+
+b. Orange or Indigo systemic front may be required if cardiac Q-T duration 
+(refractorv period) is abnormal due to calcium imbalance.
+
+NOTE: Dietary intake of calcium and/or potassium may need modification
+
+
+
+chronic fatigue, #330;
+330. Chronic fatigue syndrome
+
+a. Lemon [22] systemic front if with little or no fever.
+
+b. Turquoise [33] systemic front if with fever.
+
+NOTE: Though technically not part of Chronic fatigue syndrome, some causes
+of energy loss can be: 
+
+A) Anemia, schedule #174; 
+174. Anemia {see #309 for sickle-cell anemia, #316 for pernicious anemia)
+
+a. Red [3] and Lemon [22] systemic front from #22.
+
+NOTE: Underlying cause can be parasites, poor diet, 
+hemorrhage, acute fever, poisons, etc.
+
+
+B) Hypothyroidism, #60;
+60. Thyroid underactivity (hypothyroidism), myxedema, cretinism
+
+a. Orange [7-15] and Lemon [22] systemic front.
+
+b. Green [30] on #1
+
+
+C) Adrenal underactivity, #163; 
+163. Adrenal underactivity (secondary adrenal insufficiency)
+
+a. Lemon [22] systemic back.
+
+b. Green [30] on #1 if underlying cause is panhypopituitarism.
+
+c. Indigo [44] on #1-15 if brain tumor is present.
+
+d. Scarlet [70] on #18; Magenta [67] also may be useful.
+NOTE: Thyroid and reproductive functions may be affected
+
+
+D) Sleep and emotional problems, #7 and 323;
+323. Phobias. Schizophrenia. Mental/emotional disorders
+
+Spectro-Chrome most likely will need help for these conditions. Emotional 
+disorders often have roots which may be difficult to identify. Behavioral 
+modification methods frequently are effective. Depending on individual 
+circumstances, one or more of these Colors may be tried (local or systemic):
+
+Yellow [20],Lemon [22], Purple [62], Magenta [64], Scarlet [77]
+
+The Table of Color Attributes indicates the reason for considering each 
+Color. Duo-Chrome (Chapter 13) with Green/Magenta is as yet untested but 
+holds promise for these and similar conditions.
+
+E) Low blood pressure, #278; 
+278. Low blood pressure (hypotension)
+
+a. Lemon [22] and Scarlet [72] systemic front and back (tonating systemic 
+from #22 is more effective in some cases and may be essential).
+
+b. Magenta [65-67] on #4-5-18.
+
+NOTE: Persistent systolic blood pressure below 110 mm/Hg in adults may be 
+termed low blood pressure. Several factors may be involved and require 
+attention: heart or circulatory dysfunction, hemorrhage, anemia, infections, 
+severe diarrhea, neurologic lesions, etc. Tonate this schedule until cause 
+is determined
+
+F) Poor digestion, see #109;
+109. Constipation (costiveness)
+
+a. Lemon [22-27] systemic front
+
+b. Yellow [18-19] on #6-7-8-9-10, also Orange [I1-13-15] if condition 
+does not respond
+
+NOTE: Colors also may be tonated on #18-19. See Chapter five, part one, 
+paragraphs c through i, and q. Diet probably needs improvement. In an 
+occasional case, emotional factors may be involved; if so, try Violet 
+[51] or Purple [54] on #1 (or systemic front
+ 
+G) Poor diet. 
+
+
+and see Chapter six.
+================================================
+
+[29] Cerebral equilibrator, areas #1-15. Physical equilibrator, systemic front.
+
+[30] Pituitary stimulant and equilibrator, area #1
+
+[31] Stimulates the rebuilding of muscles and tissues.
+
+[32] Destroys microorganisms, germs, bacteria; cleanses and prevents decay 
+(germicide,bactericide, disinfectant, antiseptic)."
+"Loaded_Programs=Color Green"
+"Loaded_Frequencies=
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+531.5  f20.08553696 c0=4W11w10,
+531.5  f 2.71828183 c0=5W11w10,
+,"
+"[/Preset]"
+"[Preset]"
+"Base_Preset=\Miscellaneous\Spectro Chrome Light Therapy\Shell Presets\Contact.txt"
+"PresetName=Color Blue"
+"Preset_Notes=Preset developed by Eunice Lieveld.
+
+Color Dinshah Blue
+
+[37] Relieves itching, and irritation of abraded surfaces (antipruritic, 
+demulcent).
+
+[38] Encourages perspiration (diaphoretic).
+
+[39] Mild sedative. Reduces or removes fever and inflammation (febrifuge, 
+antipyretic,antiphlogistic).
+
+[40] Pineal stimulant Area #1; builds vitality.
+
+Connect cylinder or TENS pads to generator, with Spooky Boost for best results."
+"Loaded_Programs=Color  Blue"
+"Loaded_Frequencies=
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+598.6    f20.08553696 c0=4W11w10,
+598.6    f 2.71828183 c0=5W11w10,
+
+598.6    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+598.5    f20.08553696 c0=4W11w10,
+598.5    f 2.71828183 c0=5W11w10,
+,"
+"[/Preset]"
+"[Preset]"
+"Base_Preset=\Miscellaneous\Spectro Chrome Light Therapy\Shell Presets\Contact.txt"
+"PresetName=Color Lemon"
+"Preset_Notes=Preset developed by Eunice Lieveld.
+
+Color Dinshah Lemon
+
+[22] Produces a favorable change in the processes of nutrition and repair in 
+persistent disorders (chronic alterative). Dissolves blood clots.
+
+[23] Promotes coughing to expel mucus and fluids from the lungs and air 
+passages, areas #2-3-4-5-17 (expectorant).
+
+[24] Bone builder, by phosphorus effect.
+
+[25] Brain stimulant, areas #1-15.
+
+[26] Thymus builder and stimulant, areas #4-5.
+
+[27] Mildly stimulates digestive system, areas #6-7-8-9-10-18-19 (laxative).
+
+[28] Equilibrator after extended use of ultra-Green tonations.
+
+Connect cylinder or TENS pads to generator, with Spooky Boost for best results."
+"Loaded_Programs=Color Lemon"
+"Loaded_Frequencies=
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+498  f20.08553696 c0=4W11w10,
+498  f 2.71828183 c0=5W11w10,
+,"
+"[/Preset]"
+"[Preset]"
+"Base_Preset=\Miscellaneous\Spectro Chrome Light Therapy\Shell Presets\Contact.txt"
+"PresetName=Color yellow"
+"Preset_Notes=Preset developed by Eunice Lieveld.
+
+Color Dinshah YELLOW
+
+[16]Stimulates the motor nervous system which energizes the muscles. Nerve 
+builder for sensory and motor systems.
+
+[17]Stimulates the lymphatic system. Mild tissue stimulant.
+
+[18]Stimulates the intestines, pancreas, and production of digestive fluids - 
+bile, hydrochloric acid, etc., areas #6-7-8-9-10-18-19 (digestant, cholagogue).
+
+[19]Increases bowel movements, areas #9-10-18-19 (cathartic).
+
+[20]Spleen depressant; equilibrator in melancholia, balances areas #6-7 through 
+the portal circulation.
+
+[21]Expels worms and parasites (anthelmintic). 
+
+
+Connect cylinder or TENS pads to generator, with Spooky Boost for best results."
+"Loaded_Programs=Color yellow"
+"Loaded_Frequencies=
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+464.4    f20.08553696 c0=4W11w10,
+464.4    f 2.71828183 c0=5W11w10,
+
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+464.5    f20.08553696 c0=4W11w10,
+464.5    f 2.71828183 c0=5W11w10,
+,"
+"[/Preset]"

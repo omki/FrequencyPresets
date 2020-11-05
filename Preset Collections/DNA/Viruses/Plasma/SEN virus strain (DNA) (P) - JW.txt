@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=SEN virus strain (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for SEN virus strain.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|SEN virus strain HDMU-13|SEN virus strain HDMU-97||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=SEN virus strain (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~4349BC7186,~5638BC2240,"
+"[/Preset]"

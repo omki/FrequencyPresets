@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Mycobacterium leprae (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Mycobacterium leprae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Mycobacterium leprae strain MRHRU-235-G chromosome|Mycobacterium leprae Br4923 sequence|Mycobacterium leprae Kyoto-2 DNA|Mycobacterium leprae TN||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Mycobacterium leprae (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4678BC4591268,~2174BC4741902,~1304BC9140164,~5117BC4741103,"
+"[/Preset]"

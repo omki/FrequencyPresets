@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Alcaligenes faecalis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Alcaligenes faecalis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Alcaligenes faecalis strain GZAF1 plasmid pGZAF1_VIM|Alcaligenes faecalis strain ZD02 plasmid pZD02|Alcaligenes faecalis strain J481 chromosome|Alcaligenes faecalis strain AN70 chromosome|Alcaligenes faecalis strain P156 chromosome|Alcaligenes faecalis strain FDAARGOS_491 chromosome|Alcaligenes faecalis strain DSM 30030 chromosome|Alcaligenes faecalis strain JQ135 chromosome|Alcaligenes faecalis strain ZD02 chromosome|Alcaligenes faecalis strain ZD02|Alcaligenes faecalis strain MUB14 chromosome|Alcaligenes faecalis strain MUB14 plasmid pMUB-AF14-2|Alcaligenes faecalis strain MUB14 plasmid pMUB-AF14-1|Alcaligenes faecalis strain AN70 plasmid pAN70-1||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Alcaligenes faecalis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~9558BC220458,~7154BC07425,~6384BC5535639,~0097BC4806328,~5434BC3070708,~2030BC0634896,~1271BC2149033,~5973BC8081217,~0420BC0645310,~8916BC8101701,~9570BC95145,~0969BC02743,~5307BC49481,"
+"[/Preset]"

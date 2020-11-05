@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Echovirus 25 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus 25.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human echovirus 25 strain HN-2|Human echovirus 25 strain JV-4||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Echovirus 25 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~1110BL0288,~2400BL6746,"
+"[/Preset]"

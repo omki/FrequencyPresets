@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Schistosoma mansoni (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Schistosoma mansoni.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Schistosoma mansoni mitochondrion|Schistosoma mansoni strain Puerto Rico chromosome 6|Schistosoma mansoni strain Puerto Rico chromosome 3|Schistosoma mansoni strain Puerto Rico chromosome 4|Schistosoma mansoni strain Puerto Rico chromosome 2|Schistosoma mansoni strain Puerto Rico chromosome W|Schistosoma mansoni strain Puerto Rico chromosome 1|Schistosoma mansoni strain Puerto Rico chromosome 5|Schistosoma mansoni strain Puerto Rico chromosome 7||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Schistosoma mansoni (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~5688BC28119,~9390BL86053253,~4738BL56912508,~2333BL83891043,~3997BL00493400,~4277BL30174855,~9624BL46183747,~7220BL0551218,~8874BL3663510,"
+"[/Preset]"

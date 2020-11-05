@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Atopobium parvulum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Atopobium parvulum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Atopobium parvulum DSM 20469|Atopobium parvulum DSM 20469||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Atopobium parvulum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~7611BC0140101,~5842BC3765935,"
+"[/Preset]"

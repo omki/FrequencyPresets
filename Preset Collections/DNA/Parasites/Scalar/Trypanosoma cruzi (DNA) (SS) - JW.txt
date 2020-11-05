@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Trypanosoma cruzi (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Trypanosoma cruzi.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Trypanosoma cruzi strain CL Brener kinetoplast maxicircle|Trypanosoma cruzi strain Esmeraldo kinetoplast maxicircle|Trypanosoma cruzi cruzi strain Dm28c mitochondrion|Trypanosoma cruzi SIRE associated site SZ39||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Trypanosoma cruzi (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~8594BC30424,~7735BC53755,~1537BC64493,~5985BL635,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Ctenocephalides (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Ctenocephalides.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ctenocephalides felis isolate EL2017-DRISC mitochondrion|Wolbachia endosymbiont of Ctenocephalides felis wCfeJ chromosome|Wolbachia endosymbiont of Ctenocephalides felis wCfeT chromosome||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Ctenocephalides (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~9318BC86543,~4590BC8569880,~5144BC0318394,"
+"[/Preset]"

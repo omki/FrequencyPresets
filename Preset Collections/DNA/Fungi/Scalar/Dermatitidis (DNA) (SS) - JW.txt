@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Dermatitidis (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Dermatitidis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Ajellomyces dermatitidis 5.8S rRNA, and ITS1 and ITS2|Exophiala dermatitidis strain CBS 109144 mitochondrion||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Dermatitidis (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2739BL466,~1960BC82989,"
+"[/Preset]"

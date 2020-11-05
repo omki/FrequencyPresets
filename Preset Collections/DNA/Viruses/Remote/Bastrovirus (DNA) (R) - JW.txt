@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Bastrovirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Bastrovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bastrovirus 4|Bastrovirus 3|Bastrovirus 7|Porcine bastrovirus isolate PBastV_USA 2017-1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Bastrovirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~6260BL6509,~7914BL4050,~9203BL6547,~3640BL0037,"
+"[/Preset]"

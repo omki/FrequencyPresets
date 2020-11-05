@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Bartonella grahamii (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Bartonella grahamii.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bartonella grahamii as4aup|Bartonella grahamii as4aup|Bartonella grahamii plasmid pBGR2|Bartonella grahamii plasmid pBGR1|Bartonella grahamii as4aup plasmid pBGR3||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Bartonella grahamii (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2137BC9401706,~7574BC3553223,~5070BC1635,~6724BC4300,~0436BC90131,"
+"[/Preset]"

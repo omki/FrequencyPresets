@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Naegleria fowleri (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Naegleria fowleri.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Naegleria fowleri isolate ATCC 30894 plasmid p_rDNA|Naegleria fowleri isolate ATCC 30894 mitochondrion|Naegleria fowleri mitochondrion|Naegleria fowleri strain V419 mitochondrion|Naegleria fowleri strain V511 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Naegleria fowleri (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~6966BC23095,~0304BC77745,~8909BC45928,~9553BC73394,~1843BC31845,"
+"[/Preset]"

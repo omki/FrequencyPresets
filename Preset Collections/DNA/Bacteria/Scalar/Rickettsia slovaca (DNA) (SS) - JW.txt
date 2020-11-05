@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rickettsia slovaca (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia slovaca.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia slovaca 13-B|Rickettsia slovaca 13-B|Rickettsia slovaca str. D-CWPP||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rickettsia slovaca (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~7810BC5733595,~8464BC9207086,~3276BC8598625,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Rickettsia africae (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Rickettsia africae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rickettsia africae ESF-5 plasmid pRAF|Rickettsia africae ESF-5|Rickettsia africae ESF-5||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Rickettsia africae (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0481BC63538,~8986BC1633212,~9530BC0432767,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Human T-lymphotropic virus 2 (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Human T-lymphotropic virus 2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human T-lymphotropic virus 2 isolate Pygmy 550602|Human T-lymphotropic virus 2 NIID18002 proviral DNA|Human T-lymphotropic virus 2 HTLV-2/Japan/NIID/001/2020 proviral DNA|Human T-lymphotropic virus 2 NIID18001 proviral DNA||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Human T-lymphotropic virus 2 (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8459BL2084,~6955BL5588,~7609BL0555,~9998BL6571,"
+"[/Preset]"

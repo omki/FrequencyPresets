@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Powassan virus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Powassan virus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Powassan virus strain Partizansk/2006|Powassan virus strain MeC17-166 isolate DTVMeC17|Powassan virus strain MeW17-228|Powassan virus strain P0375|Powassan virus strain Ulysses|Powassan virus isolate DTVWiB08|Powassan virus strain Pow-24|Powassan virus strain Ternay|Powassan virus isolate DTVWiC08|Powassan virus strain wicf9901 isolate DTVWi99|Powassan virus isolate DTVWiA08|Powassan virus strain 64-7062 isolate POWANY64|Powassan virus strain NFS001 isolate DTVMa96|Powassan virus strain LB|Powassan virus strain Nadezdinsk-1991 from Russia|Powassan virus strain Spassk-9|Powassan virus||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Powassan virus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~6983BL78881,~1320BL82733,~9826BL19925,~0580BL62248,~2869BL19197,~6216BL06394,~4812BL06354,~5466BL66154,~7755BL99453,~1293BL06374,~9798BL35999,~0342BL61552,"
+"[/Preset]"

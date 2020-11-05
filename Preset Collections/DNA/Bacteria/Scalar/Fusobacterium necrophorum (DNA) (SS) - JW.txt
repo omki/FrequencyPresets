@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Fusobacterium necrophorum (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Fusobacterium necrophorum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Fusobacterium necrophorum subsp. funduliforme strain F1291 chromosome|Fusobacterium necrophorum subsp. funduliforme strain 1_1_36S chromosome|Fusobacterium necrophorum subsp. funduliforme strain F1260 chromosome|Fusobacterium necrophorum strain FDAARGOS_565 chromosome|Fusobacterium necrophorum subsp. necrophorum strain ATCC 25286 chromosome||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Fusobacterium necrophorum (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4232BC6043099,~8779BC0250301,~6275BC5326141,~5416BC8216652,~9228BC8049000,"
+"[/Preset]"

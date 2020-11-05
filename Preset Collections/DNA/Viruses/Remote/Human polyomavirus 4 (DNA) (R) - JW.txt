@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Human polyomavirus 4 (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Human polyomavirus 4.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human polyomavirus 4 isolate HPyV4/USA/AR001/2016|Human polyomavirus 4 strain vzwu1|Human polyomavirus 4 strain vzwu2|Human polyomavirus 4 strain vzwu3||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Human polyomavirus 4 (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1720BC7848,~9226BC6375,~7556BC1280,"
+"[/Preset]"

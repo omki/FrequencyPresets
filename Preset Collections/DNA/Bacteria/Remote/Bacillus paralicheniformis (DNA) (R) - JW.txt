@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Bacillus paralicheniformis (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Bacillus paralicheniformis.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Bacillus paralicheniformis strain MDJK30 chromosome|Bacillus paralicheniformis ATCC 9945a|Bacillus paralicheniformis ATCC 9945a|Bacillus paralicheniformis strain Bac84 chromosome|Bacillus paralicheniformis strain FA6 chromosome|Bacillus paralicheniformis strain Bac48 chromosome|Bacillus paralicheniformis strain CBMAI 1303 chromosome|Bacillus paralicheniformis strain 14DA11 chromosome|Bacillus paralicheniformis strain A4-3 chromosome|Bacillus paralicheniformis strain BL-09||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Bacillus paralicheniformis (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~3223BC0963245,~7925BC4043274,~2373BC1772980,~9978BC8327188,~1522BC0146590,~2811BC0334924,~7359BC8327305,~5855BC4611374,~6409BL7515985,"
+"[/Preset]"

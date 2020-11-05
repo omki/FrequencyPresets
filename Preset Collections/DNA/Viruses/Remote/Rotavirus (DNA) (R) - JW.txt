@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Rotavirus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Rotavirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19|Adult diarrheal rotavirus strain J19||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Rotavirus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~0881BL0969,~8487BL2216,~9031BL6991,~1320BL7068,~8281BL4130,~6786BL5331,~4917BL5936,~9729BL110,~3167BL447,~1663BL038,~9903BL131,"
+"[/Preset]"

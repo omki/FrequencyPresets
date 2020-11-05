@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Eczema (Atopic Dermatitis) (DNA) (R) - JW"
+"Preset_Notes=This preset holds data for pathogens linked to eczema (atopic dermatitis).||Eczema (atopic dermatitis) is a condition where patches of skin become inflamed, itchy, red, cracked, and rough. Blisters may sometimes occur.||It most often begins before age 5, and may persist into adolescence and adulthood. It can flare up periodically, and then clear up for a time, even after several years.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Malassezia globosa strain CBS7966 mitochondrion|Malassezia globosa culture CBS:7966 mitochondrion|Malassezia globosa culture CBS:7874 mitochondrion|Malassezia globosa culture CBS:7990 mitochondrion|Malassezia sympodialis culture CBS:96806 mitochondrion|Malassezia sympodialis culture CBS:44340 mitochondrion|Malassezia sympodialis mycovirus isolate MsMV1||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Eczema (Atopic Dermatitis) (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~1973BC78694,~6310BC47220,~4816BC84191,~5560BC42630,~6859BC01929,~1206BC85656,~9792BL6347,"
+"[/Preset]"

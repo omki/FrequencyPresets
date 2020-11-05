@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Babesia duncani (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Babesia duncani.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Babesia duncani isolate WA-1 apicoplast|Babesia duncani isolate WA-1 mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Babesia duncani (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~4166BC59726,~2761BC6053,"
+"[/Preset]"

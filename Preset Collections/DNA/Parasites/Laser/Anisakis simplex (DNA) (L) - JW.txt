@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Anisakis simplex (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Anisakis simplex.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Anisakis simplex C Nascetti et al., 1986 isolate 2c mitochondrion|Anisakis simplex mitochondrial DNA|Anisakis simplex isolate S7 mitochondrion|Anisakis simplex isolate 5_4 mitochondrion|Anisakis simplex isolate Tb1 mitochondrion|Anisakis simplex isolate S6 mitochondrion|Anisakis simplex isolate BA70 mitochondrion|Anisakis simplex isolate J3 mitochondrion|Anisakis simplex isolate J1 mitochondrion|Anisakis simplex isolate 126r mitochondrion|Anisakis simplex mitochondrion|Anisakis simplex isolate BA65 mitochondrion|Anisakis simplex mitochondrion|Anisakis simplex isolate J4 mitochondrion|Anisakis simplex isolate S8 mitochondrion|Anisakis simplex mitochondrion|Anisakis simplex isolate BA60 mitochondrion||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Anisakis simplex (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~0038BC47923,~2427BC05337,~6865BC17937,~4360BC69554,~5014BC24060,~7304BC04248,~1741BC69519,~9347BC04917,~0901BC24053,~5603BC04860,~9150BC05114,~7646BC04711,~5887BC39503,~0699BC95393,~4037BC04807,~2532BC34201,~1763BC08889,"
+"[/Preset]"

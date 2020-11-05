@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Echovirus E18 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Echovirus E18.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Echovirus E18 isolate NSW-V13A-2008-ECHO18|Echovirus E18 strain A86/YN/CHN/2016|Echovirus E18 strain A83/YN/CHN/2016|Echovirus E18 strain 12G5|Echovirus E18 strain USA/2015/CA-RGDS-1049|Echovirus E18 isolate E18-221/HeB/CHN/2015|Echovirus E18 isolate E18-291/HeB/CHN/2015|Echovirus E18 isolate E18-314/HB/CHN/2015|Echovirus E18 isolate E18-393/HeB/CHN/2015|Echovirus E18 isolate E18-398/HeB/CHN/2015|Echovirus E18 isolate E18-HeB15-54462/HeB/CHN/2015|Echovirus E18 isolate E18-HeB15-54498/HeB/CHN/2015|Echovirus E18 isolate LJ/0530/2019|Echovirus E18 isolate LJ/0601/2019|Echovirus E18 strain 12J3||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Echovirus E18 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~2859BL0522,~3148BL2544,~0009BL5344,~6181BL2850,~7735BL3534,~1547BL4806,"
+"[/Preset]"

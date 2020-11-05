@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Malassezia slooffiae (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Malassezia slooffiae.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Malassezia slooffiae culture CBS:7956 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Malassezia slooffiae (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~8112BC06473,"
+"[/Preset]"

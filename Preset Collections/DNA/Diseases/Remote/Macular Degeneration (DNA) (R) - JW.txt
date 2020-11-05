@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Macular Degeneration (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data of micro-organisms associated with macular degeneration.||Macular degeneration, also known as age-related macular degeneration (AMD or ARMD), is a medical condition which may result in blurred or no vision in the center of the visual field.||People with very advanced macular degeneration are considered legally blind. Even so, since the rest of the retina is still working, they retain their peripheral vision (or side vision).||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Cynomolgus cytomegalovirus isolate 31906|Cynomolgus cytomegalovirus isolate 31907|Cynomolgus cytomegalovirus isolate 31908|Human cytomegalovirus strain AD169|Mandrillus leucophaeus cytomegalovirus isolate OCOM6-2|Rhesus cytomegalovirus strain 68-1|UNVERIFIED_ASMBLY: Cynomolgus cytomegalovirus isolate 31909||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Macular Degeneration (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7959BL065433,~2651BL287408,~6108BL379911,~4604BL288978,~3835BL454023,~7647BL256036,~2085BL379524,"
+"[/Preset]"

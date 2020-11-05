@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Enterococcus avium (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Enterococcus avium.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Enterococcus avium G-15 DNA|Enterococcus avium strain FDAARGOS_184 chromosome|Enterococcus avium strain LC0559/18 plasmid pLC055918-1|Enterococcus avium strain LC0559/18 plasmid pLC055918-1|Enterococcus avium strain 352 chromosome|Enterococcus avium strain LC0559/18 plasmid pLC055918-2|Enterococcus avium strain LC0559/18 plasmid pLC055918-2|Enterococcus avium strain 19081 plasmid pEA19081||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Enterococcus avium (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~5614BC4459464,~3119BC4931561,~1440BC28844,~5152BC8902354,~0590BC95923,~8196BC77097,"
+"[/Preset]"

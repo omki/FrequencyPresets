@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Scalar\Spooky Scalar General (SS) - JW"
+"PresetName=Rosavirus 2 (DNA) (SS) - JW"
+"Preset_Notes=This preset contains DNA data for Rosavirus 2.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Rosavirus 2 strain GA7403||Please refer to the Spooky2 Scalar User's Guide for more information."
+"Loaded_Programs=Rosavirus 2 (DNA) (SS) - JW (CUST)"
+"Loaded_Frequencies=~4556BL2738,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Candida labiduridarum (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Candida labiduridarum.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Candida labiduridarum strain NRRL Y-27940 mitochondrion||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Candida labiduridarum (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~6294BC52489,"
+"[/Preset]"

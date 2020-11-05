@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Remote\DNA (Dual) (R) - JW.txt"
+"PresetName=Aspergillus fumigatus (DNA) (R) - JW"
+"Preset_Notes=This preset contains DNA data for Aspergillus fumigatus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Aspergillus fumigatus mitochondrion|Aspergillus fumigatus strain A1163 mitochondrion|Aspergillus fumigatus strain SGAir0713 mitochondrion|Aspergillus fumigatus strain AF210 mitochondrion|Aspergillus fumigatus strain AF293 mitochondrion||Please note that you will have no indication lights on your remote. The speeds of these frequencies are too high for the LEDs to keep up!||Connect your Spooky Remote to the 'BN' port of Spooky Boost."
+"Loaded_Programs=Aspergillus fumigatus (DNA) (R) - JW (CUST)"
+"Loaded_Frequencies=~7000BC61806,~1448BC50675,~9043BC49350,~0607BC70112,~2987BC56435,"
+"[/Preset]"

@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Plasma\Spooky Plasma Advanced (P) - JW"
+"PresetName=Agrobacterium radiobacter (DNA) (P) - JW"
+"Preset_Notes=This preset contains DNA data for Agrobacterium radiobacter.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Agrobacterium radiobacter K84 plasmid pAtK84b|Agrobacterium radiobacter K84 chromosome 2|Agrobacterium radiobacter K84 plasmid pAtK84c|Agrobacterium radiobacter K84 chromosome 1|Agrobacterium radiobacter K84 plasmid pAgK84||Connect OUT 1 to Input. Out 2 to Modulation."
+"Loaded_Programs=Agrobacterium radiobacter (DNA) (P) - JW (CUST)"
+"Loaded_Frequencies=~1904BC008483,~2658BC8089423,~3947BC249032,~8384BC4801727,~6980BC42850,"
+"[/Preset]"

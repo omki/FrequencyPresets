@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human feces smacovirus (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human feces smacovirus.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human feces smacovirus 3 strain SmaCV3|Human feces smacovirus 3 isolate P21|Human feces smacovirus 2 strain SmaCV2|Human feces smacovirus 3 isolate SmaCV3_ETH_P15_2016||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human feces smacovirus (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~5635BC4123,~9438BC2840,~4885BC3557,~2381BL2101,"
+"[/Preset]"

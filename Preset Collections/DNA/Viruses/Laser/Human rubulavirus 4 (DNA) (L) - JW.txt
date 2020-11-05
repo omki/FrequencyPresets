@@ -1,0 +1,7 @@
+"[Preset]"
+"Base_Preset=\Shell (Empty) Presets\Spooky Cold Laser (L) - JW"
+"PresetName=Human rubulavirus 4 (DNA) (L) - JW"
+"Preset_Notes=This preset contains DNA data for Human rubulavirus 4.||Run this preset for as long as possible. We recommend you also run detox programs in Remote mode.||This preset contains the following strains:|Human rubulavirus 4 strain t146a303_HPIV4|Human rubulavirus 4 strain t146a296_HPIV4||Connect Spooky Laser directly to Out 1 of your generator. Do not use a boosted output.||As with all laser products, do not shine the light directly into your eyes. Use the protection glasses provided."
+"Loaded_Programs=Human rubulavirus 4 (DNA) (L) - JW (CUST)"
+"Loaded_Frequencies=~4931BL01906,~3162BL33495,"
+"[/Preset]"
